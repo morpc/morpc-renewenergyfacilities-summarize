@@ -1,0 +1,301 @@
+NAME,GEOID,YEAR,FuelType,value
+15-County Region,001,2000,count_Biofuel,0.0
+15-County Region,001,2001,count_Biofuel,0.0
+15-County Region,001,2002,count_Biofuel,0
+15-County Region,001,2003,count_Biofuel,0
+15-County Region,001,2004,count_Biofuel,0.0
+15-County Region,001,2005,count_Biofuel,0.0
+15-County Region,001,2006,count_Biofuel,0.0
+15-County Region,001,2007,count_Biofuel,0.0
+15-County Region,001,2008,count_Biofuel,0.0
+15-County Region,001,2009,count_Biofuel,0.0
+15-County Region,001,2010,count_Biofuel,0.0
+15-County Region,001,2011,count_Biofuel,0.0
+15-County Region,001,2012,count_Biofuel,0.0
+15-County Region,001,2013,count_Biofuel,1.0
+15-County Region,001,2014,count_Biofuel,0.0
+15-County Region,001,2015,count_Biofuel,0.0
+15-County Region,001,2016,count_Biofuel,0.0
+15-County Region,001,2017,count_Biofuel,0.0
+15-County Region,001,2018,count_Biofuel,0.0
+15-County Region,001,2019,count_Biofuel,0.0
+15-County Region,001,2020,count_Biofuel,0.0
+15-County Region,001,2021,count_Biofuel,0.0
+15-County Region,001,2022,count_Biofuel,0.0
+15-County Region,001,2023,count_Biofuel,0.0
+15-County Region,001,2024,count_Biofuel,0.0
+15-County Region,001,2000,count_Energy Storage,0.0
+15-County Region,001,2001,count_Energy Storage,0.0
+15-County Region,001,2002,count_Energy Storage,0
+15-County Region,001,2003,count_Energy Storage,0
+15-County Region,001,2004,count_Energy Storage,0.0
+15-County Region,001,2005,count_Energy Storage,0.0
+15-County Region,001,2006,count_Energy Storage,0.0
+15-County Region,001,2007,count_Energy Storage,0.0
+15-County Region,001,2008,count_Energy Storage,0.0
+15-County Region,001,2009,count_Energy Storage,0.0
+15-County Region,001,2010,count_Energy Storage,0.0
+15-County Region,001,2011,count_Energy Storage,0.0
+15-County Region,001,2012,count_Energy Storage,0.0
+15-County Region,001,2013,count_Energy Storage,1.0
+15-County Region,001,2014,count_Energy Storage,0.0
+15-County Region,001,2015,count_Energy Storage,0.0
+15-County Region,001,2016,count_Energy Storage,0.0
+15-County Region,001,2017,count_Energy Storage,1.0
+15-County Region,001,2018,count_Energy Storage,0.0
+15-County Region,001,2019,count_Energy Storage,1.0
+15-County Region,001,2020,count_Energy Storage,6.0
+15-County Region,001,2021,count_Energy Storage,11.0
+15-County Region,001,2022,count_Energy Storage,31.0
+15-County Region,001,2023,count_Energy Storage,79.0
+15-County Region,001,2024,count_Energy Storage,20.0
+15-County Region,001,2000,count_Natural Gas/Propane,0.0
+15-County Region,001,2001,count_Natural Gas/Propane,0.0
+15-County Region,001,2002,count_Natural Gas/Propane,0
+15-County Region,001,2003,count_Natural Gas/Propane,0
+15-County Region,001,2004,count_Natural Gas/Propane,0.0
+15-County Region,001,2005,count_Natural Gas/Propane,0.0
+15-County Region,001,2006,count_Natural Gas/Propane,0.0
+15-County Region,001,2007,count_Natural Gas/Propane,0.0
+15-County Region,001,2008,count_Natural Gas/Propane,0.0
+15-County Region,001,2009,count_Natural Gas/Propane,0.0
+15-County Region,001,2010,count_Natural Gas/Propane,0.0
+15-County Region,001,2011,count_Natural Gas/Propane,0.0
+15-County Region,001,2012,count_Natural Gas/Propane,0.0
+15-County Region,001,2013,count_Natural Gas/Propane,0.0
+15-County Region,001,2014,count_Natural Gas/Propane,0.0
+15-County Region,001,2015,count_Natural Gas/Propane,1.0
+15-County Region,001,2016,count_Natural Gas/Propane,0.0
+15-County Region,001,2017,count_Natural Gas/Propane,0.0
+15-County Region,001,2018,count_Natural Gas/Propane,1.0
+15-County Region,001,2019,count_Natural Gas/Propane,0.0
+15-County Region,001,2020,count_Natural Gas/Propane,0.0
+15-County Region,001,2021,count_Natural Gas/Propane,0.0
+15-County Region,001,2022,count_Natural Gas/Propane,0.0
+15-County Region,001,2023,count_Natural Gas/Propane,2.0
+15-County Region,001,2024,count_Natural Gas/Propane,0.0
+15-County Region,001,2000,count_Solar,0.0
+15-County Region,001,2001,count_Solar,0.0
+15-County Region,001,2002,count_Solar,0
+15-County Region,001,2003,count_Solar,0
+15-County Region,001,2004,count_Solar,0.0
+15-County Region,001,2005,count_Solar,1.0
+15-County Region,001,2006,count_Solar,5.0
+15-County Region,001,2007,count_Solar,4.0
+15-County Region,001,2008,count_Solar,3.0
+15-County Region,001,2009,count_Solar,15.0
+15-County Region,001,2010,count_Solar,32.0
+15-County Region,001,2011,count_Solar,56.0
+15-County Region,001,2012,count_Solar,49.0
+15-County Region,001,2013,count_Solar,76.0
+15-County Region,001,2014,count_Solar,59.0
+15-County Region,001,2015,count_Solar,106.0
+15-County Region,001,2016,count_Solar,118.0
+15-County Region,001,2017,count_Solar,171.0
+15-County Region,001,2018,count_Solar,241.0
+15-County Region,001,2019,count_Solar,554.0
+15-County Region,001,2020,count_Solar,683.0
+15-County Region,001,2021,count_Solar,1090.0
+15-County Region,001,2022,count_Solar,1418.0
+15-County Region,001,2023,count_Solar,1990.0
+15-County Region,001,2024,count_Solar,1501.0
+15-County Region,001,2000,count_Waste Gas,0.0
+15-County Region,001,2001,count_Waste Gas,0.0
+15-County Region,001,2002,count_Waste Gas,0
+15-County Region,001,2003,count_Waste Gas,0
+15-County Region,001,2004,count_Waste Gas,0.0
+15-County Region,001,2005,count_Waste Gas,0.0
+15-County Region,001,2006,count_Waste Gas,0.0
+15-County Region,001,2007,count_Waste Gas,0.0
+15-County Region,001,2008,count_Waste Gas,0.0
+15-County Region,001,2009,count_Waste Gas,0.0
+15-County Region,001,2010,count_Waste Gas,0.0
+15-County Region,001,2011,count_Waste Gas,0.0
+15-County Region,001,2012,count_Waste Gas,0.0
+15-County Region,001,2013,count_Waste Gas,0.0
+15-County Region,001,2014,count_Waste Gas,0.0
+15-County Region,001,2015,count_Waste Gas,0.0
+15-County Region,001,2016,count_Waste Gas,0.0
+15-County Region,001,2017,count_Waste Gas,1.0
+15-County Region,001,2018,count_Waste Gas,0.0
+15-County Region,001,2019,count_Waste Gas,0.0
+15-County Region,001,2020,count_Waste Gas,0.0
+15-County Region,001,2021,count_Waste Gas,0.0
+15-County Region,001,2022,count_Waste Gas,0.0
+15-County Region,001,2023,count_Waste Gas,0.0
+15-County Region,001,2024,count_Waste Gas,0.0
+15-County Region,001,2000,count_Wind,1.0
+15-County Region,001,2001,count_Wind,1.0
+15-County Region,001,2002,count_Wind,0
+15-County Region,001,2003,count_Wind,0
+15-County Region,001,2004,count_Wind,1.0
+15-County Region,001,2005,count_Wind,2.0
+15-County Region,001,2006,count_Wind,0.0
+15-County Region,001,2007,count_Wind,0.0
+15-County Region,001,2008,count_Wind,1.0
+15-County Region,001,2009,count_Wind,4.0
+15-County Region,001,2010,count_Wind,9.0
+15-County Region,001,2011,count_Wind,1.0
+15-County Region,001,2012,count_Wind,1.0
+15-County Region,001,2013,count_Wind,1.0
+15-County Region,001,2014,count_Wind,0.0
+15-County Region,001,2015,count_Wind,0.0
+15-County Region,001,2016,count_Wind,0.0
+15-County Region,001,2017,count_Wind,0.0
+15-County Region,001,2018,count_Wind,1.0
+15-County Region,001,2019,count_Wind,0.0
+15-County Region,001,2020,count_Wind,0.0
+15-County Region,001,2021,count_Wind,0.0
+15-County Region,001,2022,count_Wind,0.0
+15-County Region,001,2023,count_Wind,0.0
+15-County Region,001,2024,count_Wind,0.0
+15-County Region,001,2000,total_Biofuel,0.0
+15-County Region,001,2001,total_Biofuel,0.0
+15-County Region,001,2002,total_Biofuel,0
+15-County Region,001,2003,total_Biofuel,0
+15-County Region,001,2004,total_Biofuel,0.0
+15-County Region,001,2005,total_Biofuel,0.0
+15-County Region,001,2006,total_Biofuel,0.0
+15-County Region,001,2007,total_Biofuel,0.0
+15-County Region,001,2008,total_Biofuel,0.0
+15-County Region,001,2009,total_Biofuel,0.0
+15-County Region,001,2010,total_Biofuel,0.0
+15-County Region,001,2011,total_Biofuel,0.0
+15-County Region,001,2012,total_Biofuel,0.0
+15-County Region,001,2013,total_Biofuel,400.0
+15-County Region,001,2014,total_Biofuel,0.0
+15-County Region,001,2015,total_Biofuel,0.0
+15-County Region,001,2016,total_Biofuel,0.0
+15-County Region,001,2017,total_Biofuel,0.0
+15-County Region,001,2018,total_Biofuel,0.0
+15-County Region,001,2019,total_Biofuel,0.0
+15-County Region,001,2020,total_Biofuel,0.0
+15-County Region,001,2021,total_Biofuel,0.0
+15-County Region,001,2022,total_Biofuel,0.0
+15-County Region,001,2023,total_Biofuel,0.0
+15-County Region,001,2024,total_Biofuel,0.0
+15-County Region,001,2000,total_Energy Storage,0.0
+15-County Region,001,2001,total_Energy Storage,0.0
+15-County Region,001,2002,total_Energy Storage,0
+15-County Region,001,2003,total_Energy Storage,0
+15-County Region,001,2004,total_Energy Storage,0.0
+15-County Region,001,2005,total_Energy Storage,0.0
+15-County Region,001,2006,total_Energy Storage,0.0
+15-County Region,001,2007,total_Energy Storage,0.0
+15-County Region,001,2008,total_Energy Storage,0.0
+15-County Region,001,2009,total_Energy Storage,0.0
+15-County Region,001,2010,total_Energy Storage,0.0
+15-County Region,001,2011,total_Energy Storage,0.0
+15-County Region,001,2012,total_Energy Storage,0.0
+15-County Region,001,2013,total_Energy Storage,4000.0
+15-County Region,001,2014,total_Energy Storage,0.0
+15-County Region,001,2015,total_Energy Storage,0.0
+15-County Region,001,2016,total_Energy Storage,0.0
+15-County Region,001,2017,total_Energy Storage,100.0
+15-County Region,001,2018,total_Energy Storage,0.0
+15-County Region,001,2019,total_Energy Storage,250.0
+15-County Region,001,2020,total_Energy Storage,600.0
+15-County Region,001,2021,total_Energy Storage,78.28
+15-County Region,001,2022,total_Energy Storage,132.76
+15-County Region,001,2023,total_Energy Storage,438.67
+15-County Region,001,2024,total_Energy Storage,1558.12
+15-County Region,001,2000,total_Natural Gas/Propane,0.0
+15-County Region,001,2001,total_Natural Gas/Propane,0.0
+15-County Region,001,2002,total_Natural Gas/Propane,0
+15-County Region,001,2003,total_Natural Gas/Propane,0
+15-County Region,001,2004,total_Natural Gas/Propane,0.0
+15-County Region,001,2005,total_Natural Gas/Propane,0.0
+15-County Region,001,2006,total_Natural Gas/Propane,0.0
+15-County Region,001,2007,total_Natural Gas/Propane,0.0
+15-County Region,001,2008,total_Natural Gas/Propane,0.0
+15-County Region,001,2009,total_Natural Gas/Propane,0.0
+15-County Region,001,2010,total_Natural Gas/Propane,0.0
+15-County Region,001,2011,total_Natural Gas/Propane,0.0
+15-County Region,001,2012,total_Natural Gas/Propane,0.0
+15-County Region,001,2013,total_Natural Gas/Propane,0.0
+15-County Region,001,2014,total_Natural Gas/Propane,0.0
+15-County Region,001,2015,total_Natural Gas/Propane,248.0
+15-County Region,001,2016,total_Natural Gas/Propane,0.0
+15-County Region,001,2017,total_Natural Gas/Propane,0.0
+15-County Region,001,2018,total_Natural Gas/Propane,15036.0
+15-County Region,001,2019,total_Natural Gas/Propane,0.0
+15-County Region,001,2020,total_Natural Gas/Propane,0.0
+15-County Region,001,2021,total_Natural Gas/Propane,0.0
+15-County Region,001,2022,total_Natural Gas/Propane,0.0
+15-County Region,001,2023,total_Natural Gas/Propane,4804.0
+15-County Region,001,2024,total_Natural Gas/Propane,0.0
+15-County Region,001,2000,total_Solar,0.0
+15-County Region,001,2001,total_Solar,0.0
+15-County Region,001,2002,total_Solar,0
+15-County Region,001,2003,total_Solar,0
+15-County Region,001,2004,total_Solar,0.0
+15-County Region,001,2005,total_Solar,1.65
+15-County Region,001,2006,total_Solar,13.86
+15-County Region,001,2007,total_Solar,25.05
+15-County Region,001,2008,total_Solar,69.3
+15-County Region,001,2009,total_Solar,77.4
+15-County Region,001,2010,total_Solar,445.49
+15-County Region,001,2011,total_Solar,1305.165
+15-County Region,001,2012,total_Solar,6853.46
+15-County Region,001,2013,total_Solar,1690.355
+15-County Region,001,2014,total_Solar,2244.2400000000002
+15-County Region,001,2015,total_Solar,1400.32
+15-County Region,001,2016,total_Solar,1373.165
+15-County Region,001,2017,total_Solar,4905.78
+15-County Region,001,2018,total_Solar,2522.11
+15-County Region,001,2019,total_Solar,6608.96
+15-County Region,001,2020,total_Solar,4931.88
+15-County Region,001,2021,total_Solar,8520.562
+15-County Region,001,2022,total_Solar,10393.91
+15-County Region,001,2023,total_Solar,23772.402
+15-County Region,001,2024,total_Solar,13681.038
+15-County Region,001,2000,total_Waste Gas,0.0
+15-County Region,001,2001,total_Waste Gas,0.0
+15-County Region,001,2002,total_Waste Gas,0
+15-County Region,001,2003,total_Waste Gas,0
+15-County Region,001,2004,total_Waste Gas,0.0
+15-County Region,001,2005,total_Waste Gas,0.0
+15-County Region,001,2006,total_Waste Gas,0.0
+15-County Region,001,2007,total_Waste Gas,0.0
+15-County Region,001,2008,total_Waste Gas,0.0
+15-County Region,001,2009,total_Waste Gas,0.0
+15-County Region,001,2010,total_Waste Gas,0.0
+15-County Region,001,2011,total_Waste Gas,0.0
+15-County Region,001,2012,total_Waste Gas,0.0
+15-County Region,001,2013,total_Waste Gas,0.0
+15-County Region,001,2014,total_Waste Gas,0.0
+15-County Region,001,2015,total_Waste Gas,0.0
+15-County Region,001,2016,total_Waste Gas,0.0
+15-County Region,001,2017,total_Waste Gas,3500.0
+15-County Region,001,2018,total_Waste Gas,0.0
+15-County Region,001,2019,total_Waste Gas,0.0
+15-County Region,001,2020,total_Waste Gas,0.0
+15-County Region,001,2021,total_Waste Gas,0.0
+15-County Region,001,2022,total_Waste Gas,0.0
+15-County Region,001,2023,total_Waste Gas,0.0
+15-County Region,001,2024,total_Waste Gas,0.0
+15-County Region,001,2000,total_Wind,10.0
+15-County Region,001,2001,total_Wind,18.0
+15-County Region,001,2002,total_Wind,0
+15-County Region,001,2003,total_Wind,0
+15-County Region,001,2004,total_Wind,1.0
+15-County Region,001,2005,total_Wind,8.0
+15-County Region,001,2006,total_Wind,0.0
+15-County Region,001,2007,total_Wind,0.0
+15-County Region,001,2008,total_Wind,1.8
+15-County Region,001,2009,total_Wind,47.8
+15-County Region,001,2010,total_Wind,161.8
+15-County Region,001,2011,total_Wind,2.4
+15-County Region,001,2012,total_Wind,1.5
+15-County Region,001,2013,total_Wind,30.0
+15-County Region,001,2014,total_Wind,0.0
+15-County Region,001,2015,total_Wind,0.0
+15-County Region,001,2016,total_Wind,0.0
+15-County Region,001,2017,total_Wind,0.0
+15-County Region,001,2018,total_Wind,4500.0
+15-County Region,001,2019,total_Wind,0.0
+15-County Region,001,2020,total_Wind,0.0
+15-County Region,001,2021,total_Wind,0.0
+15-County Region,001,2022,total_Wind,0.0
+15-County Region,001,2023,total_Wind,0.0
+15-County Region,001,2024,total_Wind,0.0
