@@ -1,0 +1,2881 @@
+County,COUNTYFP,Year,Technology,value
+Delaware,39041,2009,count_Biomass,0
+Delaware,39041,2010,count_Biomass,0.0
+Delaware,39041,2011,count_Biomass,0.0
+Delaware,39041,2012,count_Biomass,0.0
+Delaware,39041,2013,count_Biomass,0.0
+Delaware,39041,2014,count_Biomass,0.0
+Delaware,39041,2015,count_Biomass,0.0
+Delaware,39041,2016,count_Biomass,0.0
+Delaware,39041,2017,count_Biomass,0.0
+Delaware,39041,2018,count_Biomass,0.0
+Delaware,39041,2019,count_Biomass,0.0
+Delaware,39041,2020,count_Biomass,0.0
+Delaware,39041,2021,count_Biomass,0.0
+Delaware,39041,2022,count_Biomass,0.0
+Delaware,39041,2023,count_Biomass,0.0
+Delaware,39041,2024,count_Biomass,0.0
+Delaware,39041,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Delaware,39041,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2009,count_Hydroelectric,0
+Delaware,39041,2010,count_Hydroelectric,0.0
+Delaware,39041,2011,count_Hydroelectric,0.0
+Delaware,39041,2012,count_Hydroelectric,0.0
+Delaware,39041,2013,count_Hydroelectric,0.0
+Delaware,39041,2014,count_Hydroelectric,0.0
+Delaware,39041,2015,count_Hydroelectric,0.0
+Delaware,39041,2016,count_Hydroelectric,0.0
+Delaware,39041,2017,count_Hydroelectric,0.0
+Delaware,39041,2018,count_Hydroelectric,0.0
+Delaware,39041,2019,count_Hydroelectric,0.0
+Delaware,39041,2020,count_Hydroelectric,0.0
+Delaware,39041,2021,count_Hydroelectric,0.0
+Delaware,39041,2022,count_Hydroelectric,0.0
+Delaware,39041,2023,count_Hydroelectric,0.0
+Delaware,39041,2024,count_Hydroelectric,0.0
+Delaware,39041,2009,count_Solar Photovoltaic,0
+Delaware,39041,2010,count_Solar Photovoltaic,16.0
+Delaware,39041,2011,count_Solar Photovoltaic,77.0
+Delaware,39041,2012,count_Solar Photovoltaic,21.0
+Delaware,39041,2013,count_Solar Photovoltaic,18.0
+Delaware,39041,2014,count_Solar Photovoltaic,14.0
+Delaware,39041,2015,count_Solar Photovoltaic,13.0
+Delaware,39041,2016,count_Solar Photovoltaic,23.0
+Delaware,39041,2017,count_Solar Photovoltaic,35.0
+Delaware,39041,2018,count_Solar Photovoltaic,7.0
+Delaware,39041,2019,count_Solar Photovoltaic,12.0
+Delaware,39041,2020,count_Solar Photovoltaic,5.0
+Delaware,39041,2021,count_Solar Photovoltaic,2.0
+Delaware,39041,2022,count_Solar Photovoltaic,8.0
+Delaware,39041,2023,count_Solar Photovoltaic,7.0
+Delaware,39041,2024,count_Solar Photovoltaic,46.0
+Delaware,39041,2009,count_Solid Waste,0
+Delaware,39041,2010,count_Solid Waste,0.0
+Delaware,39041,2011,count_Solid Waste,0.0
+Delaware,39041,2012,count_Solid Waste,0.0
+Delaware,39041,2013,count_Solid Waste,0.0
+Delaware,39041,2014,count_Solid Waste,0.0
+Delaware,39041,2015,count_Solid Waste,0.0
+Delaware,39041,2016,count_Solid Waste,0.0
+Delaware,39041,2017,count_Solid Waste,0.0
+Delaware,39041,2018,count_Solid Waste,0.0
+Delaware,39041,2019,count_Solid Waste,0.0
+Delaware,39041,2020,count_Solid Waste,0.0
+Delaware,39041,2021,count_Solid Waste,0.0
+Delaware,39041,2022,count_Solid Waste,0.0
+Delaware,39041,2023,count_Solid Waste,0.0
+Delaware,39041,2024,count_Solid Waste,0.0
+Delaware,39041,2009,count_Wind,0
+Delaware,39041,2010,count_Wind,0.0
+Delaware,39041,2011,count_Wind,0.0
+Delaware,39041,2012,count_Wind,0.0
+Delaware,39041,2013,count_Wind,0.0
+Delaware,39041,2014,count_Wind,0.0
+Delaware,39041,2015,count_Wind,0.0
+Delaware,39041,2016,count_Wind,0.0
+Delaware,39041,2017,count_Wind,0.0
+Delaware,39041,2018,count_Wind,0.0
+Delaware,39041,2019,count_Wind,0.0
+Delaware,39041,2020,count_Wind,1.0
+Delaware,39041,2021,count_Wind,0.0
+Delaware,39041,2022,count_Wind,0.0
+Delaware,39041,2023,count_Wind,0.0
+Delaware,39041,2024,count_Wind,1.0
+Delaware,39041,2009,total_Biomass,0
+Delaware,39041,2010,total_Biomass,0.0
+Delaware,39041,2011,total_Biomass,0.0
+Delaware,39041,2012,total_Biomass,0.0
+Delaware,39041,2013,total_Biomass,0.0
+Delaware,39041,2014,total_Biomass,0.0
+Delaware,39041,2015,total_Biomass,0.0
+Delaware,39041,2016,total_Biomass,0.0
+Delaware,39041,2017,total_Biomass,0.0
+Delaware,39041,2018,total_Biomass,0.0
+Delaware,39041,2019,total_Biomass,0.0
+Delaware,39041,2020,total_Biomass,0.0
+Delaware,39041,2021,total_Biomass,0.0
+Delaware,39041,2022,total_Biomass,0.0
+Delaware,39041,2023,total_Biomass,0.0
+Delaware,39041,2024,total_Biomass,0.0
+Delaware,39041,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Delaware,39041,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Delaware,39041,2009,total_Hydroelectric,0
+Delaware,39041,2010,total_Hydroelectric,0.0
+Delaware,39041,2011,total_Hydroelectric,0.0
+Delaware,39041,2012,total_Hydroelectric,0.0
+Delaware,39041,2013,total_Hydroelectric,0.0
+Delaware,39041,2014,total_Hydroelectric,0.0
+Delaware,39041,2015,total_Hydroelectric,0.0
+Delaware,39041,2016,total_Hydroelectric,0.0
+Delaware,39041,2017,total_Hydroelectric,0.0
+Delaware,39041,2018,total_Hydroelectric,0.0
+Delaware,39041,2019,total_Hydroelectric,0.0
+Delaware,39041,2020,total_Hydroelectric,0.0
+Delaware,39041,2021,total_Hydroelectric,0.0
+Delaware,39041,2022,total_Hydroelectric,0.0
+Delaware,39041,2023,total_Hydroelectric,0.0
+Delaware,39041,2024,total_Hydroelectric,0.0
+Delaware,39041,2009,total_Solar Photovoltaic,0
+Delaware,39041,2010,total_Solar Photovoltaic,0.46637
+Delaware,39041,2011,total_Solar Photovoltaic,1.38571
+Delaware,39041,2012,total_Solar Photovoltaic,0.20308500000000002
+Delaware,39041,2013,total_Solar Photovoltaic,0.23489500000000002
+Delaware,39041,2014,total_Solar Photovoltaic,0.10539
+Delaware,39041,2015,total_Solar Photovoltaic,0.11434
+Delaware,39041,2016,total_Solar Photovoltaic,0.22404000000000002
+Delaware,39041,2017,total_Solar Photovoltaic,0.41034
+Delaware,39041,2018,total_Solar Photovoltaic,0.09249
+Delaware,39041,2019,total_Solar Photovoltaic,0.28685
+Delaware,39041,2020,total_Solar Photovoltaic,0.09698
+Delaware,39041,2021,total_Solar Photovoltaic,0.06112000000000001
+Delaware,39041,2022,total_Solar Photovoltaic,0.075565
+Delaware,39041,2023,total_Solar Photovoltaic,0.0713
+Delaware,39041,2024,total_Solar Photovoltaic,0.5392399999999999
+Delaware,39041,2009,total_Solid Waste,0
+Delaware,39041,2010,total_Solid Waste,0.0
+Delaware,39041,2011,total_Solid Waste,0.0
+Delaware,39041,2012,total_Solid Waste,0.0
+Delaware,39041,2013,total_Solid Waste,0.0
+Delaware,39041,2014,total_Solid Waste,0.0
+Delaware,39041,2015,total_Solid Waste,0.0
+Delaware,39041,2016,total_Solid Waste,0.0
+Delaware,39041,2017,total_Solid Waste,0.0
+Delaware,39041,2018,total_Solid Waste,0.0
+Delaware,39041,2019,total_Solid Waste,0.0
+Delaware,39041,2020,total_Solid Waste,0.0
+Delaware,39041,2021,total_Solid Waste,0.0
+Delaware,39041,2022,total_Solid Waste,0.0
+Delaware,39041,2023,total_Solid Waste,0.0
+Delaware,39041,2024,total_Solid Waste,0.0
+Delaware,39041,2009,total_Wind,0
+Delaware,39041,2010,total_Wind,0.0
+Delaware,39041,2011,total_Wind,0.0
+Delaware,39041,2012,total_Wind,0.0
+Delaware,39041,2013,total_Wind,0.0
+Delaware,39041,2014,total_Wind,0.0
+Delaware,39041,2015,total_Wind,0.0
+Delaware,39041,2016,total_Wind,0.0
+Delaware,39041,2017,total_Wind,0.0
+Delaware,39041,2018,total_Wind,0.0
+Delaware,39041,2019,total_Wind,0.0
+Delaware,39041,2020,total_Wind,42.5
+Delaware,39041,2021,total_Wind,0.0
+Delaware,39041,2022,total_Wind,0.0
+Delaware,39041,2023,total_Wind,0.0
+Delaware,39041,2024,total_Wind,55.36
+Fairfield,39045,2009,count_Biomass,0
+Fairfield,39045,2010,count_Biomass,0.0
+Fairfield,39045,2011,count_Biomass,0.0
+Fairfield,39045,2012,count_Biomass,0.0
+Fairfield,39045,2013,count_Biomass,0.0
+Fairfield,39045,2014,count_Biomass,0.0
+Fairfield,39045,2015,count_Biomass,0.0
+Fairfield,39045,2016,count_Biomass,0.0
+Fairfield,39045,2017,count_Biomass,0.0
+Fairfield,39045,2018,count_Biomass,0.0
+Fairfield,39045,2019,count_Biomass,0
+Fairfield,39045,2020,count_Biomass,0
+Fairfield,39045,2021,count_Biomass,0.0
+Fairfield,39045,2022,count_Biomass,0.0
+Fairfield,39045,2023,count_Biomass,0.0
+Fairfield,39045,2024,count_Biomass,0.0
+Fairfield,39045,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Fairfield,39045,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2019,count_Captured Heat from Biologically Derived Methane Gas,0
+Fairfield,39045,2020,count_Captured Heat from Biologically Derived Methane Gas,0
+Fairfield,39045,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2009,count_Hydroelectric,0
+Fairfield,39045,2010,count_Hydroelectric,0.0
+Fairfield,39045,2011,count_Hydroelectric,0.0
+Fairfield,39045,2012,count_Hydroelectric,0.0
+Fairfield,39045,2013,count_Hydroelectric,0.0
+Fairfield,39045,2014,count_Hydroelectric,0.0
+Fairfield,39045,2015,count_Hydroelectric,0.0
+Fairfield,39045,2016,count_Hydroelectric,0.0
+Fairfield,39045,2017,count_Hydroelectric,0.0
+Fairfield,39045,2018,count_Hydroelectric,0.0
+Fairfield,39045,2019,count_Hydroelectric,0
+Fairfield,39045,2020,count_Hydroelectric,0
+Fairfield,39045,2021,count_Hydroelectric,0.0
+Fairfield,39045,2022,count_Hydroelectric,0.0
+Fairfield,39045,2023,count_Hydroelectric,0.0
+Fairfield,39045,2024,count_Hydroelectric,0.0
+Fairfield,39045,2009,count_Solar Photovoltaic,0
+Fairfield,39045,2010,count_Solar Photovoltaic,1.0
+Fairfield,39045,2011,count_Solar Photovoltaic,2.0
+Fairfield,39045,2012,count_Solar Photovoltaic,4.0
+Fairfield,39045,2013,count_Solar Photovoltaic,7.0
+Fairfield,39045,2014,count_Solar Photovoltaic,3.0
+Fairfield,39045,2015,count_Solar Photovoltaic,1.0
+Fairfield,39045,2016,count_Solar Photovoltaic,4.0
+Fairfield,39045,2017,count_Solar Photovoltaic,4.0
+Fairfield,39045,2018,count_Solar Photovoltaic,1.0
+Fairfield,39045,2019,count_Solar Photovoltaic,0
+Fairfield,39045,2020,count_Solar Photovoltaic,0
+Fairfield,39045,2021,count_Solar Photovoltaic,1.0
+Fairfield,39045,2022,count_Solar Photovoltaic,4.0
+Fairfield,39045,2023,count_Solar Photovoltaic,7.0
+Fairfield,39045,2024,count_Solar Photovoltaic,37.0
+Fairfield,39045,2009,count_Solid Waste,0
+Fairfield,39045,2010,count_Solid Waste,0.0
+Fairfield,39045,2011,count_Solid Waste,0.0
+Fairfield,39045,2012,count_Solid Waste,0.0
+Fairfield,39045,2013,count_Solid Waste,0.0
+Fairfield,39045,2014,count_Solid Waste,0.0
+Fairfield,39045,2015,count_Solid Waste,0.0
+Fairfield,39045,2016,count_Solid Waste,0.0
+Fairfield,39045,2017,count_Solid Waste,0.0
+Fairfield,39045,2018,count_Solid Waste,0.0
+Fairfield,39045,2019,count_Solid Waste,0
+Fairfield,39045,2020,count_Solid Waste,0
+Fairfield,39045,2021,count_Solid Waste,0.0
+Fairfield,39045,2022,count_Solid Waste,0.0
+Fairfield,39045,2023,count_Solid Waste,0.0
+Fairfield,39045,2024,count_Solid Waste,0.0
+Fairfield,39045,2009,count_Wind,0
+Fairfield,39045,2010,count_Wind,0.0
+Fairfield,39045,2011,count_Wind,0.0
+Fairfield,39045,2012,count_Wind,0.0
+Fairfield,39045,2013,count_Wind,0.0
+Fairfield,39045,2014,count_Wind,0.0
+Fairfield,39045,2015,count_Wind,0.0
+Fairfield,39045,2016,count_Wind,0.0
+Fairfield,39045,2017,count_Wind,0.0
+Fairfield,39045,2018,count_Wind,0.0
+Fairfield,39045,2019,count_Wind,0
+Fairfield,39045,2020,count_Wind,0
+Fairfield,39045,2021,count_Wind,0.0
+Fairfield,39045,2022,count_Wind,0.0
+Fairfield,39045,2023,count_Wind,0.0
+Fairfield,39045,2024,count_Wind,0.0
+Fairfield,39045,2009,total_Biomass,0
+Fairfield,39045,2010,total_Biomass,0.0
+Fairfield,39045,2011,total_Biomass,0.0
+Fairfield,39045,2012,total_Biomass,0.0
+Fairfield,39045,2013,total_Biomass,0.0
+Fairfield,39045,2014,total_Biomass,0.0
+Fairfield,39045,2015,total_Biomass,0.0
+Fairfield,39045,2016,total_Biomass,0.0
+Fairfield,39045,2017,total_Biomass,0.0
+Fairfield,39045,2018,total_Biomass,0.0
+Fairfield,39045,2019,total_Biomass,0
+Fairfield,39045,2020,total_Biomass,0
+Fairfield,39045,2021,total_Biomass,0.0
+Fairfield,39045,2022,total_Biomass,0.0
+Fairfield,39045,2023,total_Biomass,0.0
+Fairfield,39045,2024,total_Biomass,0.0
+Fairfield,39045,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Fairfield,39045,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2019,total_Captured Heat from Biologically Derived Methane Gas,0
+Fairfield,39045,2020,total_Captured Heat from Biologically Derived Methane Gas,0
+Fairfield,39045,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fairfield,39045,2009,total_Hydroelectric,0
+Fairfield,39045,2010,total_Hydroelectric,0.0
+Fairfield,39045,2011,total_Hydroelectric,0.0
+Fairfield,39045,2012,total_Hydroelectric,0.0
+Fairfield,39045,2013,total_Hydroelectric,0.0
+Fairfield,39045,2014,total_Hydroelectric,0.0
+Fairfield,39045,2015,total_Hydroelectric,0.0
+Fairfield,39045,2016,total_Hydroelectric,0.0
+Fairfield,39045,2017,total_Hydroelectric,0.0
+Fairfield,39045,2018,total_Hydroelectric,0.0
+Fairfield,39045,2019,total_Hydroelectric,0
+Fairfield,39045,2020,total_Hydroelectric,0
+Fairfield,39045,2021,total_Hydroelectric,0.0
+Fairfield,39045,2022,total_Hydroelectric,0.0
+Fairfield,39045,2023,total_Hydroelectric,0.0
+Fairfield,39045,2024,total_Hydroelectric,0.0
+Fairfield,39045,2009,total_Solar Photovoltaic,0
+Fairfield,39045,2010,total_Solar Photovoltaic,0.0054
+Fairfield,39045,2011,total_Solar Photovoltaic,0.01945
+Fairfield,39045,2012,total_Solar Photovoltaic,0.05886
+Fairfield,39045,2013,total_Solar Photovoltaic,0.050420000000000006
+Fairfield,39045,2014,total_Solar Photovoltaic,0.02683
+Fairfield,39045,2015,total_Solar Photovoltaic,0.01053
+Fairfield,39045,2016,total_Solar Photovoltaic,0.04519
+Fairfield,39045,2017,total_Solar Photovoltaic,0.051859999999999996
+Fairfield,39045,2018,total_Solar Photovoltaic,0.65727
+Fairfield,39045,2019,total_Solar Photovoltaic,0
+Fairfield,39045,2020,total_Solar Photovoltaic,0
+Fairfield,39045,2021,total_Solar Photovoltaic,0.0128
+Fairfield,39045,2022,total_Solar Photovoltaic,0.046985
+Fairfield,39045,2023,total_Solar Photovoltaic,0.056455
+Fairfield,39045,2024,total_Solar Photovoltaic,0.41456
+Fairfield,39045,2009,total_Solid Waste,0
+Fairfield,39045,2010,total_Solid Waste,0.0
+Fairfield,39045,2011,total_Solid Waste,0.0
+Fairfield,39045,2012,total_Solid Waste,0.0
+Fairfield,39045,2013,total_Solid Waste,0.0
+Fairfield,39045,2014,total_Solid Waste,0.0
+Fairfield,39045,2015,total_Solid Waste,0.0
+Fairfield,39045,2016,total_Solid Waste,0.0
+Fairfield,39045,2017,total_Solid Waste,0.0
+Fairfield,39045,2018,total_Solid Waste,0.0
+Fairfield,39045,2019,total_Solid Waste,0
+Fairfield,39045,2020,total_Solid Waste,0
+Fairfield,39045,2021,total_Solid Waste,0.0
+Fairfield,39045,2022,total_Solid Waste,0.0
+Fairfield,39045,2023,total_Solid Waste,0.0
+Fairfield,39045,2024,total_Solid Waste,0.0
+Fairfield,39045,2009,total_Wind,0
+Fairfield,39045,2010,total_Wind,0.0
+Fairfield,39045,2011,total_Wind,0.0
+Fairfield,39045,2012,total_Wind,0.0
+Fairfield,39045,2013,total_Wind,0.0
+Fairfield,39045,2014,total_Wind,0.0
+Fairfield,39045,2015,total_Wind,0.0
+Fairfield,39045,2016,total_Wind,0.0
+Fairfield,39045,2017,total_Wind,0.0
+Fairfield,39045,2018,total_Wind,0.0
+Fairfield,39045,2019,total_Wind,0
+Fairfield,39045,2020,total_Wind,0
+Fairfield,39045,2021,total_Wind,0.0
+Fairfield,39045,2022,total_Wind,0.0
+Fairfield,39045,2023,total_Wind,0.0
+Fairfield,39045,2024,total_Wind,0.0
+Fayette,39047,2009,count_Biomass,0.0
+Fayette,39047,2010,count_Biomass,0.0
+Fayette,39047,2011,count_Biomass,0.0
+Fayette,39047,2012,count_Biomass,0.0
+Fayette,39047,2013,count_Biomass,0.0
+Fayette,39047,2014,count_Biomass,0.0
+Fayette,39047,2015,count_Biomass,0.0
+Fayette,39047,2016,count_Biomass,0.0
+Fayette,39047,2017,count_Biomass,0.0
+Fayette,39047,2018,count_Biomass,0.0
+Fayette,39047,2019,count_Biomass,0.0
+Fayette,39047,2020,count_Biomass,0.0
+Fayette,39047,2021,count_Biomass,0.0
+Fayette,39047,2022,count_Biomass,0.0
+Fayette,39047,2023,count_Biomass,0.0
+Fayette,39047,2024,count_Biomass,0.0
+Fayette,39047,2009,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2009,count_Hydroelectric,0.0
+Fayette,39047,2010,count_Hydroelectric,0.0
+Fayette,39047,2011,count_Hydroelectric,0.0
+Fayette,39047,2012,count_Hydroelectric,0.0
+Fayette,39047,2013,count_Hydroelectric,1.0
+Fayette,39047,2014,count_Hydroelectric,0.0
+Fayette,39047,2015,count_Hydroelectric,0.0
+Fayette,39047,2016,count_Hydroelectric,0.0
+Fayette,39047,2017,count_Hydroelectric,0.0
+Fayette,39047,2018,count_Hydroelectric,0.0
+Fayette,39047,2019,count_Hydroelectric,0.0
+Fayette,39047,2020,count_Hydroelectric,0.0
+Fayette,39047,2021,count_Hydroelectric,0.0
+Fayette,39047,2022,count_Hydroelectric,0.0
+Fayette,39047,2023,count_Hydroelectric,0.0
+Fayette,39047,2024,count_Hydroelectric,0.0
+Fayette,39047,2009,count_Solar Photovoltaic,1.0
+Fayette,39047,2010,count_Solar Photovoltaic,4.0
+Fayette,39047,2011,count_Solar Photovoltaic,10.0
+Fayette,39047,2012,count_Solar Photovoltaic,6.0
+Fayette,39047,2013,count_Solar Photovoltaic,1.0
+Fayette,39047,2014,count_Solar Photovoltaic,3.0
+Fayette,39047,2015,count_Solar Photovoltaic,13.0
+Fayette,39047,2016,count_Solar Photovoltaic,5.0
+Fayette,39047,2017,count_Solar Photovoltaic,2.0
+Fayette,39047,2018,count_Solar Photovoltaic,3.0
+Fayette,39047,2019,count_Solar Photovoltaic,1.0
+Fayette,39047,2020,count_Solar Photovoltaic,14.0
+Fayette,39047,2021,count_Solar Photovoltaic,2.0
+Fayette,39047,2022,count_Solar Photovoltaic,2.0
+Fayette,39047,2023,count_Solar Photovoltaic,3.0
+Fayette,39047,2024,count_Solar Photovoltaic,2.0
+Fayette,39047,2009,count_Solid Waste,0.0
+Fayette,39047,2010,count_Solid Waste,0.0
+Fayette,39047,2011,count_Solid Waste,0.0
+Fayette,39047,2012,count_Solid Waste,0.0
+Fayette,39047,2013,count_Solid Waste,0.0
+Fayette,39047,2014,count_Solid Waste,0.0
+Fayette,39047,2015,count_Solid Waste,0.0
+Fayette,39047,2016,count_Solid Waste,0.0
+Fayette,39047,2017,count_Solid Waste,0.0
+Fayette,39047,2018,count_Solid Waste,0.0
+Fayette,39047,2019,count_Solid Waste,0.0
+Fayette,39047,2020,count_Solid Waste,0.0
+Fayette,39047,2021,count_Solid Waste,0.0
+Fayette,39047,2022,count_Solid Waste,0.0
+Fayette,39047,2023,count_Solid Waste,0.0
+Fayette,39047,2024,count_Solid Waste,0.0
+Fayette,39047,2009,count_Wind,0.0
+Fayette,39047,2010,count_Wind,0.0
+Fayette,39047,2011,count_Wind,0.0
+Fayette,39047,2012,count_Wind,1.0
+Fayette,39047,2013,count_Wind,0.0
+Fayette,39047,2014,count_Wind,0.0
+Fayette,39047,2015,count_Wind,0.0
+Fayette,39047,2016,count_Wind,0.0
+Fayette,39047,2017,count_Wind,0.0
+Fayette,39047,2018,count_Wind,0.0
+Fayette,39047,2019,count_Wind,0.0
+Fayette,39047,2020,count_Wind,0.0
+Fayette,39047,2021,count_Wind,0.0
+Fayette,39047,2022,count_Wind,0.0
+Fayette,39047,2023,count_Wind,0.0
+Fayette,39047,2024,count_Wind,0.0
+Fayette,39047,2009,total_Biomass,0.0
+Fayette,39047,2010,total_Biomass,0.0
+Fayette,39047,2011,total_Biomass,0.0
+Fayette,39047,2012,total_Biomass,0.0
+Fayette,39047,2013,total_Biomass,0.0
+Fayette,39047,2014,total_Biomass,0.0
+Fayette,39047,2015,total_Biomass,0.0
+Fayette,39047,2016,total_Biomass,0.0
+Fayette,39047,2017,total_Biomass,0.0
+Fayette,39047,2018,total_Biomass,0.0
+Fayette,39047,2019,total_Biomass,0.0
+Fayette,39047,2020,total_Biomass,0.0
+Fayette,39047,2021,total_Biomass,0.0
+Fayette,39047,2022,total_Biomass,0.0
+Fayette,39047,2023,total_Biomass,0.0
+Fayette,39047,2024,total_Biomass,0.0
+Fayette,39047,2009,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Fayette,39047,2009,total_Hydroelectric,0.0
+Fayette,39047,2010,total_Hydroelectric,0.0
+Fayette,39047,2011,total_Hydroelectric,0.0
+Fayette,39047,2012,total_Hydroelectric,0.0
+Fayette,39047,2013,total_Hydroelectric,5.45
+Fayette,39047,2014,total_Hydroelectric,0.0
+Fayette,39047,2015,total_Hydroelectric,0.0
+Fayette,39047,2016,total_Hydroelectric,0.0
+Fayette,39047,2017,total_Hydroelectric,0.0
+Fayette,39047,2018,total_Hydroelectric,0.0
+Fayette,39047,2019,total_Hydroelectric,0.0
+Fayette,39047,2020,total_Hydroelectric,0.0
+Fayette,39047,2021,total_Hydroelectric,0.0
+Fayette,39047,2022,total_Hydroelectric,0.0
+Fayette,39047,2023,total_Hydroelectric,0.0
+Fayette,39047,2024,total_Hydroelectric,0.0
+Fayette,39047,2009,total_Solar Photovoltaic,0.0112
+Fayette,39047,2010,total_Solar Photovoltaic,0.01657
+Fayette,39047,2011,total_Solar Photovoltaic,0.31867
+Fayette,39047,2012,total_Solar Photovoltaic,0.10411000000000001
+Fayette,39047,2013,total_Solar Photovoltaic,0.01008
+Fayette,39047,2014,total_Solar Photovoltaic,0.013439999999999999
+Fayette,39047,2015,total_Solar Photovoltaic,0.0806
+Fayette,39047,2016,total_Solar Photovoltaic,0.04682
+Fayette,39047,2017,total_Solar Photovoltaic,0.0198
+Fayette,39047,2018,total_Solar Photovoltaic,0.08523
+Fayette,39047,2019,total_Solar Photovoltaic,0.00944
+Fayette,39047,2020,total_Solar Photovoltaic,0.680437
+Fayette,39047,2021,total_Solar Photovoltaic,1.17865
+Fayette,39047,2022,total_Solar Photovoltaic,0.02115
+Fayette,39047,2023,total_Solar Photovoltaic,0.037559999999999996
+Fayette,39047,2024,total_Solar Photovoltaic,66.09673000000001
+Fayette,39047,2009,total_Solid Waste,0.0
+Fayette,39047,2010,total_Solid Waste,0.0
+Fayette,39047,2011,total_Solid Waste,0.0
+Fayette,39047,2012,total_Solid Waste,0.0
+Fayette,39047,2013,total_Solid Waste,0.0
+Fayette,39047,2014,total_Solid Waste,0.0
+Fayette,39047,2015,total_Solid Waste,0.0
+Fayette,39047,2016,total_Solid Waste,0.0
+Fayette,39047,2017,total_Solid Waste,0.0
+Fayette,39047,2018,total_Solid Waste,0.0
+Fayette,39047,2019,total_Solid Waste,0.0
+Fayette,39047,2020,total_Solid Waste,0.0
+Fayette,39047,2021,total_Solid Waste,0.0
+Fayette,39047,2022,total_Solid Waste,0.0
+Fayette,39047,2023,total_Solid Waste,0.0
+Fayette,39047,2024,total_Solid Waste,0.0
+Fayette,39047,2009,total_Wind,0.0
+Fayette,39047,2010,total_Wind,0.0
+Fayette,39047,2011,total_Wind,0.0
+Fayette,39047,2012,total_Wind,46.0
+Fayette,39047,2013,total_Wind,0.0
+Fayette,39047,2014,total_Wind,0.0
+Fayette,39047,2015,total_Wind,0.0
+Fayette,39047,2016,total_Wind,0.0
+Fayette,39047,2017,total_Wind,0.0
+Fayette,39047,2018,total_Wind,0.0
+Fayette,39047,2019,total_Wind,0.0
+Fayette,39047,2020,total_Wind,0.0
+Fayette,39047,2021,total_Wind,0.0
+Fayette,39047,2022,total_Wind,0.0
+Fayette,39047,2023,total_Wind,0.0
+Fayette,39047,2024,total_Wind,0.0
+Franklin,39049,2009,count_Biomass,0
+Franklin,39049,2010,count_Biomass,1.0
+Franklin,39049,2011,count_Biomass,1.0
+Franklin,39049,2012,count_Biomass,0.0
+Franklin,39049,2013,count_Biomass,0.0
+Franklin,39049,2014,count_Biomass,0.0
+Franklin,39049,2015,count_Biomass,0.0
+Franklin,39049,2016,count_Biomass,0.0
+Franklin,39049,2017,count_Biomass,0.0
+Franklin,39049,2018,count_Biomass,0.0
+Franklin,39049,2019,count_Biomass,0.0
+Franklin,39049,2020,count_Biomass,0.0
+Franklin,39049,2021,count_Biomass,0.0
+Franklin,39049,2022,count_Biomass,0.0
+Franklin,39049,2023,count_Biomass,0.0
+Franklin,39049,2024,count_Biomass,0.0
+Franklin,39049,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Franklin,39049,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2016,count_Captured Heat from Biologically Derived Methane Gas,1.0
+Franklin,39049,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2009,count_Hydroelectric,0
+Franklin,39049,2010,count_Hydroelectric,0.0
+Franklin,39049,2011,count_Hydroelectric,0.0
+Franklin,39049,2012,count_Hydroelectric,0.0
+Franklin,39049,2013,count_Hydroelectric,0.0
+Franklin,39049,2014,count_Hydroelectric,0.0
+Franklin,39049,2015,count_Hydroelectric,0.0
+Franklin,39049,2016,count_Hydroelectric,0.0
+Franklin,39049,2017,count_Hydroelectric,0.0
+Franklin,39049,2018,count_Hydroelectric,0.0
+Franklin,39049,2019,count_Hydroelectric,0.0
+Franklin,39049,2020,count_Hydroelectric,0.0
+Franklin,39049,2021,count_Hydroelectric,0.0
+Franklin,39049,2022,count_Hydroelectric,0.0
+Franklin,39049,2023,count_Hydroelectric,0.0
+Franklin,39049,2024,count_Hydroelectric,0.0
+Franklin,39049,2009,count_Solar Photovoltaic,0
+Franklin,39049,2010,count_Solar Photovoltaic,12.0
+Franklin,39049,2011,count_Solar Photovoltaic,64.0
+Franklin,39049,2012,count_Solar Photovoltaic,59.0
+Franklin,39049,2013,count_Solar Photovoltaic,43.0
+Franklin,39049,2014,count_Solar Photovoltaic,22.0
+Franklin,39049,2015,count_Solar Photovoltaic,34.0
+Franklin,39049,2016,count_Solar Photovoltaic,50.0
+Franklin,39049,2017,count_Solar Photovoltaic,38.0
+Franklin,39049,2018,count_Solar Photovoltaic,9.0
+Franklin,39049,2019,count_Solar Photovoltaic,11.0
+Franklin,39049,2020,count_Solar Photovoltaic,7.0
+Franklin,39049,2021,count_Solar Photovoltaic,19.0
+Franklin,39049,2022,count_Solar Photovoltaic,51.0
+Franklin,39049,2023,count_Solar Photovoltaic,37.0
+Franklin,39049,2024,count_Solar Photovoltaic,169.0
+Franklin,39049,2009,count_Solid Waste,0
+Franklin,39049,2010,count_Solid Waste,1.0
+Franklin,39049,2011,count_Solid Waste,0.0
+Franklin,39049,2012,count_Solid Waste,0.0
+Franklin,39049,2013,count_Solid Waste,0.0
+Franklin,39049,2014,count_Solid Waste,0.0
+Franklin,39049,2015,count_Solid Waste,0.0
+Franklin,39049,2016,count_Solid Waste,0.0
+Franklin,39049,2017,count_Solid Waste,0.0
+Franklin,39049,2018,count_Solid Waste,0.0
+Franklin,39049,2019,count_Solid Waste,0.0
+Franklin,39049,2020,count_Solid Waste,0.0
+Franklin,39049,2021,count_Solid Waste,0.0
+Franklin,39049,2022,count_Solid Waste,0.0
+Franklin,39049,2023,count_Solid Waste,0.0
+Franklin,39049,2024,count_Solid Waste,0.0
+Franklin,39049,2009,count_Wind,0
+Franklin,39049,2010,count_Wind,0.0
+Franklin,39049,2011,count_Wind,0.0
+Franklin,39049,2012,count_Wind,0.0
+Franklin,39049,2013,count_Wind,0.0
+Franklin,39049,2014,count_Wind,0.0
+Franklin,39049,2015,count_Wind,0.0
+Franklin,39049,2016,count_Wind,0.0
+Franklin,39049,2017,count_Wind,0.0
+Franklin,39049,2018,count_Wind,0.0
+Franklin,39049,2019,count_Wind,0.0
+Franklin,39049,2020,count_Wind,0.0
+Franklin,39049,2021,count_Wind,0.0
+Franklin,39049,2022,count_Wind,0.0
+Franklin,39049,2023,count_Wind,0.0
+Franklin,39049,2024,count_Wind,0.0
+Franklin,39049,2009,total_Biomass,0
+Franklin,39049,2010,total_Biomass,2.7
+Franklin,39049,2011,total_Biomass,1.0
+Franklin,39049,2012,total_Biomass,0.0
+Franklin,39049,2013,total_Biomass,0.0
+Franklin,39049,2014,total_Biomass,0.0
+Franklin,39049,2015,total_Biomass,0.0
+Franklin,39049,2016,total_Biomass,0.0
+Franklin,39049,2017,total_Biomass,0.0
+Franklin,39049,2018,total_Biomass,0.0
+Franklin,39049,2019,total_Biomass,0.0
+Franklin,39049,2020,total_Biomass,0.0
+Franklin,39049,2021,total_Biomass,0.0
+Franklin,39049,2022,total_Biomass,0.0
+Franklin,39049,2023,total_Biomass,0.0
+Franklin,39049,2024,total_Biomass,0.0
+Franklin,39049,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Franklin,39049,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2016,total_Captured Heat from Biologically Derived Methane Gas,1.0
+Franklin,39049,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Franklin,39049,2009,total_Hydroelectric,0
+Franklin,39049,2010,total_Hydroelectric,0.0
+Franklin,39049,2011,total_Hydroelectric,0.0
+Franklin,39049,2012,total_Hydroelectric,0.0
+Franklin,39049,2013,total_Hydroelectric,0.0
+Franklin,39049,2014,total_Hydroelectric,0.0
+Franklin,39049,2015,total_Hydroelectric,0.0
+Franklin,39049,2016,total_Hydroelectric,0.0
+Franklin,39049,2017,total_Hydroelectric,0.0
+Franklin,39049,2018,total_Hydroelectric,0.0
+Franklin,39049,2019,total_Hydroelectric,0.0
+Franklin,39049,2020,total_Hydroelectric,0.0
+Franklin,39049,2021,total_Hydroelectric,0.0
+Franklin,39049,2022,total_Hydroelectric,0.0
+Franklin,39049,2023,total_Hydroelectric,0.0
+Franklin,39049,2024,total_Hydroelectric,0.0
+Franklin,39049,2009,total_Solar Photovoltaic,0
+Franklin,39049,2010,total_Solar Photovoltaic,0.18892
+Franklin,39049,2011,total_Solar Photovoltaic,1.030085
+Franklin,39049,2012,total_Solar Photovoltaic,0.97021
+Franklin,39049,2013,total_Solar Photovoltaic,3.38509
+Franklin,39049,2014,total_Solar Photovoltaic,0.9826
+Franklin,39049,2015,total_Solar Photovoltaic,0.85528
+Franklin,39049,2016,total_Solar Photovoltaic,0.448815
+Franklin,39049,2017,total_Solar Photovoltaic,0.697045
+Franklin,39049,2018,total_Solar Photovoltaic,1.4116000000000002
+Franklin,39049,2019,total_Solar Photovoltaic,0.18026
+Franklin,39049,2020,total_Solar Photovoltaic,0.17637
+Franklin,39049,2021,total_Solar Photovoltaic,0.76233
+Franklin,39049,2022,total_Solar Photovoltaic,0.8448599999999999
+Franklin,39049,2023,total_Solar Photovoltaic,0.244955
+Franklin,39049,2024,total_Solar Photovoltaic,1.90441
+Franklin,39049,2009,total_Solid Waste,0
+Franklin,39049,2010,total_Solid Waste,5.0
+Franklin,39049,2011,total_Solid Waste,0.0
+Franklin,39049,2012,total_Solid Waste,0.0
+Franklin,39049,2013,total_Solid Waste,0.0
+Franklin,39049,2014,total_Solid Waste,0.0
+Franklin,39049,2015,total_Solid Waste,0.0
+Franklin,39049,2016,total_Solid Waste,0.0
+Franklin,39049,2017,total_Solid Waste,0.0
+Franklin,39049,2018,total_Solid Waste,0.0
+Franklin,39049,2019,total_Solid Waste,0.0
+Franklin,39049,2020,total_Solid Waste,0.0
+Franklin,39049,2021,total_Solid Waste,0.0
+Franklin,39049,2022,total_Solid Waste,0.0
+Franklin,39049,2023,total_Solid Waste,0.0
+Franklin,39049,2024,total_Solid Waste,0.0
+Franklin,39049,2009,total_Wind,0
+Franklin,39049,2010,total_Wind,0.0
+Franklin,39049,2011,total_Wind,0.0
+Franklin,39049,2012,total_Wind,0.0
+Franklin,39049,2013,total_Wind,0.0
+Franklin,39049,2014,total_Wind,0.0
+Franklin,39049,2015,total_Wind,0.0
+Franklin,39049,2016,total_Wind,0.0
+Franklin,39049,2017,total_Wind,0.0
+Franklin,39049,2018,total_Wind,0.0
+Franklin,39049,2019,total_Wind,0.0
+Franklin,39049,2020,total_Wind,0.0
+Franklin,39049,2021,total_Wind,0.0
+Franklin,39049,2022,total_Wind,0.0
+Franklin,39049,2023,total_Wind,0.0
+Franklin,39049,2024,total_Wind,0.0
+Hocking,39073,2009,count_Biomass,0
+Hocking,39073,2010,count_Biomass,0.0
+Hocking,39073,2011,count_Biomass,0.0
+Hocking,39073,2012,count_Biomass,0.0
+Hocking,39073,2013,count_Biomass,0.0
+Hocking,39073,2014,count_Biomass,0
+Hocking,39073,2015,count_Biomass,0
+Hocking,39073,2016,count_Biomass,0
+Hocking,39073,2017,count_Biomass,0
+Hocking,39073,2018,count_Biomass,0
+Hocking,39073,2019,count_Biomass,0
+Hocking,39073,2020,count_Biomass,0
+Hocking,39073,2021,count_Biomass,0
+Hocking,39073,2022,count_Biomass,0
+Hocking,39073,2023,count_Biomass,0
+Hocking,39073,2024,count_Biomass,0
+Hocking,39073,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2014,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2015,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2016,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2017,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2018,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2019,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2020,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2022,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2023,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2024,count_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2009,count_Hydroelectric,0
+Hocking,39073,2010,count_Hydroelectric,0.0
+Hocking,39073,2011,count_Hydroelectric,0.0
+Hocking,39073,2012,count_Hydroelectric,0.0
+Hocking,39073,2013,count_Hydroelectric,0.0
+Hocking,39073,2014,count_Hydroelectric,0
+Hocking,39073,2015,count_Hydroelectric,0
+Hocking,39073,2016,count_Hydroelectric,0
+Hocking,39073,2017,count_Hydroelectric,0
+Hocking,39073,2018,count_Hydroelectric,0
+Hocking,39073,2019,count_Hydroelectric,0
+Hocking,39073,2020,count_Hydroelectric,0
+Hocking,39073,2021,count_Hydroelectric,0
+Hocking,39073,2022,count_Hydroelectric,0
+Hocking,39073,2023,count_Hydroelectric,0
+Hocking,39073,2024,count_Hydroelectric,0
+Hocking,39073,2009,count_Solar Photovoltaic,0
+Hocking,39073,2010,count_Solar Photovoltaic,1.0
+Hocking,39073,2011,count_Solar Photovoltaic,2.0
+Hocking,39073,2012,count_Solar Photovoltaic,1.0
+Hocking,39073,2013,count_Solar Photovoltaic,2.0
+Hocking,39073,2014,count_Solar Photovoltaic,0
+Hocking,39073,2015,count_Solar Photovoltaic,0
+Hocking,39073,2016,count_Solar Photovoltaic,0
+Hocking,39073,2017,count_Solar Photovoltaic,0
+Hocking,39073,2018,count_Solar Photovoltaic,0
+Hocking,39073,2019,count_Solar Photovoltaic,0
+Hocking,39073,2020,count_Solar Photovoltaic,0
+Hocking,39073,2021,count_Solar Photovoltaic,0
+Hocking,39073,2022,count_Solar Photovoltaic,0
+Hocking,39073,2023,count_Solar Photovoltaic,0
+Hocking,39073,2024,count_Solar Photovoltaic,0
+Hocking,39073,2009,count_Solid Waste,0
+Hocking,39073,2010,count_Solid Waste,0.0
+Hocking,39073,2011,count_Solid Waste,0.0
+Hocking,39073,2012,count_Solid Waste,0.0
+Hocking,39073,2013,count_Solid Waste,0.0
+Hocking,39073,2014,count_Solid Waste,0
+Hocking,39073,2015,count_Solid Waste,0
+Hocking,39073,2016,count_Solid Waste,0
+Hocking,39073,2017,count_Solid Waste,0
+Hocking,39073,2018,count_Solid Waste,0
+Hocking,39073,2019,count_Solid Waste,0
+Hocking,39073,2020,count_Solid Waste,0
+Hocking,39073,2021,count_Solid Waste,0
+Hocking,39073,2022,count_Solid Waste,0
+Hocking,39073,2023,count_Solid Waste,0
+Hocking,39073,2024,count_Solid Waste,0
+Hocking,39073,2009,count_Wind,0
+Hocking,39073,2010,count_Wind,0.0
+Hocking,39073,2011,count_Wind,0.0
+Hocking,39073,2012,count_Wind,0.0
+Hocking,39073,2013,count_Wind,0.0
+Hocking,39073,2014,count_Wind,0
+Hocking,39073,2015,count_Wind,0
+Hocking,39073,2016,count_Wind,0
+Hocking,39073,2017,count_Wind,0
+Hocking,39073,2018,count_Wind,0
+Hocking,39073,2019,count_Wind,0
+Hocking,39073,2020,count_Wind,0
+Hocking,39073,2021,count_Wind,0
+Hocking,39073,2022,count_Wind,0
+Hocking,39073,2023,count_Wind,0
+Hocking,39073,2024,count_Wind,0
+Hocking,39073,2009,total_Biomass,0
+Hocking,39073,2010,total_Biomass,0.0
+Hocking,39073,2011,total_Biomass,0.0
+Hocking,39073,2012,total_Biomass,0.0
+Hocking,39073,2013,total_Biomass,0.0
+Hocking,39073,2014,total_Biomass,0
+Hocking,39073,2015,total_Biomass,0
+Hocking,39073,2016,total_Biomass,0
+Hocking,39073,2017,total_Biomass,0
+Hocking,39073,2018,total_Biomass,0
+Hocking,39073,2019,total_Biomass,0
+Hocking,39073,2020,total_Biomass,0
+Hocking,39073,2021,total_Biomass,0
+Hocking,39073,2022,total_Biomass,0
+Hocking,39073,2023,total_Biomass,0
+Hocking,39073,2024,total_Biomass,0
+Hocking,39073,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Hocking,39073,2014,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2015,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2016,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2017,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2018,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2019,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2020,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2022,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2023,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2024,total_Captured Heat from Biologically Derived Methane Gas,0
+Hocking,39073,2009,total_Hydroelectric,0
+Hocking,39073,2010,total_Hydroelectric,0.0
+Hocking,39073,2011,total_Hydroelectric,0.0
+Hocking,39073,2012,total_Hydroelectric,0.0
+Hocking,39073,2013,total_Hydroelectric,0.0
+Hocking,39073,2014,total_Hydroelectric,0
+Hocking,39073,2015,total_Hydroelectric,0
+Hocking,39073,2016,total_Hydroelectric,0
+Hocking,39073,2017,total_Hydroelectric,0
+Hocking,39073,2018,total_Hydroelectric,0
+Hocking,39073,2019,total_Hydroelectric,0
+Hocking,39073,2020,total_Hydroelectric,0
+Hocking,39073,2021,total_Hydroelectric,0
+Hocking,39073,2022,total_Hydroelectric,0
+Hocking,39073,2023,total_Hydroelectric,0
+Hocking,39073,2024,total_Hydroelectric,0
+Hocking,39073,2009,total_Solar Photovoltaic,0
+Hocking,39073,2010,total_Solar Photovoltaic,0.00633
+Hocking,39073,2011,total_Solar Photovoltaic,0.01128
+Hocking,39073,2012,total_Solar Photovoltaic,0.00624
+Hocking,39073,2013,total_Solar Photovoltaic,0.013760000000000001
+Hocking,39073,2014,total_Solar Photovoltaic,0
+Hocking,39073,2015,total_Solar Photovoltaic,0
+Hocking,39073,2016,total_Solar Photovoltaic,0
+Hocking,39073,2017,total_Solar Photovoltaic,0
+Hocking,39073,2018,total_Solar Photovoltaic,0
+Hocking,39073,2019,total_Solar Photovoltaic,0
+Hocking,39073,2020,total_Solar Photovoltaic,0
+Hocking,39073,2021,total_Solar Photovoltaic,0
+Hocking,39073,2022,total_Solar Photovoltaic,0
+Hocking,39073,2023,total_Solar Photovoltaic,0
+Hocking,39073,2024,total_Solar Photovoltaic,0
+Hocking,39073,2009,total_Solid Waste,0
+Hocking,39073,2010,total_Solid Waste,0.0
+Hocking,39073,2011,total_Solid Waste,0.0
+Hocking,39073,2012,total_Solid Waste,0.0
+Hocking,39073,2013,total_Solid Waste,0.0
+Hocking,39073,2014,total_Solid Waste,0
+Hocking,39073,2015,total_Solid Waste,0
+Hocking,39073,2016,total_Solid Waste,0
+Hocking,39073,2017,total_Solid Waste,0
+Hocking,39073,2018,total_Solid Waste,0
+Hocking,39073,2019,total_Solid Waste,0
+Hocking,39073,2020,total_Solid Waste,0
+Hocking,39073,2021,total_Solid Waste,0
+Hocking,39073,2022,total_Solid Waste,0
+Hocking,39073,2023,total_Solid Waste,0
+Hocking,39073,2024,total_Solid Waste,0
+Hocking,39073,2009,total_Wind,0
+Hocking,39073,2010,total_Wind,0.0
+Hocking,39073,2011,total_Wind,0.0
+Hocking,39073,2012,total_Wind,0.0
+Hocking,39073,2013,total_Wind,0.0
+Hocking,39073,2014,total_Wind,0
+Hocking,39073,2015,total_Wind,0
+Hocking,39073,2016,total_Wind,0
+Hocking,39073,2017,total_Wind,0
+Hocking,39073,2018,total_Wind,0
+Hocking,39073,2019,total_Wind,0
+Hocking,39073,2020,total_Wind,0
+Hocking,39073,2021,total_Wind,0
+Hocking,39073,2022,total_Wind,0
+Hocking,39073,2023,total_Wind,0
+Hocking,39073,2024,total_Wind,0
+Knox,39083,2009,count_Biomass,0
+Knox,39083,2010,count_Biomass,0
+Knox,39083,2011,count_Biomass,0.0
+Knox,39083,2012,count_Biomass,0.0
+Knox,39083,2013,count_Biomass,0.0
+Knox,39083,2014,count_Biomass,0.0
+Knox,39083,2015,count_Biomass,0.0
+Knox,39083,2016,count_Biomass,0.0
+Knox,39083,2017,count_Biomass,0.0
+Knox,39083,2018,count_Biomass,0.0
+Knox,39083,2019,count_Biomass,0.0
+Knox,39083,2020,count_Biomass,0.0
+Knox,39083,2021,count_Biomass,0
+Knox,39083,2022,count_Biomass,0
+Knox,39083,2023,count_Biomass,0.0
+Knox,39083,2024,count_Biomass,0.0
+Knox,39083,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2010,count_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2022,count_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2009,count_Hydroelectric,0
+Knox,39083,2010,count_Hydroelectric,0
+Knox,39083,2011,count_Hydroelectric,0.0
+Knox,39083,2012,count_Hydroelectric,0.0
+Knox,39083,2013,count_Hydroelectric,0.0
+Knox,39083,2014,count_Hydroelectric,0.0
+Knox,39083,2015,count_Hydroelectric,0.0
+Knox,39083,2016,count_Hydroelectric,0.0
+Knox,39083,2017,count_Hydroelectric,0.0
+Knox,39083,2018,count_Hydroelectric,0.0
+Knox,39083,2019,count_Hydroelectric,0.0
+Knox,39083,2020,count_Hydroelectric,0.0
+Knox,39083,2021,count_Hydroelectric,0
+Knox,39083,2022,count_Hydroelectric,0
+Knox,39083,2023,count_Hydroelectric,0.0
+Knox,39083,2024,count_Hydroelectric,0.0
+Knox,39083,2009,count_Solar Photovoltaic,0
+Knox,39083,2010,count_Solar Photovoltaic,0
+Knox,39083,2011,count_Solar Photovoltaic,1.0
+Knox,39083,2012,count_Solar Photovoltaic,3.0
+Knox,39083,2013,count_Solar Photovoltaic,5.0
+Knox,39083,2014,count_Solar Photovoltaic,2.0
+Knox,39083,2015,count_Solar Photovoltaic,4.0
+Knox,39083,2016,count_Solar Photovoltaic,10.0
+Knox,39083,2017,count_Solar Photovoltaic,3.0
+Knox,39083,2018,count_Solar Photovoltaic,7.0
+Knox,39083,2019,count_Solar Photovoltaic,2.0
+Knox,39083,2020,count_Solar Photovoltaic,1.0
+Knox,39083,2021,count_Solar Photovoltaic,0
+Knox,39083,2022,count_Solar Photovoltaic,0
+Knox,39083,2023,count_Solar Photovoltaic,2.0
+Knox,39083,2024,count_Solar Photovoltaic,4.0
+Knox,39083,2009,count_Solid Waste,0
+Knox,39083,2010,count_Solid Waste,0
+Knox,39083,2011,count_Solid Waste,0.0
+Knox,39083,2012,count_Solid Waste,0.0
+Knox,39083,2013,count_Solid Waste,0.0
+Knox,39083,2014,count_Solid Waste,0.0
+Knox,39083,2015,count_Solid Waste,0.0
+Knox,39083,2016,count_Solid Waste,0.0
+Knox,39083,2017,count_Solid Waste,0.0
+Knox,39083,2018,count_Solid Waste,0.0
+Knox,39083,2019,count_Solid Waste,0.0
+Knox,39083,2020,count_Solid Waste,0.0
+Knox,39083,2021,count_Solid Waste,0
+Knox,39083,2022,count_Solid Waste,0
+Knox,39083,2023,count_Solid Waste,0.0
+Knox,39083,2024,count_Solid Waste,0.0
+Knox,39083,2009,count_Wind,0
+Knox,39083,2010,count_Wind,0
+Knox,39083,2011,count_Wind,0.0
+Knox,39083,2012,count_Wind,0.0
+Knox,39083,2013,count_Wind,0.0
+Knox,39083,2014,count_Wind,0.0
+Knox,39083,2015,count_Wind,0.0
+Knox,39083,2016,count_Wind,0.0
+Knox,39083,2017,count_Wind,0.0
+Knox,39083,2018,count_Wind,0.0
+Knox,39083,2019,count_Wind,0.0
+Knox,39083,2020,count_Wind,0.0
+Knox,39083,2021,count_Wind,0
+Knox,39083,2022,count_Wind,0
+Knox,39083,2023,count_Wind,0.0
+Knox,39083,2024,count_Wind,0.0
+Knox,39083,2009,total_Biomass,0
+Knox,39083,2010,total_Biomass,0
+Knox,39083,2011,total_Biomass,0.0
+Knox,39083,2012,total_Biomass,0.0
+Knox,39083,2013,total_Biomass,0.0
+Knox,39083,2014,total_Biomass,0.0
+Knox,39083,2015,total_Biomass,0.0
+Knox,39083,2016,total_Biomass,0.0
+Knox,39083,2017,total_Biomass,0.0
+Knox,39083,2018,total_Biomass,0.0
+Knox,39083,2019,total_Biomass,0.0
+Knox,39083,2020,total_Biomass,0.0
+Knox,39083,2021,total_Biomass,0
+Knox,39083,2022,total_Biomass,0
+Knox,39083,2023,total_Biomass,0.0
+Knox,39083,2024,total_Biomass,0.0
+Knox,39083,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2010,total_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2022,total_Captured Heat from Biologically Derived Methane Gas,0
+Knox,39083,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Knox,39083,2009,total_Hydroelectric,0
+Knox,39083,2010,total_Hydroelectric,0
+Knox,39083,2011,total_Hydroelectric,0.0
+Knox,39083,2012,total_Hydroelectric,0.0
+Knox,39083,2013,total_Hydroelectric,0.0
+Knox,39083,2014,total_Hydroelectric,0.0
+Knox,39083,2015,total_Hydroelectric,0.0
+Knox,39083,2016,total_Hydroelectric,0.0
+Knox,39083,2017,total_Hydroelectric,0.0
+Knox,39083,2018,total_Hydroelectric,0.0
+Knox,39083,2019,total_Hydroelectric,0.0
+Knox,39083,2020,total_Hydroelectric,0.0
+Knox,39083,2021,total_Hydroelectric,0
+Knox,39083,2022,total_Hydroelectric,0
+Knox,39083,2023,total_Hydroelectric,0.0
+Knox,39083,2024,total_Hydroelectric,0.0
+Knox,39083,2009,total_Solar Photovoltaic,0
+Knox,39083,2010,total_Solar Photovoltaic,0
+Knox,39083,2011,total_Solar Photovoltaic,0.01272
+Knox,39083,2012,total_Solar Photovoltaic,1.4889999999999999
+Knox,39083,2013,total_Solar Photovoltaic,0.058210000000000005
+Knox,39083,2014,total_Solar Photovoltaic,0.01854
+Knox,39083,2015,total_Solar Photovoltaic,0.05964
+Knox,39083,2016,total_Solar Photovoltaic,0.14704
+Knox,39083,2017,total_Solar Photovoltaic,0.02627
+Knox,39083,2018,total_Solar Photovoltaic,0.10506
+Knox,39083,2019,total_Solar Photovoltaic,0.01575
+Knox,39083,2020,total_Solar Photovoltaic,0.0056
+Knox,39083,2021,total_Solar Photovoltaic,0
+Knox,39083,2022,total_Solar Photovoltaic,0
+Knox,39083,2023,total_Solar Photovoltaic,0.0184
+Knox,39083,2024,total_Solar Photovoltaic,0.04145
+Knox,39083,2009,total_Solid Waste,0
+Knox,39083,2010,total_Solid Waste,0
+Knox,39083,2011,total_Solid Waste,0.0
+Knox,39083,2012,total_Solid Waste,0.0
+Knox,39083,2013,total_Solid Waste,0.0
+Knox,39083,2014,total_Solid Waste,0.0
+Knox,39083,2015,total_Solid Waste,0.0
+Knox,39083,2016,total_Solid Waste,0.0
+Knox,39083,2017,total_Solid Waste,0.0
+Knox,39083,2018,total_Solid Waste,0.0
+Knox,39083,2019,total_Solid Waste,0.0
+Knox,39083,2020,total_Solid Waste,0.0
+Knox,39083,2021,total_Solid Waste,0
+Knox,39083,2022,total_Solid Waste,0
+Knox,39083,2023,total_Solid Waste,0.0
+Knox,39083,2024,total_Solid Waste,0.0
+Knox,39083,2009,total_Wind,0
+Knox,39083,2010,total_Wind,0
+Knox,39083,2011,total_Wind,0.0
+Knox,39083,2012,total_Wind,0.0
+Knox,39083,2013,total_Wind,0.0
+Knox,39083,2014,total_Wind,0.0
+Knox,39083,2015,total_Wind,0.0
+Knox,39083,2016,total_Wind,0.0
+Knox,39083,2017,total_Wind,0.0
+Knox,39083,2018,total_Wind,0.0
+Knox,39083,2019,total_Wind,0.0
+Knox,39083,2020,total_Wind,0.0
+Knox,39083,2021,total_Wind,0
+Knox,39083,2022,total_Wind,0
+Knox,39083,2023,total_Wind,0.0
+Knox,39083,2024,total_Wind,0.0
+Licking,39089,2009,count_Biomass,0.0
+Licking,39089,2010,count_Biomass,0.0
+Licking,39089,2011,count_Biomass,0.0
+Licking,39089,2012,count_Biomass,0.0
+Licking,39089,2013,count_Biomass,0.0
+Licking,39089,2014,count_Biomass,0.0
+Licking,39089,2015,count_Biomass,0.0
+Licking,39089,2016,count_Biomass,0.0
+Licking,39089,2017,count_Biomass,0.0
+Licking,39089,2018,count_Biomass,0.0
+Licking,39089,2019,count_Biomass,0.0
+Licking,39089,2020,count_Biomass,0
+Licking,39089,2021,count_Biomass,0
+Licking,39089,2022,count_Biomass,0.0
+Licking,39089,2023,count_Biomass,0.0
+Licking,39089,2024,count_Biomass,0.0
+Licking,39089,2009,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2020,count_Captured Heat from Biologically Derived Methane Gas,0
+Licking,39089,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Licking,39089,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2009,count_Hydroelectric,0.0
+Licking,39089,2010,count_Hydroelectric,0.0
+Licking,39089,2011,count_Hydroelectric,0.0
+Licking,39089,2012,count_Hydroelectric,0.0
+Licking,39089,2013,count_Hydroelectric,0.0
+Licking,39089,2014,count_Hydroelectric,0.0
+Licking,39089,2015,count_Hydroelectric,0.0
+Licking,39089,2016,count_Hydroelectric,0.0
+Licking,39089,2017,count_Hydroelectric,0.0
+Licking,39089,2018,count_Hydroelectric,0.0
+Licking,39089,2019,count_Hydroelectric,0.0
+Licking,39089,2020,count_Hydroelectric,0
+Licking,39089,2021,count_Hydroelectric,0
+Licking,39089,2022,count_Hydroelectric,0.0
+Licking,39089,2023,count_Hydroelectric,0.0
+Licking,39089,2024,count_Hydroelectric,0.0
+Licking,39089,2009,count_Solar Photovoltaic,1.0
+Licking,39089,2010,count_Solar Photovoltaic,1.0
+Licking,39089,2011,count_Solar Photovoltaic,2.0
+Licking,39089,2012,count_Solar Photovoltaic,8.0
+Licking,39089,2013,count_Solar Photovoltaic,8.0
+Licking,39089,2014,count_Solar Photovoltaic,8.0
+Licking,39089,2015,count_Solar Photovoltaic,7.0
+Licking,39089,2016,count_Solar Photovoltaic,8.0
+Licking,39089,2017,count_Solar Photovoltaic,7.0
+Licking,39089,2018,count_Solar Photovoltaic,6.0
+Licking,39089,2019,count_Solar Photovoltaic,5.0
+Licking,39089,2020,count_Solar Photovoltaic,0
+Licking,39089,2021,count_Solar Photovoltaic,0
+Licking,39089,2022,count_Solar Photovoltaic,5.0
+Licking,39089,2023,count_Solar Photovoltaic,7.0
+Licking,39089,2024,count_Solar Photovoltaic,26.0
+Licking,39089,2009,count_Solid Waste,0.0
+Licking,39089,2010,count_Solid Waste,0.0
+Licking,39089,2011,count_Solid Waste,0.0
+Licking,39089,2012,count_Solid Waste,0.0
+Licking,39089,2013,count_Solid Waste,0.0
+Licking,39089,2014,count_Solid Waste,0.0
+Licking,39089,2015,count_Solid Waste,0.0
+Licking,39089,2016,count_Solid Waste,0.0
+Licking,39089,2017,count_Solid Waste,0.0
+Licking,39089,2018,count_Solid Waste,0.0
+Licking,39089,2019,count_Solid Waste,0.0
+Licking,39089,2020,count_Solid Waste,0
+Licking,39089,2021,count_Solid Waste,0
+Licking,39089,2022,count_Solid Waste,0.0
+Licking,39089,2023,count_Solid Waste,0.0
+Licking,39089,2024,count_Solid Waste,0.0
+Licking,39089,2009,count_Wind,0.0
+Licking,39089,2010,count_Wind,0.0
+Licking,39089,2011,count_Wind,0.0
+Licking,39089,2012,count_Wind,0.0
+Licking,39089,2013,count_Wind,0.0
+Licking,39089,2014,count_Wind,0.0
+Licking,39089,2015,count_Wind,0.0
+Licking,39089,2016,count_Wind,0.0
+Licking,39089,2017,count_Wind,0.0
+Licking,39089,2018,count_Wind,0.0
+Licking,39089,2019,count_Wind,0.0
+Licking,39089,2020,count_Wind,0
+Licking,39089,2021,count_Wind,0
+Licking,39089,2022,count_Wind,0.0
+Licking,39089,2023,count_Wind,0.0
+Licking,39089,2024,count_Wind,0.0
+Licking,39089,2009,total_Biomass,0.0
+Licking,39089,2010,total_Biomass,0.0
+Licking,39089,2011,total_Biomass,0.0
+Licking,39089,2012,total_Biomass,0.0
+Licking,39089,2013,total_Biomass,0.0
+Licking,39089,2014,total_Biomass,0.0
+Licking,39089,2015,total_Biomass,0.0
+Licking,39089,2016,total_Biomass,0.0
+Licking,39089,2017,total_Biomass,0.0
+Licking,39089,2018,total_Biomass,0.0
+Licking,39089,2019,total_Biomass,0.0
+Licking,39089,2020,total_Biomass,0
+Licking,39089,2021,total_Biomass,0
+Licking,39089,2022,total_Biomass,0.0
+Licking,39089,2023,total_Biomass,0.0
+Licking,39089,2024,total_Biomass,0.0
+Licking,39089,2009,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2020,total_Captured Heat from Biologically Derived Methane Gas,0
+Licking,39089,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Licking,39089,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Licking,39089,2009,total_Hydroelectric,0.0
+Licking,39089,2010,total_Hydroelectric,0.0
+Licking,39089,2011,total_Hydroelectric,0.0
+Licking,39089,2012,total_Hydroelectric,0.0
+Licking,39089,2013,total_Hydroelectric,0.0
+Licking,39089,2014,total_Hydroelectric,0.0
+Licking,39089,2015,total_Hydroelectric,0.0
+Licking,39089,2016,total_Hydroelectric,0.0
+Licking,39089,2017,total_Hydroelectric,0.0
+Licking,39089,2018,total_Hydroelectric,0.0
+Licking,39089,2019,total_Hydroelectric,0.0
+Licking,39089,2020,total_Hydroelectric,0
+Licking,39089,2021,total_Hydroelectric,0
+Licking,39089,2022,total_Hydroelectric,0.0
+Licking,39089,2023,total_Hydroelectric,0.0
+Licking,39089,2024,total_Hydroelectric,0.0
+Licking,39089,2009,total_Solar Photovoltaic,0.06912
+Licking,39089,2010,total_Solar Photovoltaic,0.00207
+Licking,39089,2011,total_Solar Photovoltaic,0.022568
+Licking,39089,2012,total_Solar Photovoltaic,0.08719
+Licking,39089,2013,total_Solar Photovoltaic,0.07409
+Licking,39089,2014,total_Solar Photovoltaic,0.08837
+Licking,39089,2015,total_Solar Photovoltaic,0.96685
+Licking,39089,2016,total_Solar Photovoltaic,0.06486
+Licking,39089,2017,total_Solar Photovoltaic,0.049460000000000004
+Licking,39089,2018,total_Solar Photovoltaic,3.57078
+Licking,39089,2019,total_Solar Photovoltaic,0.126715
+Licking,39089,2020,total_Solar Photovoltaic,0
+Licking,39089,2021,total_Solar Photovoltaic,0
+Licking,39089,2022,total_Solar Photovoltaic,0.053385
+Licking,39089,2023,total_Solar Photovoltaic,0.073885
+Licking,39089,2024,total_Solar Photovoltaic,0.310545
+Licking,39089,2009,total_Solid Waste,0.0
+Licking,39089,2010,total_Solid Waste,0.0
+Licking,39089,2011,total_Solid Waste,0.0
+Licking,39089,2012,total_Solid Waste,0.0
+Licking,39089,2013,total_Solid Waste,0.0
+Licking,39089,2014,total_Solid Waste,0.0
+Licking,39089,2015,total_Solid Waste,0.0
+Licking,39089,2016,total_Solid Waste,0.0
+Licking,39089,2017,total_Solid Waste,0.0
+Licking,39089,2018,total_Solid Waste,0.0
+Licking,39089,2019,total_Solid Waste,0.0
+Licking,39089,2020,total_Solid Waste,0
+Licking,39089,2021,total_Solid Waste,0
+Licking,39089,2022,total_Solid Waste,0.0
+Licking,39089,2023,total_Solid Waste,0.0
+Licking,39089,2024,total_Solid Waste,0.0
+Licking,39089,2009,total_Wind,0.0
+Licking,39089,2010,total_Wind,0.0
+Licking,39089,2011,total_Wind,0.0
+Licking,39089,2012,total_Wind,0.0
+Licking,39089,2013,total_Wind,0.0
+Licking,39089,2014,total_Wind,0.0
+Licking,39089,2015,total_Wind,0.0
+Licking,39089,2016,total_Wind,0.0
+Licking,39089,2017,total_Wind,0.0
+Licking,39089,2018,total_Wind,0.0
+Licking,39089,2019,total_Wind,0.0
+Licking,39089,2020,total_Wind,0
+Licking,39089,2021,total_Wind,0
+Licking,39089,2022,total_Wind,0.0
+Licking,39089,2023,total_Wind,0.0
+Licking,39089,2024,total_Wind,0.0
+Logan,39091,2009,count_Biomass,1.0
+Logan,39091,2010,count_Biomass,0.0
+Logan,39091,2011,count_Biomass,0
+Logan,39091,2012,count_Biomass,0.0
+Logan,39091,2013,count_Biomass,0.0
+Logan,39091,2014,count_Biomass,0.0
+Logan,39091,2015,count_Biomass,0.0
+Logan,39091,2016,count_Biomass,0.0
+Logan,39091,2017,count_Biomass,0.0
+Logan,39091,2018,count_Biomass,0.0
+Logan,39091,2019,count_Biomass,0
+Logan,39091,2020,count_Biomass,0.0
+Logan,39091,2021,count_Biomass,0
+Logan,39091,2022,count_Biomass,0
+Logan,39091,2023,count_Biomass,0.0
+Logan,39091,2024,count_Biomass,0
+Logan,39091,2009,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2011,count_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2019,count_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2022,count_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2024,count_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2009,count_Hydroelectric,0.0
+Logan,39091,2010,count_Hydroelectric,0.0
+Logan,39091,2011,count_Hydroelectric,0
+Logan,39091,2012,count_Hydroelectric,0.0
+Logan,39091,2013,count_Hydroelectric,0.0
+Logan,39091,2014,count_Hydroelectric,0.0
+Logan,39091,2015,count_Hydroelectric,0.0
+Logan,39091,2016,count_Hydroelectric,0.0
+Logan,39091,2017,count_Hydroelectric,0.0
+Logan,39091,2018,count_Hydroelectric,0.0
+Logan,39091,2019,count_Hydroelectric,0
+Logan,39091,2020,count_Hydroelectric,0.0
+Logan,39091,2021,count_Hydroelectric,0
+Logan,39091,2022,count_Hydroelectric,0
+Logan,39091,2023,count_Hydroelectric,0.0
+Logan,39091,2024,count_Hydroelectric,0
+Logan,39091,2009,count_Solar Photovoltaic,0.0
+Logan,39091,2010,count_Solar Photovoltaic,0.0
+Logan,39091,2011,count_Solar Photovoltaic,0
+Logan,39091,2012,count_Solar Photovoltaic,2.0
+Logan,39091,2013,count_Solar Photovoltaic,1.0
+Logan,39091,2014,count_Solar Photovoltaic,1.0
+Logan,39091,2015,count_Solar Photovoltaic,1.0
+Logan,39091,2016,count_Solar Photovoltaic,3.0
+Logan,39091,2017,count_Solar Photovoltaic,1.0
+Logan,39091,2018,count_Solar Photovoltaic,2.0
+Logan,39091,2019,count_Solar Photovoltaic,0
+Logan,39091,2020,count_Solar Photovoltaic,2.0
+Logan,39091,2021,count_Solar Photovoltaic,0
+Logan,39091,2022,count_Solar Photovoltaic,0
+Logan,39091,2023,count_Solar Photovoltaic,1.0
+Logan,39091,2024,count_Solar Photovoltaic,0
+Logan,39091,2009,count_Solid Waste,0.0
+Logan,39091,2010,count_Solid Waste,0.0
+Logan,39091,2011,count_Solid Waste,0
+Logan,39091,2012,count_Solid Waste,0.0
+Logan,39091,2013,count_Solid Waste,0.0
+Logan,39091,2014,count_Solid Waste,0.0
+Logan,39091,2015,count_Solid Waste,0.0
+Logan,39091,2016,count_Solid Waste,0.0
+Logan,39091,2017,count_Solid Waste,0.0
+Logan,39091,2018,count_Solid Waste,0.0
+Logan,39091,2019,count_Solid Waste,0
+Logan,39091,2020,count_Solid Waste,0.0
+Logan,39091,2021,count_Solid Waste,0
+Logan,39091,2022,count_Solid Waste,0
+Logan,39091,2023,count_Solid Waste,0.0
+Logan,39091,2024,count_Solid Waste,0
+Logan,39091,2009,count_Wind,0.0
+Logan,39091,2010,count_Wind,1.0
+Logan,39091,2011,count_Wind,0
+Logan,39091,2012,count_Wind,0.0
+Logan,39091,2013,count_Wind,0.0
+Logan,39091,2014,count_Wind,0.0
+Logan,39091,2015,count_Wind,0.0
+Logan,39091,2016,count_Wind,0.0
+Logan,39091,2017,count_Wind,0.0
+Logan,39091,2018,count_Wind,0.0
+Logan,39091,2019,count_Wind,0
+Logan,39091,2020,count_Wind,0.0
+Logan,39091,2021,count_Wind,0
+Logan,39091,2022,count_Wind,0
+Logan,39091,2023,count_Wind,0.0
+Logan,39091,2024,count_Wind,0
+Logan,39091,2009,total_Biomass,4.8
+Logan,39091,2010,total_Biomass,0.0
+Logan,39091,2011,total_Biomass,0
+Logan,39091,2012,total_Biomass,0.0
+Logan,39091,2013,total_Biomass,0.0
+Logan,39091,2014,total_Biomass,0.0
+Logan,39091,2015,total_Biomass,0.0
+Logan,39091,2016,total_Biomass,0.0
+Logan,39091,2017,total_Biomass,0.0
+Logan,39091,2018,total_Biomass,0.0
+Logan,39091,2019,total_Biomass,0
+Logan,39091,2020,total_Biomass,0.0
+Logan,39091,2021,total_Biomass,0
+Logan,39091,2022,total_Biomass,0
+Logan,39091,2023,total_Biomass,0.0
+Logan,39091,2024,total_Biomass,0
+Logan,39091,2009,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2011,total_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2019,total_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2022,total_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Logan,39091,2024,total_Captured Heat from Biologically Derived Methane Gas,0
+Logan,39091,2009,total_Hydroelectric,0.0
+Logan,39091,2010,total_Hydroelectric,0.0
+Logan,39091,2011,total_Hydroelectric,0
+Logan,39091,2012,total_Hydroelectric,0.0
+Logan,39091,2013,total_Hydroelectric,0.0
+Logan,39091,2014,total_Hydroelectric,0.0
+Logan,39091,2015,total_Hydroelectric,0.0
+Logan,39091,2016,total_Hydroelectric,0.0
+Logan,39091,2017,total_Hydroelectric,0.0
+Logan,39091,2018,total_Hydroelectric,0.0
+Logan,39091,2019,total_Hydroelectric,0
+Logan,39091,2020,total_Hydroelectric,0.0
+Logan,39091,2021,total_Hydroelectric,0
+Logan,39091,2022,total_Hydroelectric,0
+Logan,39091,2023,total_Hydroelectric,0.0
+Logan,39091,2024,total_Hydroelectric,0
+Logan,39091,2009,total_Solar Photovoltaic,0.0
+Logan,39091,2010,total_Solar Photovoltaic,0.0
+Logan,39091,2011,total_Solar Photovoltaic,0
+Logan,39091,2012,total_Solar Photovoltaic,0.04536
+Logan,39091,2013,total_Solar Photovoltaic,0.011
+Logan,39091,2014,total_Solar Photovoltaic,0.00936
+Logan,39091,2015,total_Solar Photovoltaic,0.00364
+Logan,39091,2016,total_Solar Photovoltaic,0.03455
+Logan,39091,2017,total_Solar Photovoltaic,0.01008
+Logan,39091,2018,total_Solar Photovoltaic,0.06555
+Logan,39091,2019,total_Solar Photovoltaic,0
+Logan,39091,2020,total_Solar Photovoltaic,0.020115
+Logan,39091,2021,total_Solar Photovoltaic,0
+Logan,39091,2022,total_Solar Photovoltaic,0
+Logan,39091,2023,total_Solar Photovoltaic,0.03792
+Logan,39091,2024,total_Solar Photovoltaic,0
+Logan,39091,2009,total_Solid Waste,0.0
+Logan,39091,2010,total_Solid Waste,0.0
+Logan,39091,2011,total_Solid Waste,0
+Logan,39091,2012,total_Solid Waste,0.0
+Logan,39091,2013,total_Solid Waste,0.0
+Logan,39091,2014,total_Solid Waste,0.0
+Logan,39091,2015,total_Solid Waste,0.0
+Logan,39091,2016,total_Solid Waste,0.0
+Logan,39091,2017,total_Solid Waste,0.0
+Logan,39091,2018,total_Solid Waste,0.0
+Logan,39091,2019,total_Solid Waste,0
+Logan,39091,2020,total_Solid Waste,0.0
+Logan,39091,2021,total_Solid Waste,0
+Logan,39091,2022,total_Solid Waste,0
+Logan,39091,2023,total_Solid Waste,0.0
+Logan,39091,2024,total_Solid Waste,0
+Logan,39091,2009,total_Wind,0.0
+Logan,39091,2010,total_Wind,0.01
+Logan,39091,2011,total_Wind,0
+Logan,39091,2012,total_Wind,0.0
+Logan,39091,2013,total_Wind,0.0
+Logan,39091,2014,total_Wind,0.0
+Logan,39091,2015,total_Wind,0.0
+Logan,39091,2016,total_Wind,0.0
+Logan,39091,2017,total_Wind,0.0
+Logan,39091,2018,total_Wind,0.0
+Logan,39091,2019,total_Wind,0
+Logan,39091,2020,total_Wind,0.0
+Logan,39091,2021,total_Wind,0
+Logan,39091,2022,total_Wind,0
+Logan,39091,2023,total_Wind,0.0
+Logan,39091,2024,total_Wind,0
+Madison,39097,2009,count_Biomass,0
+Madison,39097,2010,count_Biomass,0.0
+Madison,39097,2011,count_Biomass,0.0
+Madison,39097,2012,count_Biomass,0.0
+Madison,39097,2013,count_Biomass,0.0
+Madison,39097,2014,count_Biomass,0.0
+Madison,39097,2015,count_Biomass,0
+Madison,39097,2016,count_Biomass,0.0
+Madison,39097,2017,count_Biomass,0.0
+Madison,39097,2018,count_Biomass,0
+Madison,39097,2019,count_Biomass,0.0
+Madison,39097,2020,count_Biomass,0.0
+Madison,39097,2021,count_Biomass,0
+Madison,39097,2022,count_Biomass,0.0
+Madison,39097,2023,count_Biomass,0.0
+Madison,39097,2024,count_Biomass,0.0
+Madison,39097,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2015,count_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2018,count_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2009,count_Hydroelectric,0
+Madison,39097,2010,count_Hydroelectric,0.0
+Madison,39097,2011,count_Hydroelectric,0.0
+Madison,39097,2012,count_Hydroelectric,0.0
+Madison,39097,2013,count_Hydroelectric,0.0
+Madison,39097,2014,count_Hydroelectric,0.0
+Madison,39097,2015,count_Hydroelectric,0
+Madison,39097,2016,count_Hydroelectric,0.0
+Madison,39097,2017,count_Hydroelectric,0.0
+Madison,39097,2018,count_Hydroelectric,0
+Madison,39097,2019,count_Hydroelectric,0.0
+Madison,39097,2020,count_Hydroelectric,0.0
+Madison,39097,2021,count_Hydroelectric,0
+Madison,39097,2022,count_Hydroelectric,0.0
+Madison,39097,2023,count_Hydroelectric,0.0
+Madison,39097,2024,count_Hydroelectric,0.0
+Madison,39097,2009,count_Solar Photovoltaic,0
+Madison,39097,2010,count_Solar Photovoltaic,1.0
+Madison,39097,2011,count_Solar Photovoltaic,10.0
+Madison,39097,2012,count_Solar Photovoltaic,9.0
+Madison,39097,2013,count_Solar Photovoltaic,6.0
+Madison,39097,2014,count_Solar Photovoltaic,6.0
+Madison,39097,2015,count_Solar Photovoltaic,0
+Madison,39097,2016,count_Solar Photovoltaic,6.0
+Madison,39097,2017,count_Solar Photovoltaic,3.0
+Madison,39097,2018,count_Solar Photovoltaic,0
+Madison,39097,2019,count_Solar Photovoltaic,5.0
+Madison,39097,2020,count_Solar Photovoltaic,2.0
+Madison,39097,2021,count_Solar Photovoltaic,0
+Madison,39097,2022,count_Solar Photovoltaic,3.0
+Madison,39097,2023,count_Solar Photovoltaic,5.0
+Madison,39097,2024,count_Solar Photovoltaic,2.0
+Madison,39097,2009,count_Solid Waste,0
+Madison,39097,2010,count_Solid Waste,0.0
+Madison,39097,2011,count_Solid Waste,0.0
+Madison,39097,2012,count_Solid Waste,0.0
+Madison,39097,2013,count_Solid Waste,0.0
+Madison,39097,2014,count_Solid Waste,0.0
+Madison,39097,2015,count_Solid Waste,0
+Madison,39097,2016,count_Solid Waste,0.0
+Madison,39097,2017,count_Solid Waste,0.0
+Madison,39097,2018,count_Solid Waste,0
+Madison,39097,2019,count_Solid Waste,0.0
+Madison,39097,2020,count_Solid Waste,0.0
+Madison,39097,2021,count_Solid Waste,0
+Madison,39097,2022,count_Solid Waste,0.0
+Madison,39097,2023,count_Solid Waste,0.0
+Madison,39097,2024,count_Solid Waste,0.0
+Madison,39097,2009,count_Wind,0
+Madison,39097,2010,count_Wind,0.0
+Madison,39097,2011,count_Wind,0.0
+Madison,39097,2012,count_Wind,0.0
+Madison,39097,2013,count_Wind,0.0
+Madison,39097,2014,count_Wind,0.0
+Madison,39097,2015,count_Wind,0
+Madison,39097,2016,count_Wind,0.0
+Madison,39097,2017,count_Wind,0.0
+Madison,39097,2018,count_Wind,0
+Madison,39097,2019,count_Wind,0.0
+Madison,39097,2020,count_Wind,0.0
+Madison,39097,2021,count_Wind,0
+Madison,39097,2022,count_Wind,0.0
+Madison,39097,2023,count_Wind,0.0
+Madison,39097,2024,count_Wind,0.0
+Madison,39097,2009,total_Biomass,0
+Madison,39097,2010,total_Biomass,0.0
+Madison,39097,2011,total_Biomass,0.0
+Madison,39097,2012,total_Biomass,0.0
+Madison,39097,2013,total_Biomass,0.0
+Madison,39097,2014,total_Biomass,0.0
+Madison,39097,2015,total_Biomass,0
+Madison,39097,2016,total_Biomass,0.0
+Madison,39097,2017,total_Biomass,0.0
+Madison,39097,2018,total_Biomass,0
+Madison,39097,2019,total_Biomass,0.0
+Madison,39097,2020,total_Biomass,0.0
+Madison,39097,2021,total_Biomass,0
+Madison,39097,2022,total_Biomass,0.0
+Madison,39097,2023,total_Biomass,0.0
+Madison,39097,2024,total_Biomass,0.0
+Madison,39097,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2015,total_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2018,total_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Madison,39097,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Madison,39097,2009,total_Hydroelectric,0
+Madison,39097,2010,total_Hydroelectric,0.0
+Madison,39097,2011,total_Hydroelectric,0.0
+Madison,39097,2012,total_Hydroelectric,0.0
+Madison,39097,2013,total_Hydroelectric,0.0
+Madison,39097,2014,total_Hydroelectric,0.0
+Madison,39097,2015,total_Hydroelectric,0
+Madison,39097,2016,total_Hydroelectric,0.0
+Madison,39097,2017,total_Hydroelectric,0.0
+Madison,39097,2018,total_Hydroelectric,0
+Madison,39097,2019,total_Hydroelectric,0.0
+Madison,39097,2020,total_Hydroelectric,0.0
+Madison,39097,2021,total_Hydroelectric,0
+Madison,39097,2022,total_Hydroelectric,0.0
+Madison,39097,2023,total_Hydroelectric,0.0
+Madison,39097,2024,total_Hydroelectric,0.0
+Madison,39097,2009,total_Solar Photovoltaic,0
+Madison,39097,2010,total_Solar Photovoltaic,0.00684
+Madison,39097,2011,total_Solar Photovoltaic,0.11669
+Madison,39097,2012,total_Solar Photovoltaic,0.13044
+Madison,39097,2013,total_Solar Photovoltaic,3.31497
+Madison,39097,2014,total_Solar Photovoltaic,0.08984
+Madison,39097,2015,total_Solar Photovoltaic,0
+Madison,39097,2016,total_Solar Photovoltaic,0.09878
+Madison,39097,2017,total_Solar Photovoltaic,0.02701
+Madison,39097,2018,total_Solar Photovoltaic,0
+Madison,39097,2019,total_Solar Photovoltaic,3.52544
+Madison,39097,2020,total_Solar Photovoltaic,0.59496
+Madison,39097,2021,total_Solar Photovoltaic,0
+Madison,39097,2022,total_Solar Photovoltaic,0.23574
+Madison,39097,2023,total_Solar Photovoltaic,983.268641
+Madison,39097,2024,total_Solar Photovoltaic,0.019200000000000002
+Madison,39097,2009,total_Solid Waste,0
+Madison,39097,2010,total_Solid Waste,0.0
+Madison,39097,2011,total_Solid Waste,0.0
+Madison,39097,2012,total_Solid Waste,0.0
+Madison,39097,2013,total_Solid Waste,0.0
+Madison,39097,2014,total_Solid Waste,0.0
+Madison,39097,2015,total_Solid Waste,0
+Madison,39097,2016,total_Solid Waste,0.0
+Madison,39097,2017,total_Solid Waste,0.0
+Madison,39097,2018,total_Solid Waste,0
+Madison,39097,2019,total_Solid Waste,0.0
+Madison,39097,2020,total_Solid Waste,0.0
+Madison,39097,2021,total_Solid Waste,0
+Madison,39097,2022,total_Solid Waste,0.0
+Madison,39097,2023,total_Solid Waste,0.0
+Madison,39097,2024,total_Solid Waste,0.0
+Madison,39097,2009,total_Wind,0
+Madison,39097,2010,total_Wind,0.0
+Madison,39097,2011,total_Wind,0.0
+Madison,39097,2012,total_Wind,0.0
+Madison,39097,2013,total_Wind,0.0
+Madison,39097,2014,total_Wind,0.0
+Madison,39097,2015,total_Wind,0
+Madison,39097,2016,total_Wind,0.0
+Madison,39097,2017,total_Wind,0.0
+Madison,39097,2018,total_Wind,0
+Madison,39097,2019,total_Wind,0.0
+Madison,39097,2020,total_Wind,0.0
+Madison,39097,2021,total_Wind,0
+Madison,39097,2022,total_Wind,0.0
+Madison,39097,2023,total_Wind,0.0
+Madison,39097,2024,total_Wind,0.0
+Marion,39101,2009,count_Biomass,0
+Marion,39101,2010,count_Biomass,0
+Marion,39101,2011,count_Biomass,0.0
+Marion,39101,2012,count_Biomass,0.0
+Marion,39101,2013,count_Biomass,0.0
+Marion,39101,2014,count_Biomass,0.0
+Marion,39101,2015,count_Biomass,0.0
+Marion,39101,2016,count_Biomass,0.0
+Marion,39101,2017,count_Biomass,0.0
+Marion,39101,2018,count_Biomass,0.0
+Marion,39101,2019,count_Biomass,0.0
+Marion,39101,2020,count_Biomass,0.0
+Marion,39101,2021,count_Biomass,0
+Marion,39101,2022,count_Biomass,0.0
+Marion,39101,2023,count_Biomass,0.0
+Marion,39101,2024,count_Biomass,0.0
+Marion,39101,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Marion,39101,2010,count_Captured Heat from Biologically Derived Methane Gas,0
+Marion,39101,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Marion,39101,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2009,count_Hydroelectric,0
+Marion,39101,2010,count_Hydroelectric,0
+Marion,39101,2011,count_Hydroelectric,0.0
+Marion,39101,2012,count_Hydroelectric,0.0
+Marion,39101,2013,count_Hydroelectric,0.0
+Marion,39101,2014,count_Hydroelectric,0.0
+Marion,39101,2015,count_Hydroelectric,0.0
+Marion,39101,2016,count_Hydroelectric,0.0
+Marion,39101,2017,count_Hydroelectric,0.0
+Marion,39101,2018,count_Hydroelectric,0.0
+Marion,39101,2019,count_Hydroelectric,0.0
+Marion,39101,2020,count_Hydroelectric,0.0
+Marion,39101,2021,count_Hydroelectric,0
+Marion,39101,2022,count_Hydroelectric,0.0
+Marion,39101,2023,count_Hydroelectric,0.0
+Marion,39101,2024,count_Hydroelectric,0.0
+Marion,39101,2009,count_Solar Photovoltaic,0
+Marion,39101,2010,count_Solar Photovoltaic,0
+Marion,39101,2011,count_Solar Photovoltaic,5.0
+Marion,39101,2012,count_Solar Photovoltaic,3.0
+Marion,39101,2013,count_Solar Photovoltaic,2.0
+Marion,39101,2014,count_Solar Photovoltaic,19.0
+Marion,39101,2015,count_Solar Photovoltaic,21.0
+Marion,39101,2016,count_Solar Photovoltaic,16.0
+Marion,39101,2017,count_Solar Photovoltaic,14.0
+Marion,39101,2018,count_Solar Photovoltaic,7.0
+Marion,39101,2019,count_Solar Photovoltaic,3.0
+Marion,39101,2020,count_Solar Photovoltaic,3.0
+Marion,39101,2021,count_Solar Photovoltaic,0
+Marion,39101,2022,count_Solar Photovoltaic,2.0
+Marion,39101,2023,count_Solar Photovoltaic,7.0
+Marion,39101,2024,count_Solar Photovoltaic,2.0
+Marion,39101,2009,count_Solid Waste,0
+Marion,39101,2010,count_Solid Waste,0
+Marion,39101,2011,count_Solid Waste,0.0
+Marion,39101,2012,count_Solid Waste,0.0
+Marion,39101,2013,count_Solid Waste,0.0
+Marion,39101,2014,count_Solid Waste,0.0
+Marion,39101,2015,count_Solid Waste,0.0
+Marion,39101,2016,count_Solid Waste,0.0
+Marion,39101,2017,count_Solid Waste,0.0
+Marion,39101,2018,count_Solid Waste,0.0
+Marion,39101,2019,count_Solid Waste,0.0
+Marion,39101,2020,count_Solid Waste,0.0
+Marion,39101,2021,count_Solid Waste,0
+Marion,39101,2022,count_Solid Waste,0.0
+Marion,39101,2023,count_Solid Waste,0.0
+Marion,39101,2024,count_Solid Waste,0.0
+Marion,39101,2009,count_Wind,0
+Marion,39101,2010,count_Wind,0
+Marion,39101,2011,count_Wind,0.0
+Marion,39101,2012,count_Wind,0.0
+Marion,39101,2013,count_Wind,0.0
+Marion,39101,2014,count_Wind,0.0
+Marion,39101,2015,count_Wind,0.0
+Marion,39101,2016,count_Wind,0.0
+Marion,39101,2017,count_Wind,0.0
+Marion,39101,2018,count_Wind,1.0
+Marion,39101,2019,count_Wind,0.0
+Marion,39101,2020,count_Wind,0.0
+Marion,39101,2021,count_Wind,0
+Marion,39101,2022,count_Wind,0.0
+Marion,39101,2023,count_Wind,1.0
+Marion,39101,2024,count_Wind,0.0
+Marion,39101,2009,total_Biomass,0
+Marion,39101,2010,total_Biomass,0
+Marion,39101,2011,total_Biomass,0.0
+Marion,39101,2012,total_Biomass,0.0
+Marion,39101,2013,total_Biomass,0.0
+Marion,39101,2014,total_Biomass,0.0
+Marion,39101,2015,total_Biomass,0.0
+Marion,39101,2016,total_Biomass,0.0
+Marion,39101,2017,total_Biomass,0.0
+Marion,39101,2018,total_Biomass,0.0
+Marion,39101,2019,total_Biomass,0.0
+Marion,39101,2020,total_Biomass,0.0
+Marion,39101,2021,total_Biomass,0
+Marion,39101,2022,total_Biomass,0.0
+Marion,39101,2023,total_Biomass,0.0
+Marion,39101,2024,total_Biomass,0.0
+Marion,39101,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Marion,39101,2010,total_Captured Heat from Biologically Derived Methane Gas,0
+Marion,39101,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Marion,39101,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Marion,39101,2009,total_Hydroelectric,0
+Marion,39101,2010,total_Hydroelectric,0
+Marion,39101,2011,total_Hydroelectric,0.0
+Marion,39101,2012,total_Hydroelectric,0.0
+Marion,39101,2013,total_Hydroelectric,0.0
+Marion,39101,2014,total_Hydroelectric,0.0
+Marion,39101,2015,total_Hydroelectric,0.0
+Marion,39101,2016,total_Hydroelectric,0.0
+Marion,39101,2017,total_Hydroelectric,0.0
+Marion,39101,2018,total_Hydroelectric,0.0
+Marion,39101,2019,total_Hydroelectric,0.0
+Marion,39101,2020,total_Hydroelectric,0.0
+Marion,39101,2021,total_Hydroelectric,0
+Marion,39101,2022,total_Hydroelectric,0.0
+Marion,39101,2023,total_Hydroelectric,0.0
+Marion,39101,2024,total_Hydroelectric,0.0
+Marion,39101,2009,total_Solar Photovoltaic,0
+Marion,39101,2010,total_Solar Photovoltaic,0
+Marion,39101,2011,total_Solar Photovoltaic,0.16272
+Marion,39101,2012,total_Solar Photovoltaic,0.0249
+Marion,39101,2013,total_Solar Photovoltaic,2.01928
+Marion,39101,2014,total_Solar Photovoltaic,77.81972999999999
+Marion,39101,2015,total_Solar Photovoltaic,9.969909999999999
+Marion,39101,2016,total_Solar Photovoltaic,22.1277
+Marion,39101,2017,total_Solar Photovoltaic,0.46599500000000005
+Marion,39101,2018,total_Solar Photovoltaic,0.37335999999999997
+Marion,39101,2019,total_Solar Photovoltaic,2.3158899999999996
+Marion,39101,2020,total_Solar Photovoltaic,0.35125500000000004
+Marion,39101,2021,total_Solar Photovoltaic,0
+Marion,39101,2022,total_Solar Photovoltaic,0.03299
+Marion,39101,2023,total_Solar Photovoltaic,1.03705
+Marion,39101,2024,total_Solar Photovoltaic,6.36648
+Marion,39101,2009,total_Solid Waste,0
+Marion,39101,2010,total_Solid Waste,0
+Marion,39101,2011,total_Solid Waste,0.0
+Marion,39101,2012,total_Solid Waste,0.0
+Marion,39101,2013,total_Solid Waste,0.0
+Marion,39101,2014,total_Solid Waste,0.0
+Marion,39101,2015,total_Solid Waste,0.0
+Marion,39101,2016,total_Solid Waste,0.0
+Marion,39101,2017,total_Solid Waste,0.0
+Marion,39101,2018,total_Solid Waste,0.0
+Marion,39101,2019,total_Solid Waste,0.0
+Marion,39101,2020,total_Solid Waste,0.0
+Marion,39101,2021,total_Solid Waste,0
+Marion,39101,2022,total_Solid Waste,0.0
+Marion,39101,2023,total_Solid Waste,0.0
+Marion,39101,2024,total_Solid Waste,0.0
+Marion,39101,2009,total_Wind,0
+Marion,39101,2010,total_Wind,0
+Marion,39101,2011,total_Wind,0.0
+Marion,39101,2012,total_Wind,0.0
+Marion,39101,2013,total_Wind,0.0
+Marion,39101,2014,total_Wind,0.0
+Marion,39101,2015,total_Wind,0.0
+Marion,39101,2016,total_Wind,0.0
+Marion,39101,2017,total_Wind,0.0
+Marion,39101,2018,total_Wind,4.5
+Marion,39101,2019,total_Wind,0.0
+Marion,39101,2020,total_Wind,0.0
+Marion,39101,2021,total_Wind,0
+Marion,39101,2022,total_Wind,0.0
+Marion,39101,2023,total_Wind,0.0024
+Marion,39101,2024,total_Wind,0.0
+Morrow,39117,2009,count_Biomass,0
+Morrow,39117,2010,count_Biomass,0
+Morrow,39117,2011,count_Biomass,0
+Morrow,39117,2012,count_Biomass,0
+Morrow,39117,2013,count_Biomass,0.0
+Morrow,39117,2014,count_Biomass,1.0
+Morrow,39117,2015,count_Biomass,0.0
+Morrow,39117,2016,count_Biomass,0.0
+Morrow,39117,2017,count_Biomass,0.0
+Morrow,39117,2018,count_Biomass,0
+Morrow,39117,2019,count_Biomass,0
+Morrow,39117,2020,count_Biomass,0.0
+Morrow,39117,2021,count_Biomass,0
+Morrow,39117,2022,count_Biomass,0
+Morrow,39117,2023,count_Biomass,0
+Morrow,39117,2024,count_Biomass,0
+Morrow,39117,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2010,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2011,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2012,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2018,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2019,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2022,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2023,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2024,count_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2009,count_Hydroelectric,0
+Morrow,39117,2010,count_Hydroelectric,0
+Morrow,39117,2011,count_Hydroelectric,0
+Morrow,39117,2012,count_Hydroelectric,0
+Morrow,39117,2013,count_Hydroelectric,0.0
+Morrow,39117,2014,count_Hydroelectric,0.0
+Morrow,39117,2015,count_Hydroelectric,0.0
+Morrow,39117,2016,count_Hydroelectric,0.0
+Morrow,39117,2017,count_Hydroelectric,0.0
+Morrow,39117,2018,count_Hydroelectric,0
+Morrow,39117,2019,count_Hydroelectric,0
+Morrow,39117,2020,count_Hydroelectric,0.0
+Morrow,39117,2021,count_Hydroelectric,0
+Morrow,39117,2022,count_Hydroelectric,0
+Morrow,39117,2023,count_Hydroelectric,0
+Morrow,39117,2024,count_Hydroelectric,0
+Morrow,39117,2009,count_Solar Photovoltaic,0
+Morrow,39117,2010,count_Solar Photovoltaic,0
+Morrow,39117,2011,count_Solar Photovoltaic,0
+Morrow,39117,2012,count_Solar Photovoltaic,0
+Morrow,39117,2013,count_Solar Photovoltaic,1.0
+Morrow,39117,2014,count_Solar Photovoltaic,3.0
+Morrow,39117,2015,count_Solar Photovoltaic,1.0
+Morrow,39117,2016,count_Solar Photovoltaic,2.0
+Morrow,39117,2017,count_Solar Photovoltaic,1.0
+Morrow,39117,2018,count_Solar Photovoltaic,0
+Morrow,39117,2019,count_Solar Photovoltaic,0
+Morrow,39117,2020,count_Solar Photovoltaic,1.0
+Morrow,39117,2021,count_Solar Photovoltaic,0
+Morrow,39117,2022,count_Solar Photovoltaic,0
+Morrow,39117,2023,count_Solar Photovoltaic,0
+Morrow,39117,2024,count_Solar Photovoltaic,0
+Morrow,39117,2009,count_Solid Waste,0
+Morrow,39117,2010,count_Solid Waste,0
+Morrow,39117,2011,count_Solid Waste,0
+Morrow,39117,2012,count_Solid Waste,0
+Morrow,39117,2013,count_Solid Waste,0.0
+Morrow,39117,2014,count_Solid Waste,0.0
+Morrow,39117,2015,count_Solid Waste,0.0
+Morrow,39117,2016,count_Solid Waste,0.0
+Morrow,39117,2017,count_Solid Waste,0.0
+Morrow,39117,2018,count_Solid Waste,0
+Morrow,39117,2019,count_Solid Waste,0
+Morrow,39117,2020,count_Solid Waste,0.0
+Morrow,39117,2021,count_Solid Waste,0
+Morrow,39117,2022,count_Solid Waste,0
+Morrow,39117,2023,count_Solid Waste,0
+Morrow,39117,2024,count_Solid Waste,0
+Morrow,39117,2009,count_Wind,0
+Morrow,39117,2010,count_Wind,0
+Morrow,39117,2011,count_Wind,0
+Morrow,39117,2012,count_Wind,0
+Morrow,39117,2013,count_Wind,0.0
+Morrow,39117,2014,count_Wind,0.0
+Morrow,39117,2015,count_Wind,0.0
+Morrow,39117,2016,count_Wind,0.0
+Morrow,39117,2017,count_Wind,0.0
+Morrow,39117,2018,count_Wind,0
+Morrow,39117,2019,count_Wind,0
+Morrow,39117,2020,count_Wind,0.0
+Morrow,39117,2021,count_Wind,0
+Morrow,39117,2022,count_Wind,0
+Morrow,39117,2023,count_Wind,0
+Morrow,39117,2024,count_Wind,0
+Morrow,39117,2009,total_Biomass,0
+Morrow,39117,2010,total_Biomass,0
+Morrow,39117,2011,total_Biomass,0
+Morrow,39117,2012,total_Biomass,0
+Morrow,39117,2013,total_Biomass,0.0
+Morrow,39117,2014,total_Biomass,0.85
+Morrow,39117,2015,total_Biomass,0.0
+Morrow,39117,2016,total_Biomass,0.0
+Morrow,39117,2017,total_Biomass,0.0
+Morrow,39117,2018,total_Biomass,0
+Morrow,39117,2019,total_Biomass,0
+Morrow,39117,2020,total_Biomass,0.0
+Morrow,39117,2021,total_Biomass,0
+Morrow,39117,2022,total_Biomass,0
+Morrow,39117,2023,total_Biomass,0
+Morrow,39117,2024,total_Biomass,0
+Morrow,39117,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2010,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2011,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2012,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2018,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2019,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Morrow,39117,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2022,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2023,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2024,total_Captured Heat from Biologically Derived Methane Gas,0
+Morrow,39117,2009,total_Hydroelectric,0
+Morrow,39117,2010,total_Hydroelectric,0
+Morrow,39117,2011,total_Hydroelectric,0
+Morrow,39117,2012,total_Hydroelectric,0
+Morrow,39117,2013,total_Hydroelectric,0.0
+Morrow,39117,2014,total_Hydroelectric,0.0
+Morrow,39117,2015,total_Hydroelectric,0.0
+Morrow,39117,2016,total_Hydroelectric,0.0
+Morrow,39117,2017,total_Hydroelectric,0.0
+Morrow,39117,2018,total_Hydroelectric,0
+Morrow,39117,2019,total_Hydroelectric,0
+Morrow,39117,2020,total_Hydroelectric,0.0
+Morrow,39117,2021,total_Hydroelectric,0
+Morrow,39117,2022,total_Hydroelectric,0
+Morrow,39117,2023,total_Hydroelectric,0
+Morrow,39117,2024,total_Hydroelectric,0
+Morrow,39117,2009,total_Solar Photovoltaic,0
+Morrow,39117,2010,total_Solar Photovoltaic,0
+Morrow,39117,2011,total_Solar Photovoltaic,0
+Morrow,39117,2012,total_Solar Photovoltaic,0
+Morrow,39117,2013,total_Solar Photovoltaic,0.02016
+Morrow,39117,2014,total_Solar Photovoltaic,0.61224
+Morrow,39117,2015,total_Solar Photovoltaic,0.0062
+Morrow,39117,2016,total_Solar Photovoltaic,0.014759999999999999
+Morrow,39117,2017,total_Solar Photovoltaic,0.0091
+Morrow,39117,2018,total_Solar Photovoltaic,0
+Morrow,39117,2019,total_Solar Photovoltaic,0
+Morrow,39117,2020,total_Solar Photovoltaic,0.0088
+Morrow,39117,2021,total_Solar Photovoltaic,0
+Morrow,39117,2022,total_Solar Photovoltaic,0
+Morrow,39117,2023,total_Solar Photovoltaic,0
+Morrow,39117,2024,total_Solar Photovoltaic,0
+Morrow,39117,2009,total_Solid Waste,0
+Morrow,39117,2010,total_Solid Waste,0
+Morrow,39117,2011,total_Solid Waste,0
+Morrow,39117,2012,total_Solid Waste,0
+Morrow,39117,2013,total_Solid Waste,0.0
+Morrow,39117,2014,total_Solid Waste,0.0
+Morrow,39117,2015,total_Solid Waste,0.0
+Morrow,39117,2016,total_Solid Waste,0.0
+Morrow,39117,2017,total_Solid Waste,0.0
+Morrow,39117,2018,total_Solid Waste,0
+Morrow,39117,2019,total_Solid Waste,0
+Morrow,39117,2020,total_Solid Waste,0.0
+Morrow,39117,2021,total_Solid Waste,0
+Morrow,39117,2022,total_Solid Waste,0
+Morrow,39117,2023,total_Solid Waste,0
+Morrow,39117,2024,total_Solid Waste,0
+Morrow,39117,2009,total_Wind,0
+Morrow,39117,2010,total_Wind,0
+Morrow,39117,2011,total_Wind,0
+Morrow,39117,2012,total_Wind,0
+Morrow,39117,2013,total_Wind,0.0
+Morrow,39117,2014,total_Wind,0.0
+Morrow,39117,2015,total_Wind,0.0
+Morrow,39117,2016,total_Wind,0.0
+Morrow,39117,2017,total_Wind,0.0
+Morrow,39117,2018,total_Wind,0
+Morrow,39117,2019,total_Wind,0
+Morrow,39117,2020,total_Wind,0.0
+Morrow,39117,2021,total_Wind,0
+Morrow,39117,2022,total_Wind,0
+Morrow,39117,2023,total_Wind,0
+Morrow,39117,2024,total_Wind,0
+Perry,39127,2009,count_Biomass,0.0
+Perry,39127,2010,count_Biomass,0.0
+Perry,39127,2011,count_Biomass,1.0
+Perry,39127,2012,count_Biomass,0.0
+Perry,39127,2013,count_Biomass,0.0
+Perry,39127,2014,count_Biomass,0.0
+Perry,39127,2015,count_Biomass,0.0
+Perry,39127,2016,count_Biomass,0.0
+Perry,39127,2017,count_Biomass,0.0
+Perry,39127,2018,count_Biomass,0.0
+Perry,39127,2019,count_Biomass,0.0
+Perry,39127,2020,count_Biomass,0
+Perry,39127,2021,count_Biomass,0.0
+Perry,39127,2022,count_Biomass,0
+Perry,39127,2023,count_Biomass,0
+Perry,39127,2024,count_Biomass,0.0
+Perry,39127,2009,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2020,count_Captured Heat from Biologically Derived Methane Gas,0
+Perry,39127,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2022,count_Captured Heat from Biologically Derived Methane Gas,0
+Perry,39127,2023,count_Captured Heat from Biologically Derived Methane Gas,0
+Perry,39127,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2009,count_Hydroelectric,0.0
+Perry,39127,2010,count_Hydroelectric,0.0
+Perry,39127,2011,count_Hydroelectric,0.0
+Perry,39127,2012,count_Hydroelectric,0.0
+Perry,39127,2013,count_Hydroelectric,0.0
+Perry,39127,2014,count_Hydroelectric,0.0
+Perry,39127,2015,count_Hydroelectric,0.0
+Perry,39127,2016,count_Hydroelectric,0.0
+Perry,39127,2017,count_Hydroelectric,0.0
+Perry,39127,2018,count_Hydroelectric,0.0
+Perry,39127,2019,count_Hydroelectric,0.0
+Perry,39127,2020,count_Hydroelectric,0
+Perry,39127,2021,count_Hydroelectric,0.0
+Perry,39127,2022,count_Hydroelectric,0
+Perry,39127,2023,count_Hydroelectric,0
+Perry,39127,2024,count_Hydroelectric,0.0
+Perry,39127,2009,count_Solar Photovoltaic,1.0
+Perry,39127,2010,count_Solar Photovoltaic,9.0
+Perry,39127,2011,count_Solar Photovoltaic,42.0
+Perry,39127,2012,count_Solar Photovoltaic,18.0
+Perry,39127,2013,count_Solar Photovoltaic,5.0
+Perry,39127,2014,count_Solar Photovoltaic,4.0
+Perry,39127,2015,count_Solar Photovoltaic,7.0
+Perry,39127,2016,count_Solar Photovoltaic,10.0
+Perry,39127,2017,count_Solar Photovoltaic,4.0
+Perry,39127,2018,count_Solar Photovoltaic,1.0
+Perry,39127,2019,count_Solar Photovoltaic,2.0
+Perry,39127,2020,count_Solar Photovoltaic,0
+Perry,39127,2021,count_Solar Photovoltaic,1.0
+Perry,39127,2022,count_Solar Photovoltaic,0
+Perry,39127,2023,count_Solar Photovoltaic,0
+Perry,39127,2024,count_Solar Photovoltaic,2.0
+Perry,39127,2009,count_Solid Waste,0.0
+Perry,39127,2010,count_Solid Waste,0.0
+Perry,39127,2011,count_Solid Waste,0.0
+Perry,39127,2012,count_Solid Waste,0.0
+Perry,39127,2013,count_Solid Waste,0.0
+Perry,39127,2014,count_Solid Waste,0.0
+Perry,39127,2015,count_Solid Waste,0.0
+Perry,39127,2016,count_Solid Waste,0.0
+Perry,39127,2017,count_Solid Waste,0.0
+Perry,39127,2018,count_Solid Waste,0.0
+Perry,39127,2019,count_Solid Waste,0.0
+Perry,39127,2020,count_Solid Waste,0
+Perry,39127,2021,count_Solid Waste,0.0
+Perry,39127,2022,count_Solid Waste,0
+Perry,39127,2023,count_Solid Waste,0
+Perry,39127,2024,count_Solid Waste,0.0
+Perry,39127,2009,count_Wind,0.0
+Perry,39127,2010,count_Wind,0.0
+Perry,39127,2011,count_Wind,0.0
+Perry,39127,2012,count_Wind,0.0
+Perry,39127,2013,count_Wind,0.0
+Perry,39127,2014,count_Wind,0.0
+Perry,39127,2015,count_Wind,0.0
+Perry,39127,2016,count_Wind,0.0
+Perry,39127,2017,count_Wind,0.0
+Perry,39127,2018,count_Wind,0.0
+Perry,39127,2019,count_Wind,0.0
+Perry,39127,2020,count_Wind,0
+Perry,39127,2021,count_Wind,0.0
+Perry,39127,2022,count_Wind,0
+Perry,39127,2023,count_Wind,0
+Perry,39127,2024,count_Wind,0.0
+Perry,39127,2009,total_Biomass,0.0
+Perry,39127,2010,total_Biomass,0.0
+Perry,39127,2011,total_Biomass,5.6
+Perry,39127,2012,total_Biomass,0.0
+Perry,39127,2013,total_Biomass,0.0
+Perry,39127,2014,total_Biomass,0.0
+Perry,39127,2015,total_Biomass,0.0
+Perry,39127,2016,total_Biomass,0.0
+Perry,39127,2017,total_Biomass,0.0
+Perry,39127,2018,total_Biomass,0.0
+Perry,39127,2019,total_Biomass,0.0
+Perry,39127,2020,total_Biomass,0
+Perry,39127,2021,total_Biomass,0.0
+Perry,39127,2022,total_Biomass,0
+Perry,39127,2023,total_Biomass,0
+Perry,39127,2024,total_Biomass,0.0
+Perry,39127,2009,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2020,total_Captured Heat from Biologically Derived Methane Gas,0
+Perry,39127,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2022,total_Captured Heat from Biologically Derived Methane Gas,0
+Perry,39127,2023,total_Captured Heat from Biologically Derived Methane Gas,0
+Perry,39127,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Perry,39127,2009,total_Hydroelectric,0.0
+Perry,39127,2010,total_Hydroelectric,0.0
+Perry,39127,2011,total_Hydroelectric,0.0
+Perry,39127,2012,total_Hydroelectric,0.0
+Perry,39127,2013,total_Hydroelectric,0.0
+Perry,39127,2014,total_Hydroelectric,0.0
+Perry,39127,2015,total_Hydroelectric,0.0
+Perry,39127,2016,total_Hydroelectric,0.0
+Perry,39127,2017,total_Hydroelectric,0.0
+Perry,39127,2018,total_Hydroelectric,0.0
+Perry,39127,2019,total_Hydroelectric,0.0
+Perry,39127,2020,total_Hydroelectric,0
+Perry,39127,2021,total_Hydroelectric,0.0
+Perry,39127,2022,total_Hydroelectric,0
+Perry,39127,2023,total_Hydroelectric,0
+Perry,39127,2024,total_Hydroelectric,0.0
+Perry,39127,2009,total_Solar Photovoltaic,0.00828
+Perry,39127,2010,total_Solar Photovoltaic,0.21828999999999998
+Perry,39127,2011,total_Solar Photovoltaic,0.45139
+Perry,39127,2012,total_Solar Photovoltaic,0.18997
+Perry,39127,2013,total_Solar Photovoltaic,0.05338
+Perry,39127,2014,total_Solar Photovoltaic,0.04133
+Perry,39127,2015,total_Solar Photovoltaic,0.06511
+Perry,39127,2016,total_Solar Photovoltaic,0.10168
+Perry,39127,2017,total_Solar Photovoltaic,0.04854
+Perry,39127,2018,total_Solar Photovoltaic,0.0108
+Perry,39127,2019,total_Solar Photovoltaic,0.01764
+Perry,39127,2020,total_Solar Photovoltaic,0
+Perry,39127,2021,total_Solar Photovoltaic,0.125895
+Perry,39127,2022,total_Solar Photovoltaic,0
+Perry,39127,2023,total_Solar Photovoltaic,0
+Perry,39127,2024,total_Solar Photovoltaic,0.03344
+Perry,39127,2009,total_Solid Waste,0.0
+Perry,39127,2010,total_Solid Waste,0.0
+Perry,39127,2011,total_Solid Waste,0.0
+Perry,39127,2012,total_Solid Waste,0.0
+Perry,39127,2013,total_Solid Waste,0.0
+Perry,39127,2014,total_Solid Waste,0.0
+Perry,39127,2015,total_Solid Waste,0.0
+Perry,39127,2016,total_Solid Waste,0.0
+Perry,39127,2017,total_Solid Waste,0.0
+Perry,39127,2018,total_Solid Waste,0.0
+Perry,39127,2019,total_Solid Waste,0.0
+Perry,39127,2020,total_Solid Waste,0
+Perry,39127,2021,total_Solid Waste,0.0
+Perry,39127,2022,total_Solid Waste,0
+Perry,39127,2023,total_Solid Waste,0
+Perry,39127,2024,total_Solid Waste,0.0
+Perry,39127,2009,total_Wind,0.0
+Perry,39127,2010,total_Wind,0.0
+Perry,39127,2011,total_Wind,0.0
+Perry,39127,2012,total_Wind,0.0
+Perry,39127,2013,total_Wind,0.0
+Perry,39127,2014,total_Wind,0.0
+Perry,39127,2015,total_Wind,0.0
+Perry,39127,2016,total_Wind,0.0
+Perry,39127,2017,total_Wind,0.0
+Perry,39127,2018,total_Wind,0.0
+Perry,39127,2019,total_Wind,0.0
+Perry,39127,2020,total_Wind,0
+Perry,39127,2021,total_Wind,0.0
+Perry,39127,2022,total_Wind,0
+Perry,39127,2023,total_Wind,0
+Perry,39127,2024,total_Wind,0.0
+Pickaway,39129,2009,count_Biomass,0
+Pickaway,39129,2010,count_Biomass,0
+Pickaway,39129,2011,count_Biomass,0.0
+Pickaway,39129,2012,count_Biomass,0.0
+Pickaway,39129,2013,count_Biomass,0.0
+Pickaway,39129,2014,count_Biomass,0.0
+Pickaway,39129,2015,count_Biomass,0.0
+Pickaway,39129,2016,count_Biomass,0.0
+Pickaway,39129,2017,count_Biomass,0.0
+Pickaway,39129,2018,count_Biomass,0
+Pickaway,39129,2019,count_Biomass,0.0
+Pickaway,39129,2020,count_Biomass,0
+Pickaway,39129,2021,count_Biomass,0.0
+Pickaway,39129,2022,count_Biomass,0
+Pickaway,39129,2023,count_Biomass,0
+Pickaway,39129,2024,count_Biomass,0.0
+Pickaway,39129,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2010,count_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2018,count_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2020,count_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2022,count_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2023,count_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2009,count_Hydroelectric,0
+Pickaway,39129,2010,count_Hydroelectric,0
+Pickaway,39129,2011,count_Hydroelectric,0.0
+Pickaway,39129,2012,count_Hydroelectric,0.0
+Pickaway,39129,2013,count_Hydroelectric,0.0
+Pickaway,39129,2014,count_Hydroelectric,0.0
+Pickaway,39129,2015,count_Hydroelectric,0.0
+Pickaway,39129,2016,count_Hydroelectric,0.0
+Pickaway,39129,2017,count_Hydroelectric,0.0
+Pickaway,39129,2018,count_Hydroelectric,0
+Pickaway,39129,2019,count_Hydroelectric,0.0
+Pickaway,39129,2020,count_Hydroelectric,0
+Pickaway,39129,2021,count_Hydroelectric,0.0
+Pickaway,39129,2022,count_Hydroelectric,0
+Pickaway,39129,2023,count_Hydroelectric,0
+Pickaway,39129,2024,count_Hydroelectric,0.0
+Pickaway,39129,2009,count_Solar Photovoltaic,0
+Pickaway,39129,2010,count_Solar Photovoltaic,0
+Pickaway,39129,2011,count_Solar Photovoltaic,1.0
+Pickaway,39129,2012,count_Solar Photovoltaic,1.0
+Pickaway,39129,2013,count_Solar Photovoltaic,4.0
+Pickaway,39129,2014,count_Solar Photovoltaic,3.0
+Pickaway,39129,2015,count_Solar Photovoltaic,1.0
+Pickaway,39129,2016,count_Solar Photovoltaic,4.0
+Pickaway,39129,2017,count_Solar Photovoltaic,2.0
+Pickaway,39129,2018,count_Solar Photovoltaic,0
+Pickaway,39129,2019,count_Solar Photovoltaic,1.0
+Pickaway,39129,2020,count_Solar Photovoltaic,0
+Pickaway,39129,2021,count_Solar Photovoltaic,1.0
+Pickaway,39129,2022,count_Solar Photovoltaic,0
+Pickaway,39129,2023,count_Solar Photovoltaic,0
+Pickaway,39129,2024,count_Solar Photovoltaic,5.0
+Pickaway,39129,2009,count_Solid Waste,0
+Pickaway,39129,2010,count_Solid Waste,0
+Pickaway,39129,2011,count_Solid Waste,0.0
+Pickaway,39129,2012,count_Solid Waste,0.0
+Pickaway,39129,2013,count_Solid Waste,0.0
+Pickaway,39129,2014,count_Solid Waste,0.0
+Pickaway,39129,2015,count_Solid Waste,0.0
+Pickaway,39129,2016,count_Solid Waste,0.0
+Pickaway,39129,2017,count_Solid Waste,0.0
+Pickaway,39129,2018,count_Solid Waste,0
+Pickaway,39129,2019,count_Solid Waste,0.0
+Pickaway,39129,2020,count_Solid Waste,0
+Pickaway,39129,2021,count_Solid Waste,0.0
+Pickaway,39129,2022,count_Solid Waste,0
+Pickaway,39129,2023,count_Solid Waste,0
+Pickaway,39129,2024,count_Solid Waste,0.0
+Pickaway,39129,2009,count_Wind,0
+Pickaway,39129,2010,count_Wind,0
+Pickaway,39129,2011,count_Wind,0.0
+Pickaway,39129,2012,count_Wind,0.0
+Pickaway,39129,2013,count_Wind,0.0
+Pickaway,39129,2014,count_Wind,0.0
+Pickaway,39129,2015,count_Wind,0.0
+Pickaway,39129,2016,count_Wind,0.0
+Pickaway,39129,2017,count_Wind,0.0
+Pickaway,39129,2018,count_Wind,0
+Pickaway,39129,2019,count_Wind,0.0
+Pickaway,39129,2020,count_Wind,0
+Pickaway,39129,2021,count_Wind,0.0
+Pickaway,39129,2022,count_Wind,0
+Pickaway,39129,2023,count_Wind,0
+Pickaway,39129,2024,count_Wind,0.0
+Pickaway,39129,2009,total_Biomass,0
+Pickaway,39129,2010,total_Biomass,0
+Pickaway,39129,2011,total_Biomass,0.0
+Pickaway,39129,2012,total_Biomass,0.0
+Pickaway,39129,2013,total_Biomass,0.0
+Pickaway,39129,2014,total_Biomass,0.0
+Pickaway,39129,2015,total_Biomass,0.0
+Pickaway,39129,2016,total_Biomass,0.0
+Pickaway,39129,2017,total_Biomass,0.0
+Pickaway,39129,2018,total_Biomass,0
+Pickaway,39129,2019,total_Biomass,0.0
+Pickaway,39129,2020,total_Biomass,0
+Pickaway,39129,2021,total_Biomass,0.0
+Pickaway,39129,2022,total_Biomass,0
+Pickaway,39129,2023,total_Biomass,0
+Pickaway,39129,2024,total_Biomass,0.0
+Pickaway,39129,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2010,total_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2018,total_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2020,total_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2022,total_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2023,total_Captured Heat from Biologically Derived Methane Gas,0
+Pickaway,39129,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Pickaway,39129,2009,total_Hydroelectric,0
+Pickaway,39129,2010,total_Hydroelectric,0
+Pickaway,39129,2011,total_Hydroelectric,0.0
+Pickaway,39129,2012,total_Hydroelectric,0.0
+Pickaway,39129,2013,total_Hydroelectric,0.0
+Pickaway,39129,2014,total_Hydroelectric,0.0
+Pickaway,39129,2015,total_Hydroelectric,0.0
+Pickaway,39129,2016,total_Hydroelectric,0.0
+Pickaway,39129,2017,total_Hydroelectric,0.0
+Pickaway,39129,2018,total_Hydroelectric,0
+Pickaway,39129,2019,total_Hydroelectric,0.0
+Pickaway,39129,2020,total_Hydroelectric,0
+Pickaway,39129,2021,total_Hydroelectric,0.0
+Pickaway,39129,2022,total_Hydroelectric,0
+Pickaway,39129,2023,total_Hydroelectric,0
+Pickaway,39129,2024,total_Hydroelectric,0.0
+Pickaway,39129,2009,total_Solar Photovoltaic,0
+Pickaway,39129,2010,total_Solar Photovoltaic,0
+Pickaway,39129,2011,total_Solar Photovoltaic,0.0137
+Pickaway,39129,2012,total_Solar Photovoltaic,0.00598
+Pickaway,39129,2013,total_Solar Photovoltaic,0.03178
+Pickaway,39129,2014,total_Solar Photovoltaic,0.06448000000000001
+Pickaway,39129,2015,total_Solar Photovoltaic,0.01674
+Pickaway,39129,2016,total_Solar Photovoltaic,0.07629
+Pickaway,39129,2017,total_Solar Photovoltaic,0.019719999999999998
+Pickaway,39129,2018,total_Solar Photovoltaic,0
+Pickaway,39129,2019,total_Solar Photovoltaic,0.0132
+Pickaway,39129,2020,total_Solar Photovoltaic,0
+Pickaway,39129,2021,total_Solar Photovoltaic,0.0252
+Pickaway,39129,2022,total_Solar Photovoltaic,0
+Pickaway,39129,2023,total_Solar Photovoltaic,0
+Pickaway,39129,2024,total_Solar Photovoltaic,132.448565
+Pickaway,39129,2009,total_Solid Waste,0
+Pickaway,39129,2010,total_Solid Waste,0
+Pickaway,39129,2011,total_Solid Waste,0.0
+Pickaway,39129,2012,total_Solid Waste,0.0
+Pickaway,39129,2013,total_Solid Waste,0.0
+Pickaway,39129,2014,total_Solid Waste,0.0
+Pickaway,39129,2015,total_Solid Waste,0.0
+Pickaway,39129,2016,total_Solid Waste,0.0
+Pickaway,39129,2017,total_Solid Waste,0.0
+Pickaway,39129,2018,total_Solid Waste,0
+Pickaway,39129,2019,total_Solid Waste,0.0
+Pickaway,39129,2020,total_Solid Waste,0
+Pickaway,39129,2021,total_Solid Waste,0.0
+Pickaway,39129,2022,total_Solid Waste,0
+Pickaway,39129,2023,total_Solid Waste,0
+Pickaway,39129,2024,total_Solid Waste,0.0
+Pickaway,39129,2009,total_Wind,0
+Pickaway,39129,2010,total_Wind,0
+Pickaway,39129,2011,total_Wind,0.0
+Pickaway,39129,2012,total_Wind,0.0
+Pickaway,39129,2013,total_Wind,0.0
+Pickaway,39129,2014,total_Wind,0.0
+Pickaway,39129,2015,total_Wind,0.0
+Pickaway,39129,2016,total_Wind,0.0
+Pickaway,39129,2017,total_Wind,0.0
+Pickaway,39129,2018,total_Wind,0
+Pickaway,39129,2019,total_Wind,0.0
+Pickaway,39129,2020,total_Wind,0
+Pickaway,39129,2021,total_Wind,0.0
+Pickaway,39129,2022,total_Wind,0
+Pickaway,39129,2023,total_Wind,0
+Pickaway,39129,2024,total_Wind,0.0
+Ross,39141,2009,count_Biomass,1.0
+Ross,39141,2010,count_Biomass,0
+Ross,39141,2011,count_Biomass,1.0
+Ross,39141,2012,count_Biomass,0.0
+Ross,39141,2013,count_Biomass,0.0
+Ross,39141,2014,count_Biomass,0.0
+Ross,39141,2015,count_Biomass,0.0
+Ross,39141,2016,count_Biomass,0.0
+Ross,39141,2017,count_Biomass,0.0
+Ross,39141,2018,count_Biomass,0.0
+Ross,39141,2019,count_Biomass,0.0
+Ross,39141,2020,count_Biomass,0.0
+Ross,39141,2021,count_Biomass,0
+Ross,39141,2022,count_Biomass,0.0
+Ross,39141,2023,count_Biomass,0.0
+Ross,39141,2024,count_Biomass,0.0
+Ross,39141,2009,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2010,count_Captured Heat from Biologically Derived Methane Gas,0
+Ross,39141,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2021,count_Captured Heat from Biologically Derived Methane Gas,0
+Ross,39141,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2009,count_Hydroelectric,0.0
+Ross,39141,2010,count_Hydroelectric,0
+Ross,39141,2011,count_Hydroelectric,0.0
+Ross,39141,2012,count_Hydroelectric,0.0
+Ross,39141,2013,count_Hydroelectric,0.0
+Ross,39141,2014,count_Hydroelectric,0.0
+Ross,39141,2015,count_Hydroelectric,0.0
+Ross,39141,2016,count_Hydroelectric,0.0
+Ross,39141,2017,count_Hydroelectric,0.0
+Ross,39141,2018,count_Hydroelectric,0.0
+Ross,39141,2019,count_Hydroelectric,0.0
+Ross,39141,2020,count_Hydroelectric,0.0
+Ross,39141,2021,count_Hydroelectric,0
+Ross,39141,2022,count_Hydroelectric,0.0
+Ross,39141,2023,count_Hydroelectric,0.0
+Ross,39141,2024,count_Hydroelectric,0.0
+Ross,39141,2009,count_Solar Photovoltaic,0.0
+Ross,39141,2010,count_Solar Photovoltaic,0
+Ross,39141,2011,count_Solar Photovoltaic,1.0
+Ross,39141,2012,count_Solar Photovoltaic,2.0
+Ross,39141,2013,count_Solar Photovoltaic,2.0
+Ross,39141,2014,count_Solar Photovoltaic,2.0
+Ross,39141,2015,count_Solar Photovoltaic,4.0
+Ross,39141,2016,count_Solar Photovoltaic,3.0
+Ross,39141,2017,count_Solar Photovoltaic,1.0
+Ross,39141,2018,count_Solar Photovoltaic,1.0
+Ross,39141,2019,count_Solar Photovoltaic,1.0
+Ross,39141,2020,count_Solar Photovoltaic,1.0
+Ross,39141,2021,count_Solar Photovoltaic,0
+Ross,39141,2022,count_Solar Photovoltaic,1.0
+Ross,39141,2023,count_Solar Photovoltaic,2.0
+Ross,39141,2024,count_Solar Photovoltaic,1.0
+Ross,39141,2009,count_Solid Waste,0.0
+Ross,39141,2010,count_Solid Waste,0
+Ross,39141,2011,count_Solid Waste,0.0
+Ross,39141,2012,count_Solid Waste,0.0
+Ross,39141,2013,count_Solid Waste,0.0
+Ross,39141,2014,count_Solid Waste,0.0
+Ross,39141,2015,count_Solid Waste,0.0
+Ross,39141,2016,count_Solid Waste,0.0
+Ross,39141,2017,count_Solid Waste,0.0
+Ross,39141,2018,count_Solid Waste,0.0
+Ross,39141,2019,count_Solid Waste,0.0
+Ross,39141,2020,count_Solid Waste,0.0
+Ross,39141,2021,count_Solid Waste,0
+Ross,39141,2022,count_Solid Waste,0.0
+Ross,39141,2023,count_Solid Waste,0.0
+Ross,39141,2024,count_Solid Waste,0.0
+Ross,39141,2009,count_Wind,0.0
+Ross,39141,2010,count_Wind,0
+Ross,39141,2011,count_Wind,0.0
+Ross,39141,2012,count_Wind,0.0
+Ross,39141,2013,count_Wind,0.0
+Ross,39141,2014,count_Wind,0.0
+Ross,39141,2015,count_Wind,0.0
+Ross,39141,2016,count_Wind,0.0
+Ross,39141,2017,count_Wind,0.0
+Ross,39141,2018,count_Wind,0.0
+Ross,39141,2019,count_Wind,0.0
+Ross,39141,2020,count_Wind,0.0
+Ross,39141,2021,count_Wind,0
+Ross,39141,2022,count_Wind,0.0
+Ross,39141,2023,count_Wind,0.0
+Ross,39141,2024,count_Wind,0.0
+Ross,39141,2009,total_Biomass,92.8
+Ross,39141,2010,total_Biomass,0
+Ross,39141,2011,total_Biomass,92.8
+Ross,39141,2012,total_Biomass,0.0
+Ross,39141,2013,total_Biomass,0.0
+Ross,39141,2014,total_Biomass,0.0
+Ross,39141,2015,total_Biomass,0.0
+Ross,39141,2016,total_Biomass,0.0
+Ross,39141,2017,total_Biomass,0.0
+Ross,39141,2018,total_Biomass,0.0
+Ross,39141,2019,total_Biomass,0.0
+Ross,39141,2020,total_Biomass,0.0
+Ross,39141,2021,total_Biomass,0
+Ross,39141,2022,total_Biomass,0.0
+Ross,39141,2023,total_Biomass,0.0
+Ross,39141,2024,total_Biomass,0.0
+Ross,39141,2009,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2010,total_Captured Heat from Biologically Derived Methane Gas,0
+Ross,39141,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2021,total_Captured Heat from Biologically Derived Methane Gas,0
+Ross,39141,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Ross,39141,2009,total_Hydroelectric,0.0
+Ross,39141,2010,total_Hydroelectric,0
+Ross,39141,2011,total_Hydroelectric,0.0
+Ross,39141,2012,total_Hydroelectric,0.0
+Ross,39141,2013,total_Hydroelectric,0.0
+Ross,39141,2014,total_Hydroelectric,0.0
+Ross,39141,2015,total_Hydroelectric,0.0
+Ross,39141,2016,total_Hydroelectric,0.0
+Ross,39141,2017,total_Hydroelectric,0.0
+Ross,39141,2018,total_Hydroelectric,0.0
+Ross,39141,2019,total_Hydroelectric,0.0
+Ross,39141,2020,total_Hydroelectric,0.0
+Ross,39141,2021,total_Hydroelectric,0
+Ross,39141,2022,total_Hydroelectric,0.0
+Ross,39141,2023,total_Hydroelectric,0.0
+Ross,39141,2024,total_Hydroelectric,0.0
+Ross,39141,2009,total_Solar Photovoltaic,0.0
+Ross,39141,2010,total_Solar Photovoltaic,0
+Ross,39141,2011,total_Solar Photovoltaic,0.003
+Ross,39141,2012,total_Solar Photovoltaic,0.03672
+Ross,39141,2013,total_Solar Photovoltaic,0.01584
+Ross,39141,2014,total_Solar Photovoltaic,0.10424
+Ross,39141,2015,total_Solar Photovoltaic,0.0288
+Ross,39141,2016,total_Solar Photovoltaic,0.0479
+Ross,39141,2017,total_Solar Photovoltaic,0.0143
+Ross,39141,2018,total_Solar Photovoltaic,0.02508
+Ross,39141,2019,total_Solar Photovoltaic,0.02175
+Ross,39141,2020,total_Solar Photovoltaic,0.0067
+Ross,39141,2021,total_Solar Photovoltaic,0
+Ross,39141,2022,total_Solar Photovoltaic,0.71712
+Ross,39141,2023,total_Solar Photovoltaic,68.16929999999999
+Ross,39141,2024,total_Solar Photovoltaic,155.80719
+Ross,39141,2009,total_Solid Waste,0.0
+Ross,39141,2010,total_Solid Waste,0
+Ross,39141,2011,total_Solid Waste,0.0
+Ross,39141,2012,total_Solid Waste,0.0
+Ross,39141,2013,total_Solid Waste,0.0
+Ross,39141,2014,total_Solid Waste,0.0
+Ross,39141,2015,total_Solid Waste,0.0
+Ross,39141,2016,total_Solid Waste,0.0
+Ross,39141,2017,total_Solid Waste,0.0
+Ross,39141,2018,total_Solid Waste,0.0
+Ross,39141,2019,total_Solid Waste,0.0
+Ross,39141,2020,total_Solid Waste,0.0
+Ross,39141,2021,total_Solid Waste,0
+Ross,39141,2022,total_Solid Waste,0.0
+Ross,39141,2023,total_Solid Waste,0.0
+Ross,39141,2024,total_Solid Waste,0.0
+Ross,39141,2009,total_Wind,0.0
+Ross,39141,2010,total_Wind,0
+Ross,39141,2011,total_Wind,0.0
+Ross,39141,2012,total_Wind,0.0
+Ross,39141,2013,total_Wind,0.0
+Ross,39141,2014,total_Wind,0.0
+Ross,39141,2015,total_Wind,0.0
+Ross,39141,2016,total_Wind,0.0
+Ross,39141,2017,total_Wind,0.0
+Ross,39141,2018,total_Wind,0.0
+Ross,39141,2019,total_Wind,0.0
+Ross,39141,2020,total_Wind,0.0
+Ross,39141,2021,total_Wind,0
+Ross,39141,2022,total_Wind,0.0
+Ross,39141,2023,total_Wind,0.0
+Ross,39141,2024,total_Wind,0.0
+Union,39159,2009,count_Biomass,0
+Union,39159,2010,count_Biomass,0.0
+Union,39159,2011,count_Biomass,0.0
+Union,39159,2012,count_Biomass,0.0
+Union,39159,2013,count_Biomass,0.0
+Union,39159,2014,count_Biomass,0.0
+Union,39159,2015,count_Biomass,0.0
+Union,39159,2016,count_Biomass,0.0
+Union,39159,2017,count_Biomass,0.0
+Union,39159,2018,count_Biomass,0.0
+Union,39159,2019,count_Biomass,0.0
+Union,39159,2020,count_Biomass,0.0
+Union,39159,2021,count_Biomass,0.0
+Union,39159,2022,count_Biomass,0.0
+Union,39159,2023,count_Biomass,0.0
+Union,39159,2024,count_Biomass,0.0
+Union,39159,2009,count_Captured Heat from Biologically Derived Methane Gas,0
+Union,39159,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2016,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2009,count_Hydroelectric,0
+Union,39159,2010,count_Hydroelectric,0.0
+Union,39159,2011,count_Hydroelectric,0.0
+Union,39159,2012,count_Hydroelectric,0.0
+Union,39159,2013,count_Hydroelectric,0.0
+Union,39159,2014,count_Hydroelectric,0.0
+Union,39159,2015,count_Hydroelectric,0.0
+Union,39159,2016,count_Hydroelectric,0.0
+Union,39159,2017,count_Hydroelectric,0.0
+Union,39159,2018,count_Hydroelectric,0.0
+Union,39159,2019,count_Hydroelectric,0.0
+Union,39159,2020,count_Hydroelectric,0.0
+Union,39159,2021,count_Hydroelectric,0.0
+Union,39159,2022,count_Hydroelectric,0.0
+Union,39159,2023,count_Hydroelectric,0.0
+Union,39159,2024,count_Hydroelectric,0.0
+Union,39159,2009,count_Solar Photovoltaic,0
+Union,39159,2010,count_Solar Photovoltaic,5.0
+Union,39159,2011,count_Solar Photovoltaic,28.0
+Union,39159,2012,count_Solar Photovoltaic,8.0
+Union,39159,2013,count_Solar Photovoltaic,1.0
+Union,39159,2014,count_Solar Photovoltaic,4.0
+Union,39159,2015,count_Solar Photovoltaic,2.0
+Union,39159,2016,count_Solar Photovoltaic,3.0
+Union,39159,2017,count_Solar Photovoltaic,7.0
+Union,39159,2018,count_Solar Photovoltaic,2.0
+Union,39159,2019,count_Solar Photovoltaic,3.0
+Union,39159,2020,count_Solar Photovoltaic,1.0
+Union,39159,2021,count_Solar Photovoltaic,4.0
+Union,39159,2022,count_Solar Photovoltaic,2.0
+Union,39159,2023,count_Solar Photovoltaic,1.0
+Union,39159,2024,count_Solar Photovoltaic,9.0
+Union,39159,2009,count_Solid Waste,0
+Union,39159,2010,count_Solid Waste,0.0
+Union,39159,2011,count_Solid Waste,0.0
+Union,39159,2012,count_Solid Waste,0.0
+Union,39159,2013,count_Solid Waste,0.0
+Union,39159,2014,count_Solid Waste,0.0
+Union,39159,2015,count_Solid Waste,0.0
+Union,39159,2016,count_Solid Waste,0.0
+Union,39159,2017,count_Solid Waste,0.0
+Union,39159,2018,count_Solid Waste,0.0
+Union,39159,2019,count_Solid Waste,0.0
+Union,39159,2020,count_Solid Waste,0.0
+Union,39159,2021,count_Solid Waste,0.0
+Union,39159,2022,count_Solid Waste,0.0
+Union,39159,2023,count_Solid Waste,0.0
+Union,39159,2024,count_Solid Waste,0.0
+Union,39159,2009,count_Wind,0
+Union,39159,2010,count_Wind,0.0
+Union,39159,2011,count_Wind,0.0
+Union,39159,2012,count_Wind,0.0
+Union,39159,2013,count_Wind,0.0
+Union,39159,2014,count_Wind,0.0
+Union,39159,2015,count_Wind,0.0
+Union,39159,2016,count_Wind,0.0
+Union,39159,2017,count_Wind,0.0
+Union,39159,2018,count_Wind,0.0
+Union,39159,2019,count_Wind,0.0
+Union,39159,2020,count_Wind,0.0
+Union,39159,2021,count_Wind,0.0
+Union,39159,2022,count_Wind,0.0
+Union,39159,2023,count_Wind,0.0
+Union,39159,2024,count_Wind,0.0
+Union,39159,2009,total_Biomass,0
+Union,39159,2010,total_Biomass,0.0
+Union,39159,2011,total_Biomass,0.0
+Union,39159,2012,total_Biomass,0.0
+Union,39159,2013,total_Biomass,0.0
+Union,39159,2014,total_Biomass,0.0
+Union,39159,2015,total_Biomass,0.0
+Union,39159,2016,total_Biomass,0.0
+Union,39159,2017,total_Biomass,0.0
+Union,39159,2018,total_Biomass,0.0
+Union,39159,2019,total_Biomass,0.0
+Union,39159,2020,total_Biomass,0.0
+Union,39159,2021,total_Biomass,0.0
+Union,39159,2022,total_Biomass,0.0
+Union,39159,2023,total_Biomass,0.0
+Union,39159,2024,total_Biomass,0.0
+Union,39159,2009,total_Captured Heat from Biologically Derived Methane Gas,0
+Union,39159,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2016,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+Union,39159,2009,total_Hydroelectric,0
+Union,39159,2010,total_Hydroelectric,0.0
+Union,39159,2011,total_Hydroelectric,0.0
+Union,39159,2012,total_Hydroelectric,0.0
+Union,39159,2013,total_Hydroelectric,0.0
+Union,39159,2014,total_Hydroelectric,0.0
+Union,39159,2015,total_Hydroelectric,0.0
+Union,39159,2016,total_Hydroelectric,0.0
+Union,39159,2017,total_Hydroelectric,0.0
+Union,39159,2018,total_Hydroelectric,0.0
+Union,39159,2019,total_Hydroelectric,0.0
+Union,39159,2020,total_Hydroelectric,0.0
+Union,39159,2021,total_Hydroelectric,0.0
+Union,39159,2022,total_Hydroelectric,0.0
+Union,39159,2023,total_Hydroelectric,0.0
+Union,39159,2024,total_Hydroelectric,0.0
+Union,39159,2009,total_Solar Photovoltaic,0
+Union,39159,2010,total_Solar Photovoltaic,0.04778
+Union,39159,2011,total_Solar Photovoltaic,0.76502
+Union,39159,2012,total_Solar Photovoltaic,0.30609
+Union,39159,2013,total_Solar Photovoltaic,0.01078
+Union,39159,2014,total_Solar Photovoltaic,0.02883
+Union,39159,2015,total_Solar Photovoltaic,0.04465
+Union,39159,2016,total_Solar Photovoltaic,0.04698
+Union,39159,2017,total_Solar Photovoltaic,0.15187
+Union,39159,2018,total_Solar Photovoltaic,0.11108
+Union,39159,2019,total_Solar Photovoltaic,0.06506
+Union,39159,2020,total_Solar Photovoltaic,0.01026
+Union,39159,2021,total_Solar Photovoltaic,0.1391
+Union,39159,2022,total_Solar Photovoltaic,0.02124
+Union,39159,2023,total_Solar Photovoltaic,1.21264
+Union,39159,2024,total_Solar Photovoltaic,415.90941
+Union,39159,2009,total_Solid Waste,0
+Union,39159,2010,total_Solid Waste,0.0
+Union,39159,2011,total_Solid Waste,0.0
+Union,39159,2012,total_Solid Waste,0.0
+Union,39159,2013,total_Solid Waste,0.0
+Union,39159,2014,total_Solid Waste,0.0
+Union,39159,2015,total_Solid Waste,0.0
+Union,39159,2016,total_Solid Waste,0.0
+Union,39159,2017,total_Solid Waste,0.0
+Union,39159,2018,total_Solid Waste,0.0
+Union,39159,2019,total_Solid Waste,0.0
+Union,39159,2020,total_Solid Waste,0.0
+Union,39159,2021,total_Solid Waste,0.0
+Union,39159,2022,total_Solid Waste,0.0
+Union,39159,2023,total_Solid Waste,0.0
+Union,39159,2024,total_Solid Waste,0.0
+Union,39159,2009,total_Wind,0
+Union,39159,2010,total_Wind,0.0
+Union,39159,2011,total_Wind,0.0
+Union,39159,2012,total_Wind,0.0
+Union,39159,2013,total_Wind,0.0
+Union,39159,2014,total_Wind,0.0
+Union,39159,2015,total_Wind,0.0
+Union,39159,2016,total_Wind,0.0
+Union,39159,2017,total_Wind,0.0
+Union,39159,2018,total_Wind,0.0
+Union,39159,2019,total_Wind,0.0
+Union,39159,2020,total_Wind,0.0
+Union,39159,2021,total_Wind,0.0
+Union,39159,2022,total_Wind,0.0
+Union,39159,2023,total_Wind,0.0
+Union,39159,2024,total_Wind,0.0
