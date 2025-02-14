@@ -1,0 +1,14 @@
+name: morpc-renewenergyfacilities-rps-long
+type: file
+title: morpc-renewenergyfacilities-rps-long
+description: 'A long for table containing renewable energy facilities that were approved
+  by PUCO. See https://puco.ohio.gov/utilities/electricity/resources/ohio-renewable-energy-portfolio-standard/renewable-energy-resource-generating-facility-certification
+  Data pulled 2025-02-13 from https://puco.my.salesforce.com/sfc/p/#t0000000GzXt/a/t0000000cV7M/GSiEQauuUkO6XhIJlxy6yIvkx9_lA3oXaYfvGpEGkcU '
+profile: data-resource
+path: morpc-renewenergyfacilities-rps-long.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: 78bb027fd89cf71080f172070e5dafa4
+bytes: 199904
+schema: morpc-renewenergyfacilities-rps-long.schema.yaml
