@@ -1,193 +1,193 @@
-Name,GEOID,Year,Technology,value
-15-County Region,001,2009,count_Biomass,2.0
-15-County Region,001,2010,count_Biomass,1.0
-15-County Region,001,2011,count_Biomass,3.0
-15-County Region,001,2012,count_Biomass,0.0
-15-County Region,001,2013,count_Biomass,0.0
-15-County Region,001,2014,count_Biomass,1.0
-15-County Region,001,2015,count_Biomass,0.0
-15-County Region,001,2016,count_Biomass,0.0
-15-County Region,001,2017,count_Biomass,0.0
-15-County Region,001,2018,count_Biomass,0.0
-15-County Region,001,2019,count_Biomass,0.0
-15-County Region,001,2020,count_Biomass,0.0
-15-County Region,001,2021,count_Biomass,0.0
-15-County Region,001,2022,count_Biomass,0.0
-15-County Region,001,2023,count_Biomass,0.0
-15-County Region,001,2024,count_Biomass,0.0
-15-County Region,001,2009,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2016,count_Captured Heat from Biologically Derived Methane Gas,1.0
-15-County Region,001,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2009,count_Hydroelectric,0.0
-15-County Region,001,2010,count_Hydroelectric,0.0
-15-County Region,001,2011,count_Hydroelectric,0.0
-15-County Region,001,2012,count_Hydroelectric,0.0
-15-County Region,001,2013,count_Hydroelectric,1.0
-15-County Region,001,2014,count_Hydroelectric,0.0
-15-County Region,001,2015,count_Hydroelectric,0.0
-15-County Region,001,2016,count_Hydroelectric,0.0
-15-County Region,001,2017,count_Hydroelectric,0.0
-15-County Region,001,2018,count_Hydroelectric,0.0
-15-County Region,001,2019,count_Hydroelectric,0.0
-15-County Region,001,2020,count_Hydroelectric,0.0
-15-County Region,001,2021,count_Hydroelectric,0.0
-15-County Region,001,2022,count_Hydroelectric,0.0
-15-County Region,001,2023,count_Hydroelectric,0.0
-15-County Region,001,2024,count_Hydroelectric,0.0
-15-County Region,001,2009,count_Solar Photovoltaic,3.0
-15-County Region,001,2010,count_Solar Photovoltaic,50.0
-15-County Region,001,2011,count_Solar Photovoltaic,245.0
-15-County Region,001,2012,count_Solar Photovoltaic,145.0
-15-County Region,001,2013,count_Solar Photovoltaic,106.0
-15-County Region,001,2014,count_Solar Photovoltaic,94.0
-15-County Region,001,2015,count_Solar Photovoltaic,109.0
-15-County Region,001,2016,count_Solar Photovoltaic,147.0
-15-County Region,001,2017,count_Solar Photovoltaic,122.0
-15-County Region,001,2018,count_Solar Photovoltaic,46.0
-15-County Region,001,2019,count_Solar Photovoltaic,46.0
-15-County Region,001,2020,count_Solar Photovoltaic,37.0
-15-County Region,001,2021,count_Solar Photovoltaic,30.0
-15-County Region,001,2022,count_Solar Photovoltaic,78.0
-15-County Region,001,2023,count_Solar Photovoltaic,79.0
-15-County Region,001,2024,count_Solar Photovoltaic,305.0
-15-County Region,001,2009,count_Solid Waste,0.0
-15-County Region,001,2010,count_Solid Waste,1.0
-15-County Region,001,2011,count_Solid Waste,0.0
-15-County Region,001,2012,count_Solid Waste,0.0
-15-County Region,001,2013,count_Solid Waste,0.0
-15-County Region,001,2014,count_Solid Waste,0.0
-15-County Region,001,2015,count_Solid Waste,0.0
-15-County Region,001,2016,count_Solid Waste,0.0
-15-County Region,001,2017,count_Solid Waste,0.0
-15-County Region,001,2018,count_Solid Waste,0.0
-15-County Region,001,2019,count_Solid Waste,0.0
-15-County Region,001,2020,count_Solid Waste,0.0
-15-County Region,001,2021,count_Solid Waste,0.0
-15-County Region,001,2022,count_Solid Waste,0.0
-15-County Region,001,2023,count_Solid Waste,0.0
-15-County Region,001,2024,count_Solid Waste,0.0
-15-County Region,001,2009,count_Wind,0.0
-15-County Region,001,2010,count_Wind,1.0
-15-County Region,001,2011,count_Wind,0.0
-15-County Region,001,2012,count_Wind,1.0
-15-County Region,001,2013,count_Wind,0.0
-15-County Region,001,2014,count_Wind,0.0
-15-County Region,001,2015,count_Wind,0.0
-15-County Region,001,2016,count_Wind,0.0
-15-County Region,001,2017,count_Wind,0.0
-15-County Region,001,2018,count_Wind,1.0
-15-County Region,001,2019,count_Wind,0.0
-15-County Region,001,2020,count_Wind,1.0
-15-County Region,001,2021,count_Wind,0.0
-15-County Region,001,2022,count_Wind,0.0
-15-County Region,001,2023,count_Wind,1.0
-15-County Region,001,2024,count_Wind,1.0
-15-County Region,001,2009,total_Biomass,97.6
-15-County Region,001,2010,total_Biomass,2.7
-15-County Region,001,2011,total_Biomass,99.39999999999999
-15-County Region,001,2012,total_Biomass,0.0
-15-County Region,001,2013,total_Biomass,0.0
-15-County Region,001,2014,total_Biomass,0.85
-15-County Region,001,2015,total_Biomass,0.0
-15-County Region,001,2016,total_Biomass,0.0
-15-County Region,001,2017,total_Biomass,0.0
-15-County Region,001,2018,total_Biomass,0.0
-15-County Region,001,2019,total_Biomass,0.0
-15-County Region,001,2020,total_Biomass,0.0
-15-County Region,001,2021,total_Biomass,0.0
-15-County Region,001,2022,total_Biomass,0.0
-15-County Region,001,2023,total_Biomass,0.0
-15-County Region,001,2024,total_Biomass,0.0
-15-County Region,001,2009,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2016,total_Captured Heat from Biologically Derived Methane Gas,1.0
-15-County Region,001,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
-15-County Region,001,2009,total_Hydroelectric,0.0
-15-County Region,001,2010,total_Hydroelectric,0.0
-15-County Region,001,2011,total_Hydroelectric,0.0
-15-County Region,001,2012,total_Hydroelectric,0.0
-15-County Region,001,2013,total_Hydroelectric,5.45
-15-County Region,001,2014,total_Hydroelectric,0.0
-15-County Region,001,2015,total_Hydroelectric,0.0
-15-County Region,001,2016,total_Hydroelectric,0.0
-15-County Region,001,2017,total_Hydroelectric,0.0
-15-County Region,001,2018,total_Hydroelectric,0.0
-15-County Region,001,2019,total_Hydroelectric,0.0
-15-County Region,001,2020,total_Hydroelectric,0.0
-15-County Region,001,2021,total_Hydroelectric,0.0
-15-County Region,001,2022,total_Hydroelectric,0.0
-15-County Region,001,2023,total_Hydroelectric,0.0
-15-County Region,001,2024,total_Hydroelectric,0.0
-15-County Region,001,2009,total_Solar Photovoltaic,0.0886
-15-County Region,001,2010,total_Solar Photovoltaic,0.9585699999999999
-15-County Region,001,2011,total_Solar Photovoltaic,4.313003000000001
-15-County Region,001,2012,total_Solar Photovoltaic,3.6581550000000007
-15-County Region,001,2013,total_Solar Photovoltaic,9.303735000000001
-15-County Region,001,2014,total_Solar Photovoltaic,80.00522000000001
-15-County Region,001,2015,total_Solar Photovoltaic,12.222290000000001
-15-County Region,001,2016,total_Solar Photovoltaic,23.525405000000003
-15-County Region,001,2017,total_Solar Photovoltaic,2.0013900000000002
-15-County Region,001,2018,total_Solar Photovoltaic,6.5083
-15-County Region,001,2019,total_Solar Photovoltaic,6.577995
-15-County Region,001,2020,total_Solar Photovoltaic,1.951477
-15-County Region,001,2021,total_Solar Photovoltaic,2.3050949999999997
-15-County Region,001,2022,total_Solar Photovoltaic,2.0490350000000004
-15-County Region,001,2023,total_Solar Photovoltaic,1054.228106
-15-County Region,001,2024,total_Solar Photovoltaic,779.89122
-15-County Region,001,2009,total_Solid Waste,0.0
-15-County Region,001,2010,total_Solid Waste,5.0
-15-County Region,001,2011,total_Solid Waste,0.0
-15-County Region,001,2012,total_Solid Waste,0.0
-15-County Region,001,2013,total_Solid Waste,0.0
-15-County Region,001,2014,total_Solid Waste,0.0
-15-County Region,001,2015,total_Solid Waste,0.0
-15-County Region,001,2016,total_Solid Waste,0.0
-15-County Region,001,2017,total_Solid Waste,0.0
-15-County Region,001,2018,total_Solid Waste,0.0
-15-County Region,001,2019,total_Solid Waste,0.0
-15-County Region,001,2020,total_Solid Waste,0.0
-15-County Region,001,2021,total_Solid Waste,0.0
-15-County Region,001,2022,total_Solid Waste,0.0
-15-County Region,001,2023,total_Solid Waste,0.0
-15-County Region,001,2024,total_Solid Waste,0.0
-15-County Region,001,2009,total_Wind,0.0
-15-County Region,001,2010,total_Wind,0.01
-15-County Region,001,2011,total_Wind,0.0
-15-County Region,001,2012,total_Wind,46.0
-15-County Region,001,2013,total_Wind,0.0
-15-County Region,001,2014,total_Wind,0.0
-15-County Region,001,2015,total_Wind,0.0
-15-County Region,001,2016,total_Wind,0.0
-15-County Region,001,2017,total_Wind,0.0
-15-County Region,001,2018,total_Wind,4.5
-15-County Region,001,2019,total_Wind,0.0
-15-County Region,001,2020,total_Wind,42.5
-15-County Region,001,2021,total_Wind,0.0
-15-County Region,001,2022,total_Wind,0.0
-15-County Region,001,2023,total_Wind,0.0024
-15-County Region,001,2024,total_Wind,55.36
+Name,GEOIDFQ,Year,Technology,value
+15-County Region,M010000US001,2009,count_Biomass,2.0
+15-County Region,M010000US001,2010,count_Biomass,1.0
+15-County Region,M010000US001,2011,count_Biomass,3.0
+15-County Region,M010000US001,2012,count_Biomass,0.0
+15-County Region,M010000US001,2013,count_Biomass,0.0
+15-County Region,M010000US001,2014,count_Biomass,1.0
+15-County Region,M010000US001,2015,count_Biomass,0.0
+15-County Region,M010000US001,2016,count_Biomass,0.0
+15-County Region,M010000US001,2017,count_Biomass,0.0
+15-County Region,M010000US001,2018,count_Biomass,0.0
+15-County Region,M010000US001,2019,count_Biomass,0.0
+15-County Region,M010000US001,2020,count_Biomass,0.0
+15-County Region,M010000US001,2021,count_Biomass,0.0
+15-County Region,M010000US001,2022,count_Biomass,0.0
+15-County Region,M010000US001,2023,count_Biomass,0.0
+15-County Region,M010000US001,2024,count_Biomass,0.0
+15-County Region,M010000US001,2009,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2010,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2011,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2012,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2013,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2014,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2015,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2016,count_Captured Heat from Biologically Derived Methane Gas,1.0
+15-County Region,M010000US001,2017,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2018,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2019,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2020,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2021,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2022,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2023,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2024,count_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2009,count_Hydroelectric,0.0
+15-County Region,M010000US001,2010,count_Hydroelectric,0.0
+15-County Region,M010000US001,2011,count_Hydroelectric,0.0
+15-County Region,M010000US001,2012,count_Hydroelectric,0.0
+15-County Region,M010000US001,2013,count_Hydroelectric,1.0
+15-County Region,M010000US001,2014,count_Hydroelectric,0.0
+15-County Region,M010000US001,2015,count_Hydroelectric,0.0
+15-County Region,M010000US001,2016,count_Hydroelectric,0.0
+15-County Region,M010000US001,2017,count_Hydroelectric,0.0
+15-County Region,M010000US001,2018,count_Hydroelectric,0.0
+15-County Region,M010000US001,2019,count_Hydroelectric,0.0
+15-County Region,M010000US001,2020,count_Hydroelectric,0.0
+15-County Region,M010000US001,2021,count_Hydroelectric,0.0
+15-County Region,M010000US001,2022,count_Hydroelectric,0.0
+15-County Region,M010000US001,2023,count_Hydroelectric,0.0
+15-County Region,M010000US001,2024,count_Hydroelectric,0.0
+15-County Region,M010000US001,2009,count_Solar Photovoltaic,3.0
+15-County Region,M010000US001,2010,count_Solar Photovoltaic,50.0
+15-County Region,M010000US001,2011,count_Solar Photovoltaic,245.0
+15-County Region,M010000US001,2012,count_Solar Photovoltaic,145.0
+15-County Region,M010000US001,2013,count_Solar Photovoltaic,106.0
+15-County Region,M010000US001,2014,count_Solar Photovoltaic,94.0
+15-County Region,M010000US001,2015,count_Solar Photovoltaic,109.0
+15-County Region,M010000US001,2016,count_Solar Photovoltaic,147.0
+15-County Region,M010000US001,2017,count_Solar Photovoltaic,122.0
+15-County Region,M010000US001,2018,count_Solar Photovoltaic,46.0
+15-County Region,M010000US001,2019,count_Solar Photovoltaic,46.0
+15-County Region,M010000US001,2020,count_Solar Photovoltaic,37.0
+15-County Region,M010000US001,2021,count_Solar Photovoltaic,30.0
+15-County Region,M010000US001,2022,count_Solar Photovoltaic,78.0
+15-County Region,M010000US001,2023,count_Solar Photovoltaic,79.0
+15-County Region,M010000US001,2024,count_Solar Photovoltaic,305.0
+15-County Region,M010000US001,2009,count_Solid Waste,0.0
+15-County Region,M010000US001,2010,count_Solid Waste,1.0
+15-County Region,M010000US001,2011,count_Solid Waste,0.0
+15-County Region,M010000US001,2012,count_Solid Waste,0.0
+15-County Region,M010000US001,2013,count_Solid Waste,0.0
+15-County Region,M010000US001,2014,count_Solid Waste,0.0
+15-County Region,M010000US001,2015,count_Solid Waste,0.0
+15-County Region,M010000US001,2016,count_Solid Waste,0.0
+15-County Region,M010000US001,2017,count_Solid Waste,0.0
+15-County Region,M010000US001,2018,count_Solid Waste,0.0
+15-County Region,M010000US001,2019,count_Solid Waste,0.0
+15-County Region,M010000US001,2020,count_Solid Waste,0.0
+15-County Region,M010000US001,2021,count_Solid Waste,0.0
+15-County Region,M010000US001,2022,count_Solid Waste,0.0
+15-County Region,M010000US001,2023,count_Solid Waste,0.0
+15-County Region,M010000US001,2024,count_Solid Waste,0.0
+15-County Region,M010000US001,2009,count_Wind,0.0
+15-County Region,M010000US001,2010,count_Wind,1.0
+15-County Region,M010000US001,2011,count_Wind,0.0
+15-County Region,M010000US001,2012,count_Wind,1.0
+15-County Region,M010000US001,2013,count_Wind,0.0
+15-County Region,M010000US001,2014,count_Wind,0.0
+15-County Region,M010000US001,2015,count_Wind,0.0
+15-County Region,M010000US001,2016,count_Wind,0.0
+15-County Region,M010000US001,2017,count_Wind,0.0
+15-County Region,M010000US001,2018,count_Wind,1.0
+15-County Region,M010000US001,2019,count_Wind,0.0
+15-County Region,M010000US001,2020,count_Wind,1.0
+15-County Region,M010000US001,2021,count_Wind,0.0
+15-County Region,M010000US001,2022,count_Wind,0.0
+15-County Region,M010000US001,2023,count_Wind,1.0
+15-County Region,M010000US001,2024,count_Wind,1.0
+15-County Region,M010000US001,2009,total_Biomass,97.6
+15-County Region,M010000US001,2010,total_Biomass,2.7
+15-County Region,M010000US001,2011,total_Biomass,99.39999999999999
+15-County Region,M010000US001,2012,total_Biomass,0.0
+15-County Region,M010000US001,2013,total_Biomass,0.0
+15-County Region,M010000US001,2014,total_Biomass,0.85
+15-County Region,M010000US001,2015,total_Biomass,0.0
+15-County Region,M010000US001,2016,total_Biomass,0.0
+15-County Region,M010000US001,2017,total_Biomass,0.0
+15-County Region,M010000US001,2018,total_Biomass,0.0
+15-County Region,M010000US001,2019,total_Biomass,0.0
+15-County Region,M010000US001,2020,total_Biomass,0.0
+15-County Region,M010000US001,2021,total_Biomass,0.0
+15-County Region,M010000US001,2022,total_Biomass,0.0
+15-County Region,M010000US001,2023,total_Biomass,0.0
+15-County Region,M010000US001,2024,total_Biomass,0.0
+15-County Region,M010000US001,2009,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2010,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2011,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2012,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2013,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2014,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2015,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2016,total_Captured Heat from Biologically Derived Methane Gas,1.0
+15-County Region,M010000US001,2017,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2018,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2019,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2020,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2021,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2022,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2023,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2024,total_Captured Heat from Biologically Derived Methane Gas,0.0
+15-County Region,M010000US001,2009,total_Hydroelectric,0.0
+15-County Region,M010000US001,2010,total_Hydroelectric,0.0
+15-County Region,M010000US001,2011,total_Hydroelectric,0.0
+15-County Region,M010000US001,2012,total_Hydroelectric,0.0
+15-County Region,M010000US001,2013,total_Hydroelectric,5.45
+15-County Region,M010000US001,2014,total_Hydroelectric,0.0
+15-County Region,M010000US001,2015,total_Hydroelectric,0.0
+15-County Region,M010000US001,2016,total_Hydroelectric,0.0
+15-County Region,M010000US001,2017,total_Hydroelectric,0.0
+15-County Region,M010000US001,2018,total_Hydroelectric,0.0
+15-County Region,M010000US001,2019,total_Hydroelectric,0.0
+15-County Region,M010000US001,2020,total_Hydroelectric,0.0
+15-County Region,M010000US001,2021,total_Hydroelectric,0.0
+15-County Region,M010000US001,2022,total_Hydroelectric,0.0
+15-County Region,M010000US001,2023,total_Hydroelectric,0.0
+15-County Region,M010000US001,2024,total_Hydroelectric,0.0
+15-County Region,M010000US001,2009,total_Solar Photovoltaic,0.0886
+15-County Region,M010000US001,2010,total_Solar Photovoltaic,0.9585699999999999
+15-County Region,M010000US001,2011,total_Solar Photovoltaic,4.313003000000001
+15-County Region,M010000US001,2012,total_Solar Photovoltaic,3.6581550000000007
+15-County Region,M010000US001,2013,total_Solar Photovoltaic,9.303735000000001
+15-County Region,M010000US001,2014,total_Solar Photovoltaic,80.00522000000001
+15-County Region,M010000US001,2015,total_Solar Photovoltaic,12.222290000000001
+15-County Region,M010000US001,2016,total_Solar Photovoltaic,23.525405000000003
+15-County Region,M010000US001,2017,total_Solar Photovoltaic,2.0013900000000002
+15-County Region,M010000US001,2018,total_Solar Photovoltaic,6.5083
+15-County Region,M010000US001,2019,total_Solar Photovoltaic,6.577995
+15-County Region,M010000US001,2020,total_Solar Photovoltaic,1.951477
+15-County Region,M010000US001,2021,total_Solar Photovoltaic,2.3050949999999997
+15-County Region,M010000US001,2022,total_Solar Photovoltaic,2.0490350000000004
+15-County Region,M010000US001,2023,total_Solar Photovoltaic,1054.228106
+15-County Region,M010000US001,2024,total_Solar Photovoltaic,779.89122
+15-County Region,M010000US001,2009,total_Solid Waste,0.0
+15-County Region,M010000US001,2010,total_Solid Waste,5.0
+15-County Region,M010000US001,2011,total_Solid Waste,0.0
+15-County Region,M010000US001,2012,total_Solid Waste,0.0
+15-County Region,M010000US001,2013,total_Solid Waste,0.0
+15-County Region,M010000US001,2014,total_Solid Waste,0.0
+15-County Region,M010000US001,2015,total_Solid Waste,0.0
+15-County Region,M010000US001,2016,total_Solid Waste,0.0
+15-County Region,M010000US001,2017,total_Solid Waste,0.0
+15-County Region,M010000US001,2018,total_Solid Waste,0.0
+15-County Region,M010000US001,2019,total_Solid Waste,0.0
+15-County Region,M010000US001,2020,total_Solid Waste,0.0
+15-County Region,M010000US001,2021,total_Solid Waste,0.0
+15-County Region,M010000US001,2022,total_Solid Waste,0.0
+15-County Region,M010000US001,2023,total_Solid Waste,0.0
+15-County Region,M010000US001,2024,total_Solid Waste,0.0
+15-County Region,M010000US001,2009,total_Wind,0.0
+15-County Region,M010000US001,2010,total_Wind,0.01
+15-County Region,M010000US001,2011,total_Wind,0.0
+15-County Region,M010000US001,2012,total_Wind,46.0
+15-County Region,M010000US001,2013,total_Wind,0.0
+15-County Region,M010000US001,2014,total_Wind,0.0
+15-County Region,M010000US001,2015,total_Wind,0.0
+15-County Region,M010000US001,2016,total_Wind,0.0
+15-County Region,M010000US001,2017,total_Wind,0.0
+15-County Region,M010000US001,2018,total_Wind,4.5
+15-County Region,M010000US001,2019,total_Wind,0.0
+15-County Region,M010000US001,2020,total_Wind,42.5
+15-County Region,M010000US001,2021,total_Wind,0.0
+15-County Region,M010000US001,2022,total_Wind,0.0
+15-County Region,M010000US001,2023,total_Wind,0.0024
+15-County Region,M010000US001,2024,total_Wind,55.36

@@ -1,34 +1,15 @@
 fields:
   - name: NAME
-    title: Name
-    description: The name of the city, village, township, county, or region.
     type: string
   - name: GEOIDFQ
-    title: Geographic ID
-    description: The geographic id. When possible this corrosponds with the US Census ID.
-    type: integer
+    type: string
   - name: SUMLEVEL
-    title: Geographic sumlevel
-    description: The sumlevel of the geography. When possible this corrosponds with the US Census SUMLEVEL. M01 represents the MORPC 15-county region level and is specific to MORPC derived geographies. 
     type: string
   - name: YEAR
-    title: Year
-    description: The year the facilities were approved.
     type: integer
   - name: METRIC
-    title: Facilities or Capacity
-    description: Whether the value represent the total number of facilities approved (Facilities) or the sum of the capacity of the facilities approved in Mw (Capacity).
     type: string
   - name: FUEL_TYPE
-    title: Fuel Type
-    description: The type of fuel used to produce energy by the facilties. 
     type: string
   - name: VALUE
-    title: Value
-    description: The fact. Either the number of facilities approved by geo by year by type, or the capacity of those facilities. 
     type: number
-
-missingValues:
-  - ''
-primaryKey:
-  - GEOIDFQ
