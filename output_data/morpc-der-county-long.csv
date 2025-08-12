@@ -23,7 +23,6 @@ Delaware,0500000US39041,2020,count_Biofuel,0.0
 Delaware,0500000US39041,2021,count_Biofuel,0.0
 Delaware,0500000US39041,2022,count_Biofuel,0.0
 Delaware,0500000US39041,2023,count_Biofuel,0.0
-Delaware,0500000US39041,2024,count_Biofuel,0.0
 Delaware,0500000US39041,2000,count_Energy Storage,0
 Delaware,0500000US39041,2001,count_Energy Storage,0
 Delaware,0500000US39041,2002,count_Energy Storage,0
@@ -48,7 +47,6 @@ Delaware,0500000US39041,2020,count_Energy Storage,2.0
 Delaware,0500000US39041,2021,count_Energy Storage,2.0
 Delaware,0500000US39041,2022,count_Energy Storage,4.0
 Delaware,0500000US39041,2023,count_Energy Storage,10.0
-Delaware,0500000US39041,2024,count_Energy Storage,4.0
 Delaware,0500000US39041,2000,count_Natural Gas/Propane,0
 Delaware,0500000US39041,2001,count_Natural Gas/Propane,0
 Delaware,0500000US39041,2002,count_Natural Gas/Propane,0
@@ -73,7 +71,6 @@ Delaware,0500000US39041,2020,count_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2021,count_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2022,count_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2023,count_Natural Gas/Propane,0.0
-Delaware,0500000US39041,2024,count_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2000,count_Solar,0
 Delaware,0500000US39041,2001,count_Solar,0
 Delaware,0500000US39041,2002,count_Solar,0
@@ -97,8 +94,7 @@ Delaware,0500000US39041,2019,count_Solar,61.0
 Delaware,0500000US39041,2020,count_Solar,74.0
 Delaware,0500000US39041,2021,count_Solar,117.0
 Delaware,0500000US39041,2022,count_Solar,146.0
-Delaware,0500000US39041,2023,count_Solar,250.0
-Delaware,0500000US39041,2024,count_Solar,126.0
+Delaware,0500000US39041,2023,count_Solar,251.0
 Delaware,0500000US39041,2000,count_Waste Gas,0
 Delaware,0500000US39041,2001,count_Waste Gas,0
 Delaware,0500000US39041,2002,count_Waste Gas,0
@@ -123,7 +119,6 @@ Delaware,0500000US39041,2020,count_Waste Gas,0.0
 Delaware,0500000US39041,2021,count_Waste Gas,0.0
 Delaware,0500000US39041,2022,count_Waste Gas,0.0
 Delaware,0500000US39041,2023,count_Waste Gas,0.0
-Delaware,0500000US39041,2024,count_Waste Gas,0.0
 Delaware,0500000US39041,2000,count_Wind,0
 Delaware,0500000US39041,2001,count_Wind,0
 Delaware,0500000US39041,2002,count_Wind,0
@@ -148,7 +143,6 @@ Delaware,0500000US39041,2020,count_Wind,0.0
 Delaware,0500000US39041,2021,count_Wind,0.0
 Delaware,0500000US39041,2022,count_Wind,0.0
 Delaware,0500000US39041,2023,count_Wind,0.0
-Delaware,0500000US39041,2024,count_Wind,0.0
 Delaware,0500000US39041,2000,total_Biofuel,0
 Delaware,0500000US39041,2001,total_Biofuel,0
 Delaware,0500000US39041,2002,total_Biofuel,0
@@ -173,7 +167,6 @@ Delaware,0500000US39041,2020,total_Biofuel,0.0
 Delaware,0500000US39041,2021,total_Biofuel,0.0
 Delaware,0500000US39041,2022,total_Biofuel,0.0
 Delaware,0500000US39041,2023,total_Biofuel,0.0
-Delaware,0500000US39041,2024,total_Biofuel,0.0
 Delaware,0500000US39041,2000,total_Energy Storage,0
 Delaware,0500000US39041,2001,total_Energy Storage,0
 Delaware,0500000US39041,2002,total_Energy Storage,0
@@ -198,7 +191,6 @@ Delaware,0500000US39041,2020,total_Energy Storage,565.0
 Delaware,0500000US39041,2021,total_Energy Storage,17.68
 Delaware,0500000US39041,2022,total_Energy Storage,21.52
 Delaware,0500000US39041,2023,total_Energy Storage,75.68
-Delaware,0500000US39041,2024,total_Energy Storage,1019.68
 Delaware,0500000US39041,2000,total_Natural Gas/Propane,0
 Delaware,0500000US39041,2001,total_Natural Gas/Propane,0
 Delaware,0500000US39041,2002,total_Natural Gas/Propane,0
@@ -223,7 +215,6 @@ Delaware,0500000US39041,2020,total_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2021,total_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2022,total_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2023,total_Natural Gas/Propane,0.0
-Delaware,0500000US39041,2024,total_Natural Gas/Propane,0.0
 Delaware,0500000US39041,2000,total_Solar,0
 Delaware,0500000US39041,2001,total_Solar,0
 Delaware,0500000US39041,2002,total_Solar,0
@@ -245,10 +236,9 @@ Delaware,0500000US39041,2017,total_Solar,1219.5
 Delaware,0500000US39041,2018,total_Solar,270.6
 Delaware,0500000US39041,2019,total_Solar,3313.5
 Delaware,0500000US39041,2020,total_Solar,779.7
-Delaware,0500000US39041,2021,total_Solar,975.159
+Delaware,0500000US39041,2021,total_Solar,971.859
 Delaware,0500000US39041,2022,total_Solar,1346.606
-Delaware,0500000US39041,2023,total_Solar,1872.644
-Delaware,0500000US39041,2024,total_Solar,2108.7639999999997
+Delaware,0500000US39041,2023,total_Solar,1877.5439999999999
 Delaware,0500000US39041,2000,total_Waste Gas,0
 Delaware,0500000US39041,2001,total_Waste Gas,0
 Delaware,0500000US39041,2002,total_Waste Gas,0
@@ -273,7 +263,6 @@ Delaware,0500000US39041,2020,total_Waste Gas,0.0
 Delaware,0500000US39041,2021,total_Waste Gas,0.0
 Delaware,0500000US39041,2022,total_Waste Gas,0.0
 Delaware,0500000US39041,2023,total_Waste Gas,0.0
-Delaware,0500000US39041,2024,total_Waste Gas,0.0
 Delaware,0500000US39041,2000,total_Wind,0
 Delaware,0500000US39041,2001,total_Wind,0
 Delaware,0500000US39041,2002,total_Wind,0
@@ -298,7 +287,6 @@ Delaware,0500000US39041,2020,total_Wind,0.0
 Delaware,0500000US39041,2021,total_Wind,0.0
 Delaware,0500000US39041,2022,total_Wind,0.0
 Delaware,0500000US39041,2023,total_Wind,0.0
-Delaware,0500000US39041,2024,total_Wind,0.0
 Fairfield,0500000US39045,2000,count_Biofuel,0
 Fairfield,0500000US39045,2001,count_Biofuel,0
 Fairfield,0500000US39045,2002,count_Biofuel,0
@@ -323,7 +311,6 @@ Fairfield,0500000US39045,2020,count_Biofuel,0.0
 Fairfield,0500000US39045,2021,count_Biofuel,0.0
 Fairfield,0500000US39045,2022,count_Biofuel,0.0
 Fairfield,0500000US39045,2023,count_Biofuel,0.0
-Fairfield,0500000US39045,2024,count_Biofuel,0.0
 Fairfield,0500000US39045,2000,count_Energy Storage,0
 Fairfield,0500000US39045,2001,count_Energy Storage,0
 Fairfield,0500000US39045,2002,count_Energy Storage,0
@@ -348,7 +335,6 @@ Fairfield,0500000US39045,2020,count_Energy Storage,0.0
 Fairfield,0500000US39045,2021,count_Energy Storage,0.0
 Fairfield,0500000US39045,2022,count_Energy Storage,1.0
 Fairfield,0500000US39045,2023,count_Energy Storage,2.0
-Fairfield,0500000US39045,2024,count_Energy Storage,1.0
 Fairfield,0500000US39045,2000,count_Natural Gas/Propane,0
 Fairfield,0500000US39045,2001,count_Natural Gas/Propane,0
 Fairfield,0500000US39045,2002,count_Natural Gas/Propane,0
@@ -373,7 +359,6 @@ Fairfield,0500000US39045,2020,count_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2021,count_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2022,count_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2023,count_Natural Gas/Propane,0.0
-Fairfield,0500000US39045,2024,count_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2000,count_Solar,0
 Fairfield,0500000US39045,2001,count_Solar,0
 Fairfield,0500000US39045,2002,count_Solar,0
@@ -398,7 +383,6 @@ Fairfield,0500000US39045,2020,count_Solar,21.0
 Fairfield,0500000US39045,2021,count_Solar,32.0
 Fairfield,0500000US39045,2022,count_Solar,50.0
 Fairfield,0500000US39045,2023,count_Solar,53.0
-Fairfield,0500000US39045,2024,count_Solar,40.0
 Fairfield,0500000US39045,2000,count_Waste Gas,0
 Fairfield,0500000US39045,2001,count_Waste Gas,0
 Fairfield,0500000US39045,2002,count_Waste Gas,0
@@ -423,7 +407,6 @@ Fairfield,0500000US39045,2020,count_Waste Gas,0.0
 Fairfield,0500000US39045,2021,count_Waste Gas,0.0
 Fairfield,0500000US39045,2022,count_Waste Gas,0.0
 Fairfield,0500000US39045,2023,count_Waste Gas,0.0
-Fairfield,0500000US39045,2024,count_Waste Gas,0.0
 Fairfield,0500000US39045,2000,count_Wind,0
 Fairfield,0500000US39045,2001,count_Wind,0
 Fairfield,0500000US39045,2002,count_Wind,0
@@ -448,7 +431,6 @@ Fairfield,0500000US39045,2020,count_Wind,0.0
 Fairfield,0500000US39045,2021,count_Wind,0.0
 Fairfield,0500000US39045,2022,count_Wind,0.0
 Fairfield,0500000US39045,2023,count_Wind,0.0
-Fairfield,0500000US39045,2024,count_Wind,0.0
 Fairfield,0500000US39045,2000,total_Biofuel,0
 Fairfield,0500000US39045,2001,total_Biofuel,0
 Fairfield,0500000US39045,2002,total_Biofuel,0
@@ -473,7 +455,6 @@ Fairfield,0500000US39045,2020,total_Biofuel,0.0
 Fairfield,0500000US39045,2021,total_Biofuel,0.0
 Fairfield,0500000US39045,2022,total_Biofuel,0.0
 Fairfield,0500000US39045,2023,total_Biofuel,0.0
-Fairfield,0500000US39045,2024,total_Biofuel,0.0
 Fairfield,0500000US39045,2000,total_Energy Storage,0
 Fairfield,0500000US39045,2001,total_Energy Storage,0
 Fairfield,0500000US39045,2002,total_Energy Storage,0
@@ -498,7 +479,6 @@ Fairfield,0500000US39045,2020,total_Energy Storage,0.0
 Fairfield,0500000US39045,2021,total_Energy Storage,0.0
 Fairfield,0500000US39045,2022,total_Energy Storage,3.84
 Fairfield,0500000US39045,2023,total_Energy Storage,7.24
-Fairfield,0500000US39045,2024,total_Energy Storage,442.0
 Fairfield,0500000US39045,2000,total_Natural Gas/Propane,0
 Fairfield,0500000US39045,2001,total_Natural Gas/Propane,0
 Fairfield,0500000US39045,2002,total_Natural Gas/Propane,0
@@ -523,7 +503,6 @@ Fairfield,0500000US39045,2020,total_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2021,total_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2022,total_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2023,total_Natural Gas/Propane,0.0
-Fairfield,0500000US39045,2024,total_Natural Gas/Propane,0.0
 Fairfield,0500000US39045,2000,total_Solar,0
 Fairfield,0500000US39045,2001,total_Solar,0
 Fairfield,0500000US39045,2002,total_Solar,0
@@ -548,7 +527,6 @@ Fairfield,0500000US39045,2020,total_Solar,123.7
 Fairfield,0500000US39045,2021,total_Solar,266.945
 Fairfield,0500000US39045,2022,total_Solar,338.97
 Fairfield,0500000US39045,2023,total_Solar,329.85
-Fairfield,0500000US39045,2024,total_Solar,357.71
 Fairfield,0500000US39045,2000,total_Waste Gas,0
 Fairfield,0500000US39045,2001,total_Waste Gas,0
 Fairfield,0500000US39045,2002,total_Waste Gas,0
@@ -573,7 +551,6 @@ Fairfield,0500000US39045,2020,total_Waste Gas,0.0
 Fairfield,0500000US39045,2021,total_Waste Gas,0.0
 Fairfield,0500000US39045,2022,total_Waste Gas,0.0
 Fairfield,0500000US39045,2023,total_Waste Gas,0.0
-Fairfield,0500000US39045,2024,total_Waste Gas,0.0
 Fairfield,0500000US39045,2000,total_Wind,0
 Fairfield,0500000US39045,2001,total_Wind,0
 Fairfield,0500000US39045,2002,total_Wind,0
@@ -598,7 +575,6 @@ Fairfield,0500000US39045,2020,total_Wind,0.0
 Fairfield,0500000US39045,2021,total_Wind,0.0
 Fairfield,0500000US39045,2022,total_Wind,0.0
 Fairfield,0500000US39045,2023,total_Wind,0.0
-Fairfield,0500000US39045,2024,total_Wind,0.0
 Fayette,0500000US39047,2000,count_Biofuel,0
 Fayette,0500000US39047,2001,count_Biofuel,0
 Fayette,0500000US39047,2002,count_Biofuel,0
@@ -623,7 +599,6 @@ Fayette,0500000US39047,2020,count_Biofuel,0.0
 Fayette,0500000US39047,2021,count_Biofuel,0.0
 Fayette,0500000US39047,2022,count_Biofuel,0.0
 Fayette,0500000US39047,2023,count_Biofuel,0.0
-Fayette,0500000US39047,2024,count_Biofuel,0.0
 Fayette,0500000US39047,2000,count_Energy Storage,0
 Fayette,0500000US39047,2001,count_Energy Storage,0
 Fayette,0500000US39047,2002,count_Energy Storage,0
@@ -648,7 +623,6 @@ Fayette,0500000US39047,2020,count_Energy Storage,0.0
 Fayette,0500000US39047,2021,count_Energy Storage,0.0
 Fayette,0500000US39047,2022,count_Energy Storage,0.0
 Fayette,0500000US39047,2023,count_Energy Storage,0.0
-Fayette,0500000US39047,2024,count_Energy Storage,0.0
 Fayette,0500000US39047,2000,count_Natural Gas/Propane,0
 Fayette,0500000US39047,2001,count_Natural Gas/Propane,0
 Fayette,0500000US39047,2002,count_Natural Gas/Propane,0
@@ -673,7 +647,6 @@ Fayette,0500000US39047,2020,count_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2021,count_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2022,count_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2023,count_Natural Gas/Propane,0.0
-Fayette,0500000US39047,2024,count_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2000,count_Solar,0
 Fayette,0500000US39047,2001,count_Solar,0
 Fayette,0500000US39047,2002,count_Solar,0
@@ -698,7 +671,6 @@ Fayette,0500000US39047,2020,count_Solar,7.0
 Fayette,0500000US39047,2021,count_Solar,11.0
 Fayette,0500000US39047,2022,count_Solar,15.0
 Fayette,0500000US39047,2023,count_Solar,9.0
-Fayette,0500000US39047,2024,count_Solar,7.0
 Fayette,0500000US39047,2000,count_Waste Gas,0
 Fayette,0500000US39047,2001,count_Waste Gas,0
 Fayette,0500000US39047,2002,count_Waste Gas,0
@@ -723,7 +695,6 @@ Fayette,0500000US39047,2020,count_Waste Gas,0.0
 Fayette,0500000US39047,2021,count_Waste Gas,0.0
 Fayette,0500000US39047,2022,count_Waste Gas,0.0
 Fayette,0500000US39047,2023,count_Waste Gas,0.0
-Fayette,0500000US39047,2024,count_Waste Gas,0.0
 Fayette,0500000US39047,2000,count_Wind,0
 Fayette,0500000US39047,2001,count_Wind,0
 Fayette,0500000US39047,2002,count_Wind,0
@@ -748,7 +719,6 @@ Fayette,0500000US39047,2020,count_Wind,0.0
 Fayette,0500000US39047,2021,count_Wind,0.0
 Fayette,0500000US39047,2022,count_Wind,0.0
 Fayette,0500000US39047,2023,count_Wind,0.0
-Fayette,0500000US39047,2024,count_Wind,0.0
 Fayette,0500000US39047,2000,total_Biofuel,0
 Fayette,0500000US39047,2001,total_Biofuel,0
 Fayette,0500000US39047,2002,total_Biofuel,0
@@ -773,7 +743,6 @@ Fayette,0500000US39047,2020,total_Biofuel,0.0
 Fayette,0500000US39047,2021,total_Biofuel,0.0
 Fayette,0500000US39047,2022,total_Biofuel,0.0
 Fayette,0500000US39047,2023,total_Biofuel,0.0
-Fayette,0500000US39047,2024,total_Biofuel,0.0
 Fayette,0500000US39047,2000,total_Energy Storage,0
 Fayette,0500000US39047,2001,total_Energy Storage,0
 Fayette,0500000US39047,2002,total_Energy Storage,0
@@ -798,7 +767,6 @@ Fayette,0500000US39047,2020,total_Energy Storage,0.0
 Fayette,0500000US39047,2021,total_Energy Storage,0.0
 Fayette,0500000US39047,2022,total_Energy Storage,0.0
 Fayette,0500000US39047,2023,total_Energy Storage,0.0
-Fayette,0500000US39047,2024,total_Energy Storage,0.0
 Fayette,0500000US39047,2000,total_Natural Gas/Propane,0
 Fayette,0500000US39047,2001,total_Natural Gas/Propane,0
 Fayette,0500000US39047,2002,total_Natural Gas/Propane,0
@@ -823,7 +791,6 @@ Fayette,0500000US39047,2020,total_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2021,total_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2022,total_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2023,total_Natural Gas/Propane,0.0
-Fayette,0500000US39047,2024,total_Natural Gas/Propane,0.0
 Fayette,0500000US39047,2000,total_Solar,0
 Fayette,0500000US39047,2001,total_Solar,0
 Fayette,0500000US39047,2002,total_Solar,0
@@ -839,7 +806,7 @@ Fayette,0500000US39047,2011,total_Solar,332.0
 Fayette,0500000US39047,2012,total_Solar,49.69
 Fayette,0500000US39047,2013,total_Solar,0
 Fayette,0500000US39047,2014,total_Solar,15.54
-Fayette,0500000US39047,2015,total_Solar,11.21
+Fayette,0500000US39047,2015,total_Solar,10.370000000000001
 Fayette,0500000US39047,2016,total_Solar,6.0
 Fayette,0500000US39047,2017,total_Solar,0
 Fayette,0500000US39047,2018,total_Solar,13.54
@@ -848,7 +815,6 @@ Fayette,0500000US39047,2020,total_Solar,44.44
 Fayette,0500000US39047,2021,total_Solar,108.54
 Fayette,0500000US39047,2022,total_Solar,117.89999999999999
 Fayette,0500000US39047,2023,total_Solar,70.91
-Fayette,0500000US39047,2024,total_Solar,60.84
 Fayette,0500000US39047,2000,total_Waste Gas,0
 Fayette,0500000US39047,2001,total_Waste Gas,0
 Fayette,0500000US39047,2002,total_Waste Gas,0
@@ -873,7 +839,6 @@ Fayette,0500000US39047,2020,total_Waste Gas,0.0
 Fayette,0500000US39047,2021,total_Waste Gas,0.0
 Fayette,0500000US39047,2022,total_Waste Gas,0.0
 Fayette,0500000US39047,2023,total_Waste Gas,0.0
-Fayette,0500000US39047,2024,total_Waste Gas,0.0
 Fayette,0500000US39047,2000,total_Wind,0
 Fayette,0500000US39047,2001,total_Wind,0
 Fayette,0500000US39047,2002,total_Wind,0
@@ -898,7 +863,6 @@ Fayette,0500000US39047,2020,total_Wind,0.0
 Fayette,0500000US39047,2021,total_Wind,0.0
 Fayette,0500000US39047,2022,total_Wind,0.0
 Fayette,0500000US39047,2023,total_Wind,0.0
-Fayette,0500000US39047,2024,total_Wind,0.0
 Franklin,0500000US39049,2000,count_Biofuel,0.0
 Franklin,0500000US39049,2001,count_Biofuel,0.0
 Franklin,0500000US39049,2002,count_Biofuel,0
@@ -923,7 +887,6 @@ Franklin,0500000US39049,2020,count_Biofuel,0.0
 Franklin,0500000US39049,2021,count_Biofuel,0.0
 Franklin,0500000US39049,2022,count_Biofuel,0.0
 Franklin,0500000US39049,2023,count_Biofuel,0.0
-Franklin,0500000US39049,2024,count_Biofuel,0.0
 Franklin,0500000US39049,2000,count_Energy Storage,0.0
 Franklin,0500000US39049,2001,count_Energy Storage,0.0
 Franklin,0500000US39049,2002,count_Energy Storage,0
@@ -948,7 +911,6 @@ Franklin,0500000US39049,2020,count_Energy Storage,3.0
 Franklin,0500000US39049,2021,count_Energy Storage,7.0
 Franklin,0500000US39049,2022,count_Energy Storage,15.0
 Franklin,0500000US39049,2023,count_Energy Storage,53.0
-Franklin,0500000US39049,2024,count_Energy Storage,12.0
 Franklin,0500000US39049,2000,count_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2001,count_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2002,count_Natural Gas/Propane,0
@@ -973,7 +935,6 @@ Franklin,0500000US39049,2020,count_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2021,count_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2022,count_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2023,count_Natural Gas/Propane,1.0
-Franklin,0500000US39049,2024,count_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2000,count_Solar,0.0
 Franklin,0500000US39049,2001,count_Solar,0.0
 Franklin,0500000US39049,2002,count_Solar,0
@@ -998,7 +959,6 @@ Franklin,0500000US39049,2020,count_Solar,407.0
 Franklin,0500000US39049,2021,count_Solar,708.0
 Franklin,0500000US39049,2022,count_Solar,912.0
 Franklin,0500000US39049,2023,count_Solar,1310.0
-Franklin,0500000US39049,2024,count_Solar,1074.0
 Franklin,0500000US39049,2000,count_Waste Gas,0.0
 Franklin,0500000US39049,2001,count_Waste Gas,0.0
 Franklin,0500000US39049,2002,count_Waste Gas,0
@@ -1023,7 +983,6 @@ Franklin,0500000US39049,2020,count_Waste Gas,0.0
 Franklin,0500000US39049,2021,count_Waste Gas,0.0
 Franklin,0500000US39049,2022,count_Waste Gas,0.0
 Franklin,0500000US39049,2023,count_Waste Gas,0.0
-Franklin,0500000US39049,2024,count_Waste Gas,0.0
 Franklin,0500000US39049,2000,count_Wind,1.0
 Franklin,0500000US39049,2001,count_Wind,1.0
 Franklin,0500000US39049,2002,count_Wind,0
@@ -1048,7 +1007,6 @@ Franklin,0500000US39049,2020,count_Wind,0.0
 Franklin,0500000US39049,2021,count_Wind,0.0
 Franklin,0500000US39049,2022,count_Wind,0.0
 Franklin,0500000US39049,2023,count_Wind,0.0
-Franklin,0500000US39049,2024,count_Wind,0.0
 Franklin,0500000US39049,2000,total_Biofuel,0.0
 Franklin,0500000US39049,2001,total_Biofuel,0.0
 Franklin,0500000US39049,2002,total_Biofuel,0
@@ -1073,7 +1031,6 @@ Franklin,0500000US39049,2020,total_Biofuel,0.0
 Franklin,0500000US39049,2021,total_Biofuel,0.0
 Franklin,0500000US39049,2022,total_Biofuel,0.0
 Franklin,0500000US39049,2023,total_Biofuel,0.0
-Franklin,0500000US39049,2024,total_Biofuel,0.0
 Franklin,0500000US39049,2000,total_Energy Storage,0.0
 Franklin,0500000US39049,2001,total_Energy Storage,0.0
 Franklin,0500000US39049,2002,total_Energy Storage,0
@@ -1098,7 +1055,6 @@ Franklin,0500000US39049,2020,total_Energy Storage,20.0
 Franklin,0500000US39049,2021,total_Energy Storage,52.92
 Franklin,0500000US39049,2022,total_Energy Storage,83.2
 Franklin,0500000US39049,2023,total_Energy Storage,274.54
-Franklin,0500000US39049,2024,total_Energy Storage,72.6
 Franklin,0500000US39049,2000,total_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2001,total_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2002,total_Natural Gas/Propane,0
@@ -1123,7 +1079,6 @@ Franklin,0500000US39049,2020,total_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2021,total_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2022,total_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2023,total_Natural Gas/Propane,3624.0
-Franklin,0500000US39049,2024,total_Natural Gas/Propane,0.0
 Franklin,0500000US39049,2000,total_Solar,0.0
 Franklin,0500000US39049,2001,total_Solar,0.0
 Franklin,0500000US39049,2002,total_Solar,0
@@ -1146,9 +1101,8 @@ Franklin,0500000US39049,2018,total_Solar,1450.97
 Franklin,0500000US39049,2019,total_Solar,1709.3
 Franklin,0500000US39049,2020,total_Solar,2603.44
 Franklin,0500000US39049,2021,total_Solar,5233.278
-Franklin,0500000US39049,2022,total_Solar,6264.34
+Franklin,0500000US39049,2022,total_Solar,6265.64
 Franklin,0500000US39049,2023,total_Solar,14609.679
-Franklin,0500000US39049,2024,total_Solar,8158.382
 Franklin,0500000US39049,2000,total_Waste Gas,0.0
 Franklin,0500000US39049,2001,total_Waste Gas,0.0
 Franklin,0500000US39049,2002,total_Waste Gas,0
@@ -1173,7 +1127,6 @@ Franklin,0500000US39049,2020,total_Waste Gas,0.0
 Franklin,0500000US39049,2021,total_Waste Gas,0.0
 Franklin,0500000US39049,2022,total_Waste Gas,0.0
 Franklin,0500000US39049,2023,total_Waste Gas,0.0
-Franklin,0500000US39049,2024,total_Waste Gas,0.0
 Franklin,0500000US39049,2000,total_Wind,10.0
 Franklin,0500000US39049,2001,total_Wind,18.0
 Franklin,0500000US39049,2002,total_Wind,0
@@ -1198,7 +1151,6 @@ Franklin,0500000US39049,2020,total_Wind,0.0
 Franklin,0500000US39049,2021,total_Wind,0.0
 Franklin,0500000US39049,2022,total_Wind,0.0
 Franklin,0500000US39049,2023,total_Wind,0.0
-Franklin,0500000US39049,2024,total_Wind,0.0
 Hocking,0500000US39073,2000,count_Biofuel,0
 Hocking,0500000US39073,2001,count_Biofuel,0
 Hocking,0500000US39073,2002,count_Biofuel,0
@@ -1223,7 +1175,6 @@ Hocking,0500000US39073,2020,count_Biofuel,0.0
 Hocking,0500000US39073,2021,count_Biofuel,0.0
 Hocking,0500000US39073,2022,count_Biofuel,0.0
 Hocking,0500000US39073,2023,count_Biofuel,0.0
-Hocking,0500000US39073,2024,count_Biofuel,0.0
 Hocking,0500000US39073,2000,count_Energy Storage,0
 Hocking,0500000US39073,2001,count_Energy Storage,0
 Hocking,0500000US39073,2002,count_Energy Storage,0
@@ -1248,7 +1199,6 @@ Hocking,0500000US39073,2020,count_Energy Storage,0.0
 Hocking,0500000US39073,2021,count_Energy Storage,0.0
 Hocking,0500000US39073,2022,count_Energy Storage,0.0
 Hocking,0500000US39073,2023,count_Energy Storage,1.0
-Hocking,0500000US39073,2024,count_Energy Storage,0.0
 Hocking,0500000US39073,2000,count_Natural Gas/Propane,0
 Hocking,0500000US39073,2001,count_Natural Gas/Propane,0
 Hocking,0500000US39073,2002,count_Natural Gas/Propane,0
@@ -1273,7 +1223,6 @@ Hocking,0500000US39073,2020,count_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2021,count_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2022,count_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2023,count_Natural Gas/Propane,0.0
-Hocking,0500000US39073,2024,count_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2000,count_Solar,0
 Hocking,0500000US39073,2001,count_Solar,0
 Hocking,0500000US39073,2002,count_Solar,0
@@ -1298,7 +1247,6 @@ Hocking,0500000US39073,2020,count_Solar,7.0
 Hocking,0500000US39073,2021,count_Solar,10.0
 Hocking,0500000US39073,2022,count_Solar,4.0
 Hocking,0500000US39073,2023,count_Solar,7.0
-Hocking,0500000US39073,2024,count_Solar,7.0
 Hocking,0500000US39073,2000,count_Waste Gas,0
 Hocking,0500000US39073,2001,count_Waste Gas,0
 Hocking,0500000US39073,2002,count_Waste Gas,0
@@ -1323,7 +1271,6 @@ Hocking,0500000US39073,2020,count_Waste Gas,0.0
 Hocking,0500000US39073,2021,count_Waste Gas,0.0
 Hocking,0500000US39073,2022,count_Waste Gas,0.0
 Hocking,0500000US39073,2023,count_Waste Gas,0.0
-Hocking,0500000US39073,2024,count_Waste Gas,0.0
 Hocking,0500000US39073,2000,count_Wind,0
 Hocking,0500000US39073,2001,count_Wind,0
 Hocking,0500000US39073,2002,count_Wind,0
@@ -1348,7 +1295,6 @@ Hocking,0500000US39073,2020,count_Wind,0.0
 Hocking,0500000US39073,2021,count_Wind,0.0
 Hocking,0500000US39073,2022,count_Wind,0.0
 Hocking,0500000US39073,2023,count_Wind,0.0
-Hocking,0500000US39073,2024,count_Wind,0.0
 Hocking,0500000US39073,2000,total_Biofuel,0
 Hocking,0500000US39073,2001,total_Biofuel,0
 Hocking,0500000US39073,2002,total_Biofuel,0
@@ -1373,7 +1319,6 @@ Hocking,0500000US39073,2020,total_Biofuel,0.0
 Hocking,0500000US39073,2021,total_Biofuel,0.0
 Hocking,0500000US39073,2022,total_Biofuel,0.0
 Hocking,0500000US39073,2023,total_Biofuel,0.0
-Hocking,0500000US39073,2024,total_Biofuel,0.0
 Hocking,0500000US39073,2000,total_Energy Storage,0
 Hocking,0500000US39073,2001,total_Energy Storage,0
 Hocking,0500000US39073,2002,total_Energy Storage,0
@@ -1398,7 +1343,6 @@ Hocking,0500000US39073,2020,total_Energy Storage,0.0
 Hocking,0500000US39073,2021,total_Energy Storage,0.0
 Hocking,0500000US39073,2022,total_Energy Storage,0.0
 Hocking,0500000US39073,2023,total_Energy Storage,7.0
-Hocking,0500000US39073,2024,total_Energy Storage,0.0
 Hocking,0500000US39073,2000,total_Natural Gas/Propane,0
 Hocking,0500000US39073,2001,total_Natural Gas/Propane,0
 Hocking,0500000US39073,2002,total_Natural Gas/Propane,0
@@ -1423,7 +1367,6 @@ Hocking,0500000US39073,2020,total_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2021,total_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2022,total_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2023,total_Natural Gas/Propane,0.0
-Hocking,0500000US39073,2024,total_Natural Gas/Propane,0.0
 Hocking,0500000US39073,2000,total_Solar,0
 Hocking,0500000US39073,2001,total_Solar,0
 Hocking,0500000US39073,2002,total_Solar,0
@@ -1448,7 +1391,6 @@ Hocking,0500000US39073,2020,total_Solar,52.5
 Hocking,0500000US39073,2021,total_Solar,198.20999999999998
 Hocking,0500000US39073,2022,total_Solar,47.1
 Hocking,0500000US39073,2023,total_Solar,68.634
-Hocking,0500000US39073,2024,total_Solar,57.048
 Hocking,0500000US39073,2000,total_Waste Gas,0
 Hocking,0500000US39073,2001,total_Waste Gas,0
 Hocking,0500000US39073,2002,total_Waste Gas,0
@@ -1473,7 +1415,6 @@ Hocking,0500000US39073,2020,total_Waste Gas,0.0
 Hocking,0500000US39073,2021,total_Waste Gas,0.0
 Hocking,0500000US39073,2022,total_Waste Gas,0.0
 Hocking,0500000US39073,2023,total_Waste Gas,0.0
-Hocking,0500000US39073,2024,total_Waste Gas,0.0
 Hocking,0500000US39073,2000,total_Wind,0
 Hocking,0500000US39073,2001,total_Wind,0
 Hocking,0500000US39073,2002,total_Wind,0
@@ -1498,7 +1439,6 @@ Hocking,0500000US39073,2020,total_Wind,0.0
 Hocking,0500000US39073,2021,total_Wind,0.0
 Hocking,0500000US39073,2022,total_Wind,0.0
 Hocking,0500000US39073,2023,total_Wind,0.0
-Hocking,0500000US39073,2024,total_Wind,0.0
 Knox,0500000US39083,2000,count_Biofuel,0
 Knox,0500000US39083,2001,count_Biofuel,0
 Knox,0500000US39083,2002,count_Biofuel,0
@@ -1523,7 +1463,6 @@ Knox,0500000US39083,2020,count_Biofuel,0.0
 Knox,0500000US39083,2021,count_Biofuel,0.0
 Knox,0500000US39083,2022,count_Biofuel,0.0
 Knox,0500000US39083,2023,count_Biofuel,0.0
-Knox,0500000US39083,2024,count_Biofuel,0.0
 Knox,0500000US39083,2000,count_Energy Storage,0
 Knox,0500000US39083,2001,count_Energy Storage,0
 Knox,0500000US39083,2002,count_Energy Storage,0
@@ -1548,7 +1487,6 @@ Knox,0500000US39083,2020,count_Energy Storage,0.0
 Knox,0500000US39083,2021,count_Energy Storage,0.0
 Knox,0500000US39083,2022,count_Energy Storage,1.0
 Knox,0500000US39083,2023,count_Energy Storage,2.0
-Knox,0500000US39083,2024,count_Energy Storage,1.0
 Knox,0500000US39083,2000,count_Natural Gas/Propane,0
 Knox,0500000US39083,2001,count_Natural Gas/Propane,0
 Knox,0500000US39083,2002,count_Natural Gas/Propane,0
@@ -1573,7 +1511,6 @@ Knox,0500000US39083,2020,count_Natural Gas/Propane,0.0
 Knox,0500000US39083,2021,count_Natural Gas/Propane,0.0
 Knox,0500000US39083,2022,count_Natural Gas/Propane,0.0
 Knox,0500000US39083,2023,count_Natural Gas/Propane,0.0
-Knox,0500000US39083,2024,count_Natural Gas/Propane,0.0
 Knox,0500000US39083,2000,count_Solar,0
 Knox,0500000US39083,2001,count_Solar,0
 Knox,0500000US39083,2002,count_Solar,0
@@ -1598,7 +1535,6 @@ Knox,0500000US39083,2020,count_Solar,30.0
 Knox,0500000US39083,2021,count_Solar,17.0
 Knox,0500000US39083,2022,count_Solar,28.0
 Knox,0500000US39083,2023,count_Solar,43.0
-Knox,0500000US39083,2024,count_Solar,25.0
 Knox,0500000US39083,2000,count_Waste Gas,0
 Knox,0500000US39083,2001,count_Waste Gas,0
 Knox,0500000US39083,2002,count_Waste Gas,0
@@ -1623,7 +1559,6 @@ Knox,0500000US39083,2020,count_Waste Gas,0.0
 Knox,0500000US39083,2021,count_Waste Gas,0.0
 Knox,0500000US39083,2022,count_Waste Gas,0.0
 Knox,0500000US39083,2023,count_Waste Gas,0.0
-Knox,0500000US39083,2024,count_Waste Gas,0.0
 Knox,0500000US39083,2000,count_Wind,0
 Knox,0500000US39083,2001,count_Wind,0
 Knox,0500000US39083,2002,count_Wind,0
@@ -1648,7 +1583,6 @@ Knox,0500000US39083,2020,count_Wind,0.0
 Knox,0500000US39083,2021,count_Wind,0.0
 Knox,0500000US39083,2022,count_Wind,0.0
 Knox,0500000US39083,2023,count_Wind,0.0
-Knox,0500000US39083,2024,count_Wind,0.0
 Knox,0500000US39083,2000,total_Biofuel,0
 Knox,0500000US39083,2001,total_Biofuel,0
 Knox,0500000US39083,2002,total_Biofuel,0
@@ -1673,7 +1607,6 @@ Knox,0500000US39083,2020,total_Biofuel,0.0
 Knox,0500000US39083,2021,total_Biofuel,0.0
 Knox,0500000US39083,2022,total_Biofuel,0.0
 Knox,0500000US39083,2023,total_Biofuel,0.0
-Knox,0500000US39083,2024,total_Biofuel,0.0
 Knox,0500000US39083,2000,total_Energy Storage,0
 Knox,0500000US39083,2001,total_Energy Storage,0
 Knox,0500000US39083,2002,total_Energy Storage,0
@@ -1698,7 +1631,6 @@ Knox,0500000US39083,2020,total_Energy Storage,0.0
 Knox,0500000US39083,2021,total_Energy Storage,0.0
 Knox,0500000US39083,2022,total_Energy Storage,3.84
 Knox,0500000US39083,2023,total_Energy Storage,19.2
-Knox,0500000US39083,2024,total_Energy Storage,3.84
 Knox,0500000US39083,2000,total_Natural Gas/Propane,0
 Knox,0500000US39083,2001,total_Natural Gas/Propane,0
 Knox,0500000US39083,2002,total_Natural Gas/Propane,0
@@ -1723,7 +1655,6 @@ Knox,0500000US39083,2020,total_Natural Gas/Propane,0.0
 Knox,0500000US39083,2021,total_Natural Gas/Propane,0.0
 Knox,0500000US39083,2022,total_Natural Gas/Propane,0.0
 Knox,0500000US39083,2023,total_Natural Gas/Propane,0.0
-Knox,0500000US39083,2024,total_Natural Gas/Propane,0.0
 Knox,0500000US39083,2000,total_Solar,0
 Knox,0500000US39083,2001,total_Solar,0
 Knox,0500000US39083,2002,total_Solar,0
@@ -1748,7 +1679,6 @@ Knox,0500000US39083,2020,total_Solar,261.59999999999997
 Knox,0500000US39083,2021,total_Solar,141.21
 Knox,0500000US39083,2022,total_Solar,269.4
 Knox,0500000US39083,2023,total_Solar,394.772
-Knox,0500000US39083,2024,total_Solar,271.03499999999997
 Knox,0500000US39083,2000,total_Waste Gas,0
 Knox,0500000US39083,2001,total_Waste Gas,0
 Knox,0500000US39083,2002,total_Waste Gas,0
@@ -1773,7 +1703,6 @@ Knox,0500000US39083,2020,total_Waste Gas,0.0
 Knox,0500000US39083,2021,total_Waste Gas,0.0
 Knox,0500000US39083,2022,total_Waste Gas,0.0
 Knox,0500000US39083,2023,total_Waste Gas,0.0
-Knox,0500000US39083,2024,total_Waste Gas,0.0
 Knox,0500000US39083,2000,total_Wind,0
 Knox,0500000US39083,2001,total_Wind,0
 Knox,0500000US39083,2002,total_Wind,0
@@ -1798,7 +1727,6 @@ Knox,0500000US39083,2020,total_Wind,0.0
 Knox,0500000US39083,2021,total_Wind,0.0
 Knox,0500000US39083,2022,total_Wind,0.0
 Knox,0500000US39083,2023,total_Wind,0.0
-Knox,0500000US39083,2024,total_Wind,0.0
 Licking,0500000US39089,2000,count_Biofuel,0
 Licking,0500000US39089,2001,count_Biofuel,0
 Licking,0500000US39089,2002,count_Biofuel,0
@@ -1823,7 +1751,6 @@ Licking,0500000US39089,2020,count_Biofuel,0.0
 Licking,0500000US39089,2021,count_Biofuel,0.0
 Licking,0500000US39089,2022,count_Biofuel,0.0
 Licking,0500000US39089,2023,count_Biofuel,0.0
-Licking,0500000US39089,2024,count_Biofuel,0.0
 Licking,0500000US39089,2000,count_Energy Storage,0
 Licking,0500000US39089,2001,count_Energy Storage,0
 Licking,0500000US39089,2002,count_Energy Storage,0
@@ -1848,7 +1775,6 @@ Licking,0500000US39089,2020,count_Energy Storage,1.0
 Licking,0500000US39089,2021,count_Energy Storage,0.0
 Licking,0500000US39089,2022,count_Energy Storage,0.0
 Licking,0500000US39089,2023,count_Energy Storage,5.0
-Licking,0500000US39089,2024,count_Energy Storage,2.0
 Licking,0500000US39089,2000,count_Natural Gas/Propane,0
 Licking,0500000US39089,2001,count_Natural Gas/Propane,0
 Licking,0500000US39089,2002,count_Natural Gas/Propane,0
@@ -1873,7 +1799,6 @@ Licking,0500000US39089,2020,count_Natural Gas/Propane,0.0
 Licking,0500000US39089,2021,count_Natural Gas/Propane,0.0
 Licking,0500000US39089,2022,count_Natural Gas/Propane,0.0
 Licking,0500000US39089,2023,count_Natural Gas/Propane,1.0
-Licking,0500000US39089,2024,count_Natural Gas/Propane,0.0
 Licking,0500000US39089,2000,count_Solar,0
 Licking,0500000US39089,2001,count_Solar,0
 Licking,0500000US39089,2002,count_Solar,0
@@ -1898,7 +1823,6 @@ Licking,0500000US39089,2020,count_Solar,54.0
 Licking,0500000US39089,2021,count_Solar,92.0
 Licking,0500000US39089,2022,count_Solar,111.0
 Licking,0500000US39089,2023,count_Solar,158.0
-Licking,0500000US39089,2024,count_Solar,110.0
 Licking,0500000US39089,2000,count_Waste Gas,0
 Licking,0500000US39089,2001,count_Waste Gas,0
 Licking,0500000US39089,2002,count_Waste Gas,0
@@ -1923,7 +1847,6 @@ Licking,0500000US39089,2020,count_Waste Gas,0.0
 Licking,0500000US39089,2021,count_Waste Gas,0.0
 Licking,0500000US39089,2022,count_Waste Gas,0.0
 Licking,0500000US39089,2023,count_Waste Gas,0.0
-Licking,0500000US39089,2024,count_Waste Gas,0.0
 Licking,0500000US39089,2000,count_Wind,0
 Licking,0500000US39089,2001,count_Wind,0
 Licking,0500000US39089,2002,count_Wind,0
@@ -1948,7 +1871,6 @@ Licking,0500000US39089,2020,count_Wind,0.0
 Licking,0500000US39089,2021,count_Wind,0.0
 Licking,0500000US39089,2022,count_Wind,0.0
 Licking,0500000US39089,2023,count_Wind,0.0
-Licking,0500000US39089,2024,count_Wind,0.0
 Licking,0500000US39089,2000,total_Biofuel,0
 Licking,0500000US39089,2001,total_Biofuel,0
 Licking,0500000US39089,2002,total_Biofuel,0
@@ -1973,7 +1895,6 @@ Licking,0500000US39089,2020,total_Biofuel,0.0
 Licking,0500000US39089,2021,total_Biofuel,0.0
 Licking,0500000US39089,2022,total_Biofuel,0.0
 Licking,0500000US39089,2023,total_Biofuel,0.0
-Licking,0500000US39089,2024,total_Biofuel,0.0
 Licking,0500000US39089,2000,total_Energy Storage,0
 Licking,0500000US39089,2001,total_Energy Storage,0
 Licking,0500000US39089,2002,total_Energy Storage,0
@@ -1998,7 +1919,6 @@ Licking,0500000US39089,2020,total_Energy Storage,15.0
 Licking,0500000US39089,2021,total_Energy Storage,0.0
 Licking,0500000US39089,2022,total_Energy Storage,0.0
 Licking,0500000US39089,2023,total_Energy Storage,29.93
-Licking,0500000US39089,2024,total_Energy Storage,20.0
 Licking,0500000US39089,2000,total_Natural Gas/Propane,0
 Licking,0500000US39089,2001,total_Natural Gas/Propane,0
 Licking,0500000US39089,2002,total_Natural Gas/Propane,0
@@ -2023,7 +1943,6 @@ Licking,0500000US39089,2020,total_Natural Gas/Propane,0.0
 Licking,0500000US39089,2021,total_Natural Gas/Propane,0.0
 Licking,0500000US39089,2022,total_Natural Gas/Propane,0.0
 Licking,0500000US39089,2023,total_Natural Gas/Propane,1180.0
-Licking,0500000US39089,2024,total_Natural Gas/Propane,0.0
 Licking,0500000US39089,2000,total_Solar,0
 Licking,0500000US39089,2001,total_Solar,0
 Licking,0500000US39089,2002,total_Solar,0
@@ -2048,7 +1967,6 @@ Licking,0500000US39089,2020,total_Solar,439.09999999999997
 Licking,0500000US39089,2021,total_Solar,726.558
 Licking,0500000US39089,2022,total_Solar,776.39
 Licking,0500000US39089,2023,total_Solar,1222.323
-Licking,0500000US39089,2024,total_Solar,712.741
 Licking,0500000US39089,2000,total_Waste Gas,0
 Licking,0500000US39089,2001,total_Waste Gas,0
 Licking,0500000US39089,2002,total_Waste Gas,0
@@ -2073,7 +1991,6 @@ Licking,0500000US39089,2020,total_Waste Gas,0.0
 Licking,0500000US39089,2021,total_Waste Gas,0.0
 Licking,0500000US39089,2022,total_Waste Gas,0.0
 Licking,0500000US39089,2023,total_Waste Gas,0.0
-Licking,0500000US39089,2024,total_Waste Gas,0.0
 Licking,0500000US39089,2000,total_Wind,0
 Licking,0500000US39089,2001,total_Wind,0
 Licking,0500000US39089,2002,total_Wind,0
@@ -2098,7 +2015,6 @@ Licking,0500000US39089,2020,total_Wind,0.0
 Licking,0500000US39089,2021,total_Wind,0.0
 Licking,0500000US39089,2022,total_Wind,0.0
 Licking,0500000US39089,2023,total_Wind,0.0
-Licking,0500000US39089,2024,total_Wind,0.0
 Logan,0500000US39091,2000,count_Biofuel,0
 Logan,0500000US39091,2001,count_Biofuel,0
 Logan,0500000US39091,2002,count_Biofuel,0
@@ -2123,7 +2039,6 @@ Logan,0500000US39091,2020,count_Biofuel,0.0
 Logan,0500000US39091,2021,count_Biofuel,0.0
 Logan,0500000US39091,2022,count_Biofuel,0.0
 Logan,0500000US39091,2023,count_Biofuel,0.0
-Logan,0500000US39091,2024,count_Biofuel,0.0
 Logan,0500000US39091,2000,count_Energy Storage,0
 Logan,0500000US39091,2001,count_Energy Storage,0
 Logan,0500000US39091,2002,count_Energy Storage,0
@@ -2148,7 +2063,6 @@ Logan,0500000US39091,2020,count_Energy Storage,0.0
 Logan,0500000US39091,2021,count_Energy Storage,0.0
 Logan,0500000US39091,2022,count_Energy Storage,0.0
 Logan,0500000US39091,2023,count_Energy Storage,0.0
-Logan,0500000US39091,2024,count_Energy Storage,0.0
 Logan,0500000US39091,2000,count_Natural Gas/Propane,0
 Logan,0500000US39091,2001,count_Natural Gas/Propane,0
 Logan,0500000US39091,2002,count_Natural Gas/Propane,0
@@ -2173,7 +2087,6 @@ Logan,0500000US39091,2020,count_Natural Gas/Propane,0.0
 Logan,0500000US39091,2021,count_Natural Gas/Propane,0.0
 Logan,0500000US39091,2022,count_Natural Gas/Propane,0.0
 Logan,0500000US39091,2023,count_Natural Gas/Propane,0.0
-Logan,0500000US39091,2024,count_Natural Gas/Propane,0.0
 Logan,0500000US39091,2000,count_Solar,0
 Logan,0500000US39091,2001,count_Solar,0
 Logan,0500000US39091,2002,count_Solar,0
@@ -2198,7 +2111,6 @@ Logan,0500000US39091,2020,count_Solar,10.0
 Logan,0500000US39091,2021,count_Solar,9.0
 Logan,0500000US39091,2022,count_Solar,10.0
 Logan,0500000US39091,2023,count_Solar,18.0
-Logan,0500000US39091,2024,count_Solar,7.0
 Logan,0500000US39091,2000,count_Waste Gas,0
 Logan,0500000US39091,2001,count_Waste Gas,0
 Logan,0500000US39091,2002,count_Waste Gas,0
@@ -2223,7 +2135,6 @@ Logan,0500000US39091,2020,count_Waste Gas,0.0
 Logan,0500000US39091,2021,count_Waste Gas,0.0
 Logan,0500000US39091,2022,count_Waste Gas,0.0
 Logan,0500000US39091,2023,count_Waste Gas,0.0
-Logan,0500000US39091,2024,count_Waste Gas,0.0
 Logan,0500000US39091,2000,count_Wind,0
 Logan,0500000US39091,2001,count_Wind,0
 Logan,0500000US39091,2002,count_Wind,0
@@ -2248,7 +2159,6 @@ Logan,0500000US39091,2020,count_Wind,0.0
 Logan,0500000US39091,2021,count_Wind,0.0
 Logan,0500000US39091,2022,count_Wind,0.0
 Logan,0500000US39091,2023,count_Wind,0.0
-Logan,0500000US39091,2024,count_Wind,0.0
 Logan,0500000US39091,2000,total_Biofuel,0
 Logan,0500000US39091,2001,total_Biofuel,0
 Logan,0500000US39091,2002,total_Biofuel,0
@@ -2273,7 +2183,6 @@ Logan,0500000US39091,2020,total_Biofuel,0.0
 Logan,0500000US39091,2021,total_Biofuel,0.0
 Logan,0500000US39091,2022,total_Biofuel,0.0
 Logan,0500000US39091,2023,total_Biofuel,0.0
-Logan,0500000US39091,2024,total_Biofuel,0.0
 Logan,0500000US39091,2000,total_Energy Storage,0
 Logan,0500000US39091,2001,total_Energy Storage,0
 Logan,0500000US39091,2002,total_Energy Storage,0
@@ -2298,7 +2207,6 @@ Logan,0500000US39091,2020,total_Energy Storage,0.0
 Logan,0500000US39091,2021,total_Energy Storage,0.0
 Logan,0500000US39091,2022,total_Energy Storage,0.0
 Logan,0500000US39091,2023,total_Energy Storage,0.0
-Logan,0500000US39091,2024,total_Energy Storage,0.0
 Logan,0500000US39091,2000,total_Natural Gas/Propane,0
 Logan,0500000US39091,2001,total_Natural Gas/Propane,0
 Logan,0500000US39091,2002,total_Natural Gas/Propane,0
@@ -2323,7 +2231,6 @@ Logan,0500000US39091,2020,total_Natural Gas/Propane,0.0
 Logan,0500000US39091,2021,total_Natural Gas/Propane,0.0
 Logan,0500000US39091,2022,total_Natural Gas/Propane,0.0
 Logan,0500000US39091,2023,total_Natural Gas/Propane,0.0
-Logan,0500000US39091,2024,total_Natural Gas/Propane,0.0
 Logan,0500000US39091,2000,total_Solar,0
 Logan,0500000US39091,2001,total_Solar,0
 Logan,0500000US39091,2002,total_Solar,0
@@ -2348,7 +2255,6 @@ Logan,0500000US39091,2020,total_Solar,62.31
 Logan,0500000US39091,2021,total_Solar,55.48
 Logan,0500000US39091,2022,total_Solar,98.52
 Logan,0500000US39091,2023,total_Solar,139.945
-Logan,0500000US39091,2024,total_Solar,72.18
 Logan,0500000US39091,2000,total_Waste Gas,0
 Logan,0500000US39091,2001,total_Waste Gas,0
 Logan,0500000US39091,2002,total_Waste Gas,0
@@ -2373,7 +2279,6 @@ Logan,0500000US39091,2020,total_Waste Gas,0.0
 Logan,0500000US39091,2021,total_Waste Gas,0.0
 Logan,0500000US39091,2022,total_Waste Gas,0.0
 Logan,0500000US39091,2023,total_Waste Gas,0.0
-Logan,0500000US39091,2024,total_Waste Gas,0.0
 Logan,0500000US39091,2000,total_Wind,0
 Logan,0500000US39091,2001,total_Wind,0
 Logan,0500000US39091,2002,total_Wind,0
@@ -2398,7 +2303,6 @@ Logan,0500000US39091,2020,total_Wind,0.0
 Logan,0500000US39091,2021,total_Wind,0.0
 Logan,0500000US39091,2022,total_Wind,0.0
 Logan,0500000US39091,2023,total_Wind,0.0
-Logan,0500000US39091,2024,total_Wind,0.0
 Madison,0500000US39097,2000,count_Biofuel,0
 Madison,0500000US39097,2001,count_Biofuel,0
 Madison,0500000US39097,2002,count_Biofuel,0
@@ -2423,7 +2327,6 @@ Madison,0500000US39097,2020,count_Biofuel,0.0
 Madison,0500000US39097,2021,count_Biofuel,0.0
 Madison,0500000US39097,2022,count_Biofuel,0.0
 Madison,0500000US39097,2023,count_Biofuel,0.0
-Madison,0500000US39097,2024,count_Biofuel,0.0
 Madison,0500000US39097,2000,count_Energy Storage,0
 Madison,0500000US39097,2001,count_Energy Storage,0
 Madison,0500000US39097,2002,count_Energy Storage,0
@@ -2448,7 +2351,6 @@ Madison,0500000US39097,2020,count_Energy Storage,0.0
 Madison,0500000US39097,2021,count_Energy Storage,0.0
 Madison,0500000US39097,2022,count_Energy Storage,3.0
 Madison,0500000US39097,2023,count_Energy Storage,2.0
-Madison,0500000US39097,2024,count_Energy Storage,0.0
 Madison,0500000US39097,2000,count_Natural Gas/Propane,0
 Madison,0500000US39097,2001,count_Natural Gas/Propane,0
 Madison,0500000US39097,2002,count_Natural Gas/Propane,0
@@ -2473,7 +2375,6 @@ Madison,0500000US39097,2020,count_Natural Gas/Propane,0.0
 Madison,0500000US39097,2021,count_Natural Gas/Propane,0.0
 Madison,0500000US39097,2022,count_Natural Gas/Propane,0.0
 Madison,0500000US39097,2023,count_Natural Gas/Propane,0.0
-Madison,0500000US39097,2024,count_Natural Gas/Propane,0.0
 Madison,0500000US39097,2000,count_Solar,0
 Madison,0500000US39097,2001,count_Solar,0
 Madison,0500000US39097,2002,count_Solar,0
@@ -2496,9 +2397,8 @@ Madison,0500000US39097,2018,count_Solar,5.0
 Madison,0500000US39097,2019,count_Solar,18.0
 Madison,0500000US39097,2020,count_Solar,19.0
 Madison,0500000US39097,2021,count_Solar,17.0
-Madison,0500000US39097,2022,count_Solar,26.0
+Madison,0500000US39097,2022,count_Solar,27.0
 Madison,0500000US39097,2023,count_Solar,36.0
-Madison,0500000US39097,2024,count_Solar,37.0
 Madison,0500000US39097,2000,count_Waste Gas,0
 Madison,0500000US39097,2001,count_Waste Gas,0
 Madison,0500000US39097,2002,count_Waste Gas,0
@@ -2523,7 +2423,6 @@ Madison,0500000US39097,2020,count_Waste Gas,0.0
 Madison,0500000US39097,2021,count_Waste Gas,0.0
 Madison,0500000US39097,2022,count_Waste Gas,0.0
 Madison,0500000US39097,2023,count_Waste Gas,0.0
-Madison,0500000US39097,2024,count_Waste Gas,0.0
 Madison,0500000US39097,2000,count_Wind,0
 Madison,0500000US39097,2001,count_Wind,0
 Madison,0500000US39097,2002,count_Wind,0
@@ -2548,7 +2447,6 @@ Madison,0500000US39097,2020,count_Wind,0.0
 Madison,0500000US39097,2021,count_Wind,0.0
 Madison,0500000US39097,2022,count_Wind,0.0
 Madison,0500000US39097,2023,count_Wind,0.0
-Madison,0500000US39097,2024,count_Wind,0.0
 Madison,0500000US39097,2000,total_Biofuel,0
 Madison,0500000US39097,2001,total_Biofuel,0
 Madison,0500000US39097,2002,total_Biofuel,0
@@ -2573,7 +2471,6 @@ Madison,0500000US39097,2020,total_Biofuel,0.0
 Madison,0500000US39097,2021,total_Biofuel,0.0
 Madison,0500000US39097,2022,total_Biofuel,0.0
 Madison,0500000US39097,2023,total_Biofuel,0.0
-Madison,0500000US39097,2024,total_Biofuel,0.0
 Madison,0500000US39097,2000,total_Energy Storage,0
 Madison,0500000US39097,2001,total_Energy Storage,0
 Madison,0500000US39097,2002,total_Energy Storage,0
@@ -2598,7 +2495,6 @@ Madison,0500000US39097,2020,total_Energy Storage,0.0
 Madison,0500000US39097,2021,total_Energy Storage,0.0
 Madison,0500000US39097,2022,total_Energy Storage,5.0
 Madison,0500000US39097,2023,total_Energy Storage,7.6
-Madison,0500000US39097,2024,total_Energy Storage,0.0
 Madison,0500000US39097,2000,total_Natural Gas/Propane,0
 Madison,0500000US39097,2001,total_Natural Gas/Propane,0
 Madison,0500000US39097,2002,total_Natural Gas/Propane,0
@@ -2623,7 +2519,6 @@ Madison,0500000US39097,2020,total_Natural Gas/Propane,0.0
 Madison,0500000US39097,2021,total_Natural Gas/Propane,0.0
 Madison,0500000US39097,2022,total_Natural Gas/Propane,0.0
 Madison,0500000US39097,2023,total_Natural Gas/Propane,0.0
-Madison,0500000US39097,2024,total_Natural Gas/Propane,0.0
 Madison,0500000US39097,2000,total_Solar,0
 Madison,0500000US39097,2001,total_Solar,0
 Madison,0500000US39097,2002,total_Solar,0
@@ -2646,9 +2541,8 @@ Madison,0500000US39097,2018,total_Solar,72.8
 Madison,0500000US39097,2019,total_Solar,177.49
 Madison,0500000US39097,2020,total_Solar,161.73
 Madison,0500000US39097,2021,total_Solar,147.224
-Madison,0500000US39097,2022,total_Solar,223.7
+Madison,0500000US39097,2022,total_Solar,226.31
 Madison,0500000US39097,2023,total_Solar,4271.835
-Madison,0500000US39097,2024,total_Solar,1373.99
 Madison,0500000US39097,2000,total_Waste Gas,0
 Madison,0500000US39097,2001,total_Waste Gas,0
 Madison,0500000US39097,2002,total_Waste Gas,0
@@ -2673,7 +2567,6 @@ Madison,0500000US39097,2020,total_Waste Gas,0.0
 Madison,0500000US39097,2021,total_Waste Gas,0.0
 Madison,0500000US39097,2022,total_Waste Gas,0.0
 Madison,0500000US39097,2023,total_Waste Gas,0.0
-Madison,0500000US39097,2024,total_Waste Gas,0.0
 Madison,0500000US39097,2000,total_Wind,0
 Madison,0500000US39097,2001,total_Wind,0
 Madison,0500000US39097,2002,total_Wind,0
@@ -2698,7 +2591,6 @@ Madison,0500000US39097,2020,total_Wind,0.0
 Madison,0500000US39097,2021,total_Wind,0.0
 Madison,0500000US39097,2022,total_Wind,0.0
 Madison,0500000US39097,2023,total_Wind,0.0
-Madison,0500000US39097,2024,total_Wind,0.0
 Marion,0500000US39101,2000,count_Biofuel,0
 Marion,0500000US39101,2001,count_Biofuel,0
 Marion,0500000US39101,2002,count_Biofuel,0
@@ -2723,7 +2615,6 @@ Marion,0500000US39101,2020,count_Biofuel,0.0
 Marion,0500000US39101,2021,count_Biofuel,0.0
 Marion,0500000US39101,2022,count_Biofuel,0.0
 Marion,0500000US39101,2023,count_Biofuel,0.0
-Marion,0500000US39101,2024,count_Biofuel,0.0
 Marion,0500000US39101,2000,count_Energy Storage,0
 Marion,0500000US39101,2001,count_Energy Storage,0
 Marion,0500000US39101,2002,count_Energy Storage,0
@@ -2748,7 +2639,6 @@ Marion,0500000US39101,2020,count_Energy Storage,0.0
 Marion,0500000US39101,2021,count_Energy Storage,0.0
 Marion,0500000US39101,2022,count_Energy Storage,2.0
 Marion,0500000US39101,2023,count_Energy Storage,0.0
-Marion,0500000US39101,2024,count_Energy Storage,0.0
 Marion,0500000US39101,2000,count_Natural Gas/Propane,0
 Marion,0500000US39101,2001,count_Natural Gas/Propane,0
 Marion,0500000US39101,2002,count_Natural Gas/Propane,0
@@ -2773,7 +2663,6 @@ Marion,0500000US39101,2020,count_Natural Gas/Propane,0.0
 Marion,0500000US39101,2021,count_Natural Gas/Propane,0.0
 Marion,0500000US39101,2022,count_Natural Gas/Propane,0.0
 Marion,0500000US39101,2023,count_Natural Gas/Propane,0.0
-Marion,0500000US39101,2024,count_Natural Gas/Propane,0.0
 Marion,0500000US39101,2000,count_Solar,0
 Marion,0500000US39101,2001,count_Solar,0
 Marion,0500000US39101,2002,count_Solar,0
@@ -2797,8 +2686,7 @@ Marion,0500000US39101,2019,count_Solar,15.0
 Marion,0500000US39101,2020,count_Solar,10.0
 Marion,0500000US39101,2021,count_Solar,13.0
 Marion,0500000US39101,2022,count_Solar,27.0
-Marion,0500000US39101,2023,count_Solar,17.0
-Marion,0500000US39101,2024,count_Solar,12.0
+Marion,0500000US39101,2023,count_Solar,19.0
 Marion,0500000US39101,2000,count_Waste Gas,0
 Marion,0500000US39101,2001,count_Waste Gas,0
 Marion,0500000US39101,2002,count_Waste Gas,0
@@ -2823,7 +2711,6 @@ Marion,0500000US39101,2020,count_Waste Gas,0.0
 Marion,0500000US39101,2021,count_Waste Gas,0.0
 Marion,0500000US39101,2022,count_Waste Gas,0.0
 Marion,0500000US39101,2023,count_Waste Gas,0.0
-Marion,0500000US39101,2024,count_Waste Gas,0.0
 Marion,0500000US39101,2000,count_Wind,0
 Marion,0500000US39101,2001,count_Wind,0
 Marion,0500000US39101,2002,count_Wind,0
@@ -2848,7 +2735,6 @@ Marion,0500000US39101,2020,count_Wind,0.0
 Marion,0500000US39101,2021,count_Wind,0.0
 Marion,0500000US39101,2022,count_Wind,0.0
 Marion,0500000US39101,2023,count_Wind,0.0
-Marion,0500000US39101,2024,count_Wind,0.0
 Marion,0500000US39101,2000,total_Biofuel,0
 Marion,0500000US39101,2001,total_Biofuel,0
 Marion,0500000US39101,2002,total_Biofuel,0
@@ -2873,7 +2759,6 @@ Marion,0500000US39101,2020,total_Biofuel,0.0
 Marion,0500000US39101,2021,total_Biofuel,0.0
 Marion,0500000US39101,2022,total_Biofuel,0.0
 Marion,0500000US39101,2023,total_Biofuel,0.0
-Marion,0500000US39101,2024,total_Biofuel,0.0
 Marion,0500000US39101,2000,total_Energy Storage,0
 Marion,0500000US39101,2001,total_Energy Storage,0
 Marion,0500000US39101,2002,total_Energy Storage,0
@@ -2898,7 +2783,6 @@ Marion,0500000US39101,2020,total_Energy Storage,0.0
 Marion,0500000US39101,2021,total_Energy Storage,0.0
 Marion,0500000US39101,2022,total_Energy Storage,0.0
 Marion,0500000US39101,2023,total_Energy Storage,0.0
-Marion,0500000US39101,2024,total_Energy Storage,0.0
 Marion,0500000US39101,2000,total_Natural Gas/Propane,0
 Marion,0500000US39101,2001,total_Natural Gas/Propane,0
 Marion,0500000US39101,2002,total_Natural Gas/Propane,0
@@ -2923,7 +2807,6 @@ Marion,0500000US39101,2020,total_Natural Gas/Propane,0.0
 Marion,0500000US39101,2021,total_Natural Gas/Propane,0.0
 Marion,0500000US39101,2022,total_Natural Gas/Propane,0.0
 Marion,0500000US39101,2023,total_Natural Gas/Propane,0.0
-Marion,0500000US39101,2024,total_Natural Gas/Propane,0.0
 Marion,0500000US39101,2000,total_Solar,0
 Marion,0500000US39101,2001,total_Solar,0
 Marion,0500000US39101,2002,total_Solar,0
@@ -2947,8 +2830,7 @@ Marion,0500000US39101,2019,total_Solar,92.0
 Marion,0500000US39101,2020,total_Solar,49.96
 Marion,0500000US39101,2021,total_Solar,99.9
 Marion,0500000US39101,2022,total_Solar,186.98999999999998
-Marion,0500000US39101,2023,total_Solar,113.17999999999999
-Marion,0500000US39101,2024,total_Solar,81.97
+Marion,0500000US39101,2023,total_Solar,126.78
 Marion,0500000US39101,2000,total_Waste Gas,0
 Marion,0500000US39101,2001,total_Waste Gas,0
 Marion,0500000US39101,2002,total_Waste Gas,0
@@ -2973,7 +2855,6 @@ Marion,0500000US39101,2020,total_Waste Gas,0.0
 Marion,0500000US39101,2021,total_Waste Gas,0.0
 Marion,0500000US39101,2022,total_Waste Gas,0.0
 Marion,0500000US39101,2023,total_Waste Gas,0.0
-Marion,0500000US39101,2024,total_Waste Gas,0.0
 Marion,0500000US39101,2000,total_Wind,0
 Marion,0500000US39101,2001,total_Wind,0
 Marion,0500000US39101,2002,total_Wind,0
@@ -2998,7 +2879,6 @@ Marion,0500000US39101,2020,total_Wind,0.0
 Marion,0500000US39101,2021,total_Wind,0.0
 Marion,0500000US39101,2022,total_Wind,0.0
 Marion,0500000US39101,2023,total_Wind,0.0
-Marion,0500000US39101,2024,total_Wind,0.0
 Morrow,0500000US39117,2000,count_Biofuel,0
 Morrow,0500000US39117,2001,count_Biofuel,0
 Morrow,0500000US39117,2002,count_Biofuel,0
@@ -3023,7 +2903,6 @@ Morrow,0500000US39117,2020,count_Biofuel,0.0
 Morrow,0500000US39117,2021,count_Biofuel,0.0
 Morrow,0500000US39117,2022,count_Biofuel,0.0
 Morrow,0500000US39117,2023,count_Biofuel,0.0
-Morrow,0500000US39117,2024,count_Biofuel,0.0
 Morrow,0500000US39117,2000,count_Energy Storage,0
 Morrow,0500000US39117,2001,count_Energy Storage,0
 Morrow,0500000US39117,2002,count_Energy Storage,0
@@ -3048,7 +2927,6 @@ Morrow,0500000US39117,2020,count_Energy Storage,0.0
 Morrow,0500000US39117,2021,count_Energy Storage,0.0
 Morrow,0500000US39117,2022,count_Energy Storage,1.0
 Morrow,0500000US39117,2023,count_Energy Storage,3.0
-Morrow,0500000US39117,2024,count_Energy Storage,0.0
 Morrow,0500000US39117,2000,count_Natural Gas/Propane,0
 Morrow,0500000US39117,2001,count_Natural Gas/Propane,0
 Morrow,0500000US39117,2002,count_Natural Gas/Propane,0
@@ -3073,7 +2951,6 @@ Morrow,0500000US39117,2020,count_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2021,count_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2022,count_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2023,count_Natural Gas/Propane,0.0
-Morrow,0500000US39117,2024,count_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2000,count_Solar,0
 Morrow,0500000US39117,2001,count_Solar,0
 Morrow,0500000US39117,2002,count_Solar,0
@@ -3098,7 +2975,6 @@ Morrow,0500000US39117,2020,count_Solar,10.0
 Morrow,0500000US39117,2021,count_Solar,8.0
 Morrow,0500000US39117,2022,count_Solar,11.0
 Morrow,0500000US39117,2023,count_Solar,9.0
-Morrow,0500000US39117,2024,count_Solar,9.0
 Morrow,0500000US39117,2000,count_Waste Gas,0
 Morrow,0500000US39117,2001,count_Waste Gas,0
 Morrow,0500000US39117,2002,count_Waste Gas,0
@@ -3123,7 +2999,6 @@ Morrow,0500000US39117,2020,count_Waste Gas,0.0
 Morrow,0500000US39117,2021,count_Waste Gas,0.0
 Morrow,0500000US39117,2022,count_Waste Gas,0.0
 Morrow,0500000US39117,2023,count_Waste Gas,0.0
-Morrow,0500000US39117,2024,count_Waste Gas,0.0
 Morrow,0500000US39117,2000,count_Wind,0
 Morrow,0500000US39117,2001,count_Wind,0
 Morrow,0500000US39117,2002,count_Wind,0
@@ -3148,7 +3023,6 @@ Morrow,0500000US39117,2020,count_Wind,0.0
 Morrow,0500000US39117,2021,count_Wind,0.0
 Morrow,0500000US39117,2022,count_Wind,0.0
 Morrow,0500000US39117,2023,count_Wind,0.0
-Morrow,0500000US39117,2024,count_Wind,0.0
 Morrow,0500000US39117,2000,total_Biofuel,0
 Morrow,0500000US39117,2001,total_Biofuel,0
 Morrow,0500000US39117,2002,total_Biofuel,0
@@ -3173,7 +3047,6 @@ Morrow,0500000US39117,2020,total_Biofuel,0.0
 Morrow,0500000US39117,2021,total_Biofuel,0.0
 Morrow,0500000US39117,2022,total_Biofuel,0.0
 Morrow,0500000US39117,2023,total_Biofuel,0.0
-Morrow,0500000US39117,2024,total_Biofuel,0.0
 Morrow,0500000US39117,2000,total_Energy Storage,0
 Morrow,0500000US39117,2001,total_Energy Storage,0
 Morrow,0500000US39117,2002,total_Energy Storage,0
@@ -3198,7 +3071,6 @@ Morrow,0500000US39117,2020,total_Energy Storage,0.0
 Morrow,0500000US39117,2021,total_Energy Storage,0.0
 Morrow,0500000US39117,2022,total_Energy Storage,3.84
 Morrow,0500000US39117,2023,total_Energy Storage,12.68
-Morrow,0500000US39117,2024,total_Energy Storage,0.0
 Morrow,0500000US39117,2000,total_Natural Gas/Propane,0
 Morrow,0500000US39117,2001,total_Natural Gas/Propane,0
 Morrow,0500000US39117,2002,total_Natural Gas/Propane,0
@@ -3223,7 +3095,6 @@ Morrow,0500000US39117,2020,total_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2021,total_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2022,total_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2023,total_Natural Gas/Propane,0.0
-Morrow,0500000US39117,2024,total_Natural Gas/Propane,0.0
 Morrow,0500000US39117,2000,total_Solar,0
 Morrow,0500000US39117,2001,total_Solar,0
 Morrow,0500000US39117,2002,total_Solar,0
@@ -3248,7 +3119,6 @@ Morrow,0500000US39117,2020,total_Solar,66.16
 Morrow,0500000US39117,2021,total_Solar,75.63
 Morrow,0500000US39117,2022,total_Solar,76.53999999999999
 Morrow,0500000US39117,2023,total_Solar,75.38
-Morrow,0500000US39117,2024,total_Solar,71.42999999999999
 Morrow,0500000US39117,2000,total_Waste Gas,0
 Morrow,0500000US39117,2001,total_Waste Gas,0
 Morrow,0500000US39117,2002,total_Waste Gas,0
@@ -3273,7 +3143,6 @@ Morrow,0500000US39117,2020,total_Waste Gas,0.0
 Morrow,0500000US39117,2021,total_Waste Gas,0.0
 Morrow,0500000US39117,2022,total_Waste Gas,0.0
 Morrow,0500000US39117,2023,total_Waste Gas,0.0
-Morrow,0500000US39117,2024,total_Waste Gas,0.0
 Morrow,0500000US39117,2000,total_Wind,0
 Morrow,0500000US39117,2001,total_Wind,0
 Morrow,0500000US39117,2002,total_Wind,0
@@ -3298,7 +3167,6 @@ Morrow,0500000US39117,2020,total_Wind,0.0
 Morrow,0500000US39117,2021,total_Wind,0.0
 Morrow,0500000US39117,2022,total_Wind,0.0
 Morrow,0500000US39117,2023,total_Wind,0.0
-Morrow,0500000US39117,2024,total_Wind,0.0
 Perry,0500000US39127,2000,count_Biofuel,0
 Perry,0500000US39127,2001,count_Biofuel,0
 Perry,0500000US39127,2002,count_Biofuel,0
@@ -3323,7 +3191,6 @@ Perry,0500000US39127,2020,count_Biofuel,0.0
 Perry,0500000US39127,2021,count_Biofuel,0.0
 Perry,0500000US39127,2022,count_Biofuel,0.0
 Perry,0500000US39127,2023,count_Biofuel,0.0
-Perry,0500000US39127,2024,count_Biofuel,0.0
 Perry,0500000US39127,2000,count_Energy Storage,0
 Perry,0500000US39127,2001,count_Energy Storage,0
 Perry,0500000US39127,2002,count_Energy Storage,0
@@ -3348,7 +3215,6 @@ Perry,0500000US39127,2020,count_Energy Storage,0.0
 Perry,0500000US39127,2021,count_Energy Storage,0.0
 Perry,0500000US39127,2022,count_Energy Storage,0.0
 Perry,0500000US39127,2023,count_Energy Storage,0.0
-Perry,0500000US39127,2024,count_Energy Storage,0.0
 Perry,0500000US39127,2000,count_Natural Gas/Propane,0
 Perry,0500000US39127,2001,count_Natural Gas/Propane,0
 Perry,0500000US39127,2002,count_Natural Gas/Propane,0
@@ -3373,7 +3239,6 @@ Perry,0500000US39127,2020,count_Natural Gas/Propane,0.0
 Perry,0500000US39127,2021,count_Natural Gas/Propane,0.0
 Perry,0500000US39127,2022,count_Natural Gas/Propane,0.0
 Perry,0500000US39127,2023,count_Natural Gas/Propane,0.0
-Perry,0500000US39127,2024,count_Natural Gas/Propane,0.0
 Perry,0500000US39127,2000,count_Solar,0
 Perry,0500000US39127,2001,count_Solar,0
 Perry,0500000US39127,2002,count_Solar,0
@@ -3398,7 +3263,6 @@ Perry,0500000US39127,2020,count_Solar,8.0
 Perry,0500000US39127,2021,count_Solar,16.0
 Perry,0500000US39127,2022,count_Solar,19.0
 Perry,0500000US39127,2023,count_Solar,4.0
-Perry,0500000US39127,2024,count_Solar,5.0
 Perry,0500000US39127,2000,count_Waste Gas,0
 Perry,0500000US39127,2001,count_Waste Gas,0
 Perry,0500000US39127,2002,count_Waste Gas,0
@@ -3423,7 +3287,6 @@ Perry,0500000US39127,2020,count_Waste Gas,0.0
 Perry,0500000US39127,2021,count_Waste Gas,0.0
 Perry,0500000US39127,2022,count_Waste Gas,0.0
 Perry,0500000US39127,2023,count_Waste Gas,0.0
-Perry,0500000US39127,2024,count_Waste Gas,0.0
 Perry,0500000US39127,2000,count_Wind,0
 Perry,0500000US39127,2001,count_Wind,0
 Perry,0500000US39127,2002,count_Wind,0
@@ -3448,7 +3311,6 @@ Perry,0500000US39127,2020,count_Wind,0.0
 Perry,0500000US39127,2021,count_Wind,0.0
 Perry,0500000US39127,2022,count_Wind,0.0
 Perry,0500000US39127,2023,count_Wind,0.0
-Perry,0500000US39127,2024,count_Wind,0.0
 Perry,0500000US39127,2000,total_Biofuel,0
 Perry,0500000US39127,2001,total_Biofuel,0
 Perry,0500000US39127,2002,total_Biofuel,0
@@ -3473,7 +3335,6 @@ Perry,0500000US39127,2020,total_Biofuel,0.0
 Perry,0500000US39127,2021,total_Biofuel,0.0
 Perry,0500000US39127,2022,total_Biofuel,0.0
 Perry,0500000US39127,2023,total_Biofuel,0.0
-Perry,0500000US39127,2024,total_Biofuel,0.0
 Perry,0500000US39127,2000,total_Energy Storage,0
 Perry,0500000US39127,2001,total_Energy Storage,0
 Perry,0500000US39127,2002,total_Energy Storage,0
@@ -3498,7 +3359,6 @@ Perry,0500000US39127,2020,total_Energy Storage,0.0
 Perry,0500000US39127,2021,total_Energy Storage,0.0
 Perry,0500000US39127,2022,total_Energy Storage,0.0
 Perry,0500000US39127,2023,total_Energy Storage,0.0
-Perry,0500000US39127,2024,total_Energy Storage,0.0
 Perry,0500000US39127,2000,total_Natural Gas/Propane,0
 Perry,0500000US39127,2001,total_Natural Gas/Propane,0
 Perry,0500000US39127,2002,total_Natural Gas/Propane,0
@@ -3523,7 +3383,6 @@ Perry,0500000US39127,2020,total_Natural Gas/Propane,0.0
 Perry,0500000US39127,2021,total_Natural Gas/Propane,0.0
 Perry,0500000US39127,2022,total_Natural Gas/Propane,0.0
 Perry,0500000US39127,2023,total_Natural Gas/Propane,0.0
-Perry,0500000US39127,2024,total_Natural Gas/Propane,0.0
 Perry,0500000US39127,2000,total_Solar,0
 Perry,0500000US39127,2001,total_Solar,0
 Perry,0500000US39127,2002,total_Solar,0
@@ -3548,7 +3407,6 @@ Perry,0500000US39127,2020,total_Solar,49.0
 Perry,0500000US39127,2021,total_Solar,124.23299999999999
 Perry,0500000US39127,2022,total_Solar,141.43
 Perry,0500000US39127,2023,total_Solar,27.96
-Perry,0500000US39127,2024,total_Solar,33.932
 Perry,0500000US39127,2000,total_Waste Gas,0
 Perry,0500000US39127,2001,total_Waste Gas,0
 Perry,0500000US39127,2002,total_Waste Gas,0
@@ -3573,7 +3431,6 @@ Perry,0500000US39127,2020,total_Waste Gas,0.0
 Perry,0500000US39127,2021,total_Waste Gas,0.0
 Perry,0500000US39127,2022,total_Waste Gas,0.0
 Perry,0500000US39127,2023,total_Waste Gas,0.0
-Perry,0500000US39127,2024,total_Waste Gas,0.0
 Perry,0500000US39127,2000,total_Wind,0
 Perry,0500000US39127,2001,total_Wind,0
 Perry,0500000US39127,2002,total_Wind,0
@@ -3598,7 +3455,6 @@ Perry,0500000US39127,2020,total_Wind,0.0
 Perry,0500000US39127,2021,total_Wind,0.0
 Perry,0500000US39127,2022,total_Wind,0.0
 Perry,0500000US39127,2023,total_Wind,0.0
-Perry,0500000US39127,2024,total_Wind,0.0
 Pickaway,0500000US39129,2000,count_Biofuel,0
 Pickaway,0500000US39129,2001,count_Biofuel,0
 Pickaway,0500000US39129,2002,count_Biofuel,0
@@ -3623,7 +3479,6 @@ Pickaway,0500000US39129,2020,count_Biofuel,0.0
 Pickaway,0500000US39129,2021,count_Biofuel,0.0
 Pickaway,0500000US39129,2022,count_Biofuel,0.0
 Pickaway,0500000US39129,2023,count_Biofuel,0.0
-Pickaway,0500000US39129,2024,count_Biofuel,0.0
 Pickaway,0500000US39129,2000,count_Energy Storage,0
 Pickaway,0500000US39129,2001,count_Energy Storage,0
 Pickaway,0500000US39129,2002,count_Energy Storage,0
@@ -3648,7 +3503,6 @@ Pickaway,0500000US39129,2020,count_Energy Storage,0.0
 Pickaway,0500000US39129,2021,count_Energy Storage,2.0
 Pickaway,0500000US39129,2022,count_Energy Storage,0.0
 Pickaway,0500000US39129,2023,count_Energy Storage,1.0
-Pickaway,0500000US39129,2024,count_Energy Storage,0.0
 Pickaway,0500000US39129,2000,count_Natural Gas/Propane,0
 Pickaway,0500000US39129,2001,count_Natural Gas/Propane,0
 Pickaway,0500000US39129,2002,count_Natural Gas/Propane,0
@@ -3673,7 +3527,6 @@ Pickaway,0500000US39129,2020,count_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2021,count_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2022,count_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2023,count_Natural Gas/Propane,0.0
-Pickaway,0500000US39129,2024,count_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2000,count_Solar,0
 Pickaway,0500000US39129,2001,count_Solar,0
 Pickaway,0500000US39129,2002,count_Solar,0
@@ -3698,7 +3551,6 @@ Pickaway,0500000US39129,2020,count_Solar,5.0
 Pickaway,0500000US39129,2021,count_Solar,8.0
 Pickaway,0500000US39129,2022,count_Solar,9.0
 Pickaway,0500000US39129,2023,count_Solar,20.0
-Pickaway,0500000US39129,2024,count_Solar,8.0
 Pickaway,0500000US39129,2000,count_Waste Gas,0
 Pickaway,0500000US39129,2001,count_Waste Gas,0
 Pickaway,0500000US39129,2002,count_Waste Gas,0
@@ -3723,7 +3575,6 @@ Pickaway,0500000US39129,2020,count_Waste Gas,0.0
 Pickaway,0500000US39129,2021,count_Waste Gas,0.0
 Pickaway,0500000US39129,2022,count_Waste Gas,0.0
 Pickaway,0500000US39129,2023,count_Waste Gas,0.0
-Pickaway,0500000US39129,2024,count_Waste Gas,0.0
 Pickaway,0500000US39129,2000,count_Wind,0
 Pickaway,0500000US39129,2001,count_Wind,0
 Pickaway,0500000US39129,2002,count_Wind,0
@@ -3748,7 +3599,6 @@ Pickaway,0500000US39129,2020,count_Wind,0.0
 Pickaway,0500000US39129,2021,count_Wind,0.0
 Pickaway,0500000US39129,2022,count_Wind,0.0
 Pickaway,0500000US39129,2023,count_Wind,0.0
-Pickaway,0500000US39129,2024,count_Wind,0.0
 Pickaway,0500000US39129,2000,total_Biofuel,0
 Pickaway,0500000US39129,2001,total_Biofuel,0
 Pickaway,0500000US39129,2002,total_Biofuel,0
@@ -3773,7 +3623,6 @@ Pickaway,0500000US39129,2020,total_Biofuel,0.0
 Pickaway,0500000US39129,2021,total_Biofuel,0.0
 Pickaway,0500000US39129,2022,total_Biofuel,0.0
 Pickaway,0500000US39129,2023,total_Biofuel,0.0
-Pickaway,0500000US39129,2024,total_Biofuel,0.0
 Pickaway,0500000US39129,2000,total_Energy Storage,0
 Pickaway,0500000US39129,2001,total_Energy Storage,0
 Pickaway,0500000US39129,2002,total_Energy Storage,0
@@ -3798,7 +3647,6 @@ Pickaway,0500000US39129,2020,total_Energy Storage,0.0
 Pickaway,0500000US39129,2021,total_Energy Storage,7.68
 Pickaway,0500000US39129,2022,total_Energy Storage,0.0
 Pickaway,0500000US39129,2023,total_Energy Storage,4.8
-Pickaway,0500000US39129,2024,total_Energy Storage,0.0
 Pickaway,0500000US39129,2000,total_Natural Gas/Propane,0
 Pickaway,0500000US39129,2001,total_Natural Gas/Propane,0
 Pickaway,0500000US39129,2002,total_Natural Gas/Propane,0
@@ -3823,7 +3671,6 @@ Pickaway,0500000US39129,2020,total_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2021,total_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2022,total_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2023,total_Natural Gas/Propane,0.0
-Pickaway,0500000US39129,2024,total_Natural Gas/Propane,0.0
 Pickaway,0500000US39129,2000,total_Solar,0
 Pickaway,0500000US39129,2001,total_Solar,0
 Pickaway,0500000US39129,2002,total_Solar,0
@@ -3848,7 +3695,6 @@ Pickaway,0500000US39129,2020,total_Solar,31.04
 Pickaway,0500000US39129,2021,total_Solar,76.445
 Pickaway,0500000US39129,2022,total_Solar,94.65
 Pickaway,0500000US39129,2023,total_Solar,136.77
-Pickaway,0500000US39129,2024,total_Solar,82.646
 Pickaway,0500000US39129,2000,total_Waste Gas,0
 Pickaway,0500000US39129,2001,total_Waste Gas,0
 Pickaway,0500000US39129,2002,total_Waste Gas,0
@@ -3873,7 +3719,6 @@ Pickaway,0500000US39129,2020,total_Waste Gas,0.0
 Pickaway,0500000US39129,2021,total_Waste Gas,0.0
 Pickaway,0500000US39129,2022,total_Waste Gas,0.0
 Pickaway,0500000US39129,2023,total_Waste Gas,0.0
-Pickaway,0500000US39129,2024,total_Waste Gas,0.0
 Pickaway,0500000US39129,2000,total_Wind,0
 Pickaway,0500000US39129,2001,total_Wind,0
 Pickaway,0500000US39129,2002,total_Wind,0
@@ -3898,7 +3743,6 @@ Pickaway,0500000US39129,2020,total_Wind,0.0
 Pickaway,0500000US39129,2021,total_Wind,0.0
 Pickaway,0500000US39129,2022,total_Wind,0.0
 Pickaway,0500000US39129,2023,total_Wind,0.0
-Pickaway,0500000US39129,2024,total_Wind,0.0
 Ross,0500000US39141,2000,count_Biofuel,0
 Ross,0500000US39141,2001,count_Biofuel,0
 Ross,0500000US39141,2002,count_Biofuel,0
@@ -3923,7 +3767,6 @@ Ross,0500000US39141,2020,count_Biofuel,0.0
 Ross,0500000US39141,2021,count_Biofuel,0.0
 Ross,0500000US39141,2022,count_Biofuel,0.0
 Ross,0500000US39141,2023,count_Biofuel,0.0
-Ross,0500000US39141,2024,count_Biofuel,0.0
 Ross,0500000US39141,2000,count_Energy Storage,0
 Ross,0500000US39141,2001,count_Energy Storage,0
 Ross,0500000US39141,2002,count_Energy Storage,0
@@ -3948,7 +3791,6 @@ Ross,0500000US39141,2020,count_Energy Storage,0.0
 Ross,0500000US39141,2021,count_Energy Storage,0.0
 Ross,0500000US39141,2022,count_Energy Storage,2.0
 Ross,0500000US39141,2023,count_Energy Storage,0.0
-Ross,0500000US39141,2024,count_Energy Storage,0.0
 Ross,0500000US39141,2000,count_Natural Gas/Propane,0
 Ross,0500000US39141,2001,count_Natural Gas/Propane,0
 Ross,0500000US39141,2002,count_Natural Gas/Propane,0
@@ -3973,7 +3815,6 @@ Ross,0500000US39141,2020,count_Natural Gas/Propane,0.0
 Ross,0500000US39141,2021,count_Natural Gas/Propane,0.0
 Ross,0500000US39141,2022,count_Natural Gas/Propane,0.0
 Ross,0500000US39141,2023,count_Natural Gas/Propane,0.0
-Ross,0500000US39141,2024,count_Natural Gas/Propane,0.0
 Ross,0500000US39141,2000,count_Solar,0
 Ross,0500000US39141,2001,count_Solar,0
 Ross,0500000US39141,2002,count_Solar,0
@@ -3998,7 +3839,6 @@ Ross,0500000US39141,2020,count_Solar,12.0
 Ross,0500000US39141,2021,count_Solar,19.0
 Ross,0500000US39141,2022,count_Solar,22.0
 Ross,0500000US39141,2023,count_Solar,18.0
-Ross,0500000US39141,2024,count_Solar,11.0
 Ross,0500000US39141,2000,count_Waste Gas,0
 Ross,0500000US39141,2001,count_Waste Gas,0
 Ross,0500000US39141,2002,count_Waste Gas,0
@@ -4023,7 +3863,6 @@ Ross,0500000US39141,2020,count_Waste Gas,0.0
 Ross,0500000US39141,2021,count_Waste Gas,0.0
 Ross,0500000US39141,2022,count_Waste Gas,0.0
 Ross,0500000US39141,2023,count_Waste Gas,0.0
-Ross,0500000US39141,2024,count_Waste Gas,0.0
 Ross,0500000US39141,2000,count_Wind,0
 Ross,0500000US39141,2001,count_Wind,0
 Ross,0500000US39141,2002,count_Wind,0
@@ -4048,7 +3887,6 @@ Ross,0500000US39141,2020,count_Wind,0.0
 Ross,0500000US39141,2021,count_Wind,0.0
 Ross,0500000US39141,2022,count_Wind,0.0
 Ross,0500000US39141,2023,count_Wind,0.0
-Ross,0500000US39141,2024,count_Wind,0.0
 Ross,0500000US39141,2000,total_Biofuel,0
 Ross,0500000US39141,2001,total_Biofuel,0
 Ross,0500000US39141,2002,total_Biofuel,0
@@ -4073,7 +3911,6 @@ Ross,0500000US39141,2020,total_Biofuel,0.0
 Ross,0500000US39141,2021,total_Biofuel,0.0
 Ross,0500000US39141,2022,total_Biofuel,0.0
 Ross,0500000US39141,2023,total_Biofuel,0.0
-Ross,0500000US39141,2024,total_Biofuel,0.0
 Ross,0500000US39141,2000,total_Energy Storage,0
 Ross,0500000US39141,2001,total_Energy Storage,0
 Ross,0500000US39141,2002,total_Energy Storage,0
@@ -4098,7 +3935,6 @@ Ross,0500000US39141,2020,total_Energy Storage,0.0
 Ross,0500000US39141,2021,total_Energy Storage,0.0
 Ross,0500000US39141,2022,total_Energy Storage,11.52
 Ross,0500000US39141,2023,total_Energy Storage,0.0
-Ross,0500000US39141,2024,total_Energy Storage,0.0
 Ross,0500000US39141,2000,total_Natural Gas/Propane,0
 Ross,0500000US39141,2001,total_Natural Gas/Propane,0
 Ross,0500000US39141,2002,total_Natural Gas/Propane,0
@@ -4123,7 +3959,6 @@ Ross,0500000US39141,2020,total_Natural Gas/Propane,0.0
 Ross,0500000US39141,2021,total_Natural Gas/Propane,0.0
 Ross,0500000US39141,2022,total_Natural Gas/Propane,0.0
 Ross,0500000US39141,2023,total_Natural Gas/Propane,0.0
-Ross,0500000US39141,2024,total_Natural Gas/Propane,0.0
 Ross,0500000US39141,2000,total_Solar,0
 Ross,0500000US39141,2001,total_Solar,0
 Ross,0500000US39141,2002,total_Solar,0
@@ -4148,7 +3983,6 @@ Ross,0500000US39141,2020,total_Solar,95.1
 Ross,0500000US39141,2021,total_Solar,172.16
 Ross,0500000US39141,2022,total_Solar,182.26
 Ross,0500000US39141,2023,total_Solar,145.3
-Ross,0500000US39141,2024,total_Solar,91.07
 Ross,0500000US39141,2000,total_Waste Gas,0
 Ross,0500000US39141,2001,total_Waste Gas,0
 Ross,0500000US39141,2002,total_Waste Gas,0
@@ -4173,7 +4007,6 @@ Ross,0500000US39141,2020,total_Waste Gas,0.0
 Ross,0500000US39141,2021,total_Waste Gas,0.0
 Ross,0500000US39141,2022,total_Waste Gas,0.0
 Ross,0500000US39141,2023,total_Waste Gas,0.0
-Ross,0500000US39141,2024,total_Waste Gas,0.0
 Ross,0500000US39141,2000,total_Wind,0
 Ross,0500000US39141,2001,total_Wind,0
 Ross,0500000US39141,2002,total_Wind,0
@@ -4198,7 +4031,6 @@ Ross,0500000US39141,2020,total_Wind,0.0
 Ross,0500000US39141,2021,total_Wind,0.0
 Ross,0500000US39141,2022,total_Wind,0.0
 Ross,0500000US39141,2023,total_Wind,0.0
-Ross,0500000US39141,2024,total_Wind,0.0
 Union,0500000US39159,2000,count_Biofuel,0
 Union,0500000US39159,2001,count_Biofuel,0
 Union,0500000US39159,2002,count_Biofuel,0
@@ -4223,7 +4055,6 @@ Union,0500000US39159,2020,count_Biofuel,0.0
 Union,0500000US39159,2021,count_Biofuel,0.0
 Union,0500000US39159,2022,count_Biofuel,0.0
 Union,0500000US39159,2023,count_Biofuel,0.0
-Union,0500000US39159,2024,count_Biofuel,0.0
 Union,0500000US39159,2000,count_Energy Storage,0
 Union,0500000US39159,2001,count_Energy Storage,0
 Union,0500000US39159,2002,count_Energy Storage,0
@@ -4248,7 +4079,6 @@ Union,0500000US39159,2020,count_Energy Storage,0.0
 Union,0500000US39159,2021,count_Energy Storage,0.0
 Union,0500000US39159,2022,count_Energy Storage,2.0
 Union,0500000US39159,2023,count_Energy Storage,0.0
-Union,0500000US39159,2024,count_Energy Storage,0.0
 Union,0500000US39159,2000,count_Natural Gas/Propane,0
 Union,0500000US39159,2001,count_Natural Gas/Propane,0
 Union,0500000US39159,2002,count_Natural Gas/Propane,0
@@ -4273,7 +4103,6 @@ Union,0500000US39159,2020,count_Natural Gas/Propane,0.0
 Union,0500000US39159,2021,count_Natural Gas/Propane,0.0
 Union,0500000US39159,2022,count_Natural Gas/Propane,0.0
 Union,0500000US39159,2023,count_Natural Gas/Propane,0.0
-Union,0500000US39159,2024,count_Natural Gas/Propane,0.0
 Union,0500000US39159,2000,count_Solar,0
 Union,0500000US39159,2001,count_Solar,0
 Union,0500000US39159,2002,count_Solar,0
@@ -4296,9 +4125,8 @@ Union,0500000US39159,2018,count_Solar,4.0
 Union,0500000US39159,2019,count_Solar,8.0
 Union,0500000US39159,2020,count_Solar,9.0
 Union,0500000US39159,2021,count_Solar,13.0
-Union,0500000US39159,2022,count_Solar,28.0
+Union,0500000US39159,2022,count_Solar,29.0
 Union,0500000US39159,2023,count_Solar,38.0
-Union,0500000US39159,2024,count_Solar,23.0
 Union,0500000US39159,2000,count_Waste Gas,0
 Union,0500000US39159,2001,count_Waste Gas,0
 Union,0500000US39159,2002,count_Waste Gas,0
@@ -4323,7 +4151,6 @@ Union,0500000US39159,2020,count_Waste Gas,0.0
 Union,0500000US39159,2021,count_Waste Gas,0.0
 Union,0500000US39159,2022,count_Waste Gas,0.0
 Union,0500000US39159,2023,count_Waste Gas,0.0
-Union,0500000US39159,2024,count_Waste Gas,0.0
 Union,0500000US39159,2000,count_Wind,0
 Union,0500000US39159,2001,count_Wind,0
 Union,0500000US39159,2002,count_Wind,0
@@ -4348,7 +4175,6 @@ Union,0500000US39159,2020,count_Wind,0.0
 Union,0500000US39159,2021,count_Wind,0.0
 Union,0500000US39159,2022,count_Wind,0.0
 Union,0500000US39159,2023,count_Wind,0.0
-Union,0500000US39159,2024,count_Wind,0.0
 Union,0500000US39159,2000,total_Biofuel,0
 Union,0500000US39159,2001,total_Biofuel,0
 Union,0500000US39159,2002,total_Biofuel,0
@@ -4373,7 +4199,6 @@ Union,0500000US39159,2020,total_Biofuel,0.0
 Union,0500000US39159,2021,total_Biofuel,0.0
 Union,0500000US39159,2022,total_Biofuel,0.0
 Union,0500000US39159,2023,total_Biofuel,0.0
-Union,0500000US39159,2024,total_Biofuel,0.0
 Union,0500000US39159,2000,total_Energy Storage,0
 Union,0500000US39159,2001,total_Energy Storage,0
 Union,0500000US39159,2002,total_Energy Storage,0
@@ -4398,7 +4223,6 @@ Union,0500000US39159,2020,total_Energy Storage,0.0
 Union,0500000US39159,2021,total_Energy Storage,0.0
 Union,0500000US39159,2022,total_Energy Storage,0.0
 Union,0500000US39159,2023,total_Energy Storage,0.0
-Union,0500000US39159,2024,total_Energy Storage,0.0
 Union,0500000US39159,2000,total_Natural Gas/Propane,0
 Union,0500000US39159,2001,total_Natural Gas/Propane,0
 Union,0500000US39159,2002,total_Natural Gas/Propane,0
@@ -4423,7 +4247,6 @@ Union,0500000US39159,2020,total_Natural Gas/Propane,0.0
 Union,0500000US39159,2021,total_Natural Gas/Propane,0.0
 Union,0500000US39159,2022,total_Natural Gas/Propane,0.0
 Union,0500000US39159,2023,total_Natural Gas/Propane,0.0
-Union,0500000US39159,2024,total_Natural Gas/Propane,0.0
 Union,0500000US39159,2000,total_Solar,0
 Union,0500000US39159,2001,total_Solar,0
 Union,0500000US39159,2002,total_Solar,0
@@ -4446,9 +4269,8 @@ Union,0500000US39159,2018,total_Solar,34.6
 Union,0500000US39159,2019,total_Solar,44.935
 Union,0500000US39159,2020,total_Solar,112.1
 Union,0500000US39159,2021,total_Solar,119.59
-Union,0500000US39159,2022,total_Solar,229.114
+Union,0500000US39159,2022,total_Solar,241.114
 Union,0500000US39159,2023,total_Solar,293.22
-Union,0500000US39159,2024,total_Solar,147.3
 Union,0500000US39159,2000,total_Waste Gas,0
 Union,0500000US39159,2001,total_Waste Gas,0
 Union,0500000US39159,2002,total_Waste Gas,0
@@ -4473,7 +4295,6 @@ Union,0500000US39159,2020,total_Waste Gas,0.0
 Union,0500000US39159,2021,total_Waste Gas,0.0
 Union,0500000US39159,2022,total_Waste Gas,0.0
 Union,0500000US39159,2023,total_Waste Gas,0.0
-Union,0500000US39159,2024,total_Waste Gas,0.0
 Union,0500000US39159,2000,total_Wind,0
 Union,0500000US39159,2001,total_Wind,0
 Union,0500000US39159,2002,total_Wind,0
@@ -4498,4 +4319,3 @@ Union,0500000US39159,2020,total_Wind,0.0
 Union,0500000US39159,2021,total_Wind,0.0
 Union,0500000US39159,2022,total_Wind,0.0
 Union,0500000US39159,2023,total_Wind,0.0
-Union,0500000US39159,2024,total_Wind,0.0
