@@ -3,7 +3,7 @@ type: table
 title: morpc-renewenergyfacilities-der-long
 description: 'A long for table containing renewable energy facilities that were approved
   by PUCO. See https://puco.ohio.gov/utilities/electricity/resources/distributed-energy-generating-your-own-electricity
-  Data pulled 2025-02-13 from https://maps.puco.ohio.gov/arcgis/rest/services/electric/Distributed_Energy_Resources/MapServer/0 '
+  Data pulled 2025-08-12 15:32:21.683266 from https://maps.puco.ohio.gov/arcgis/rest/services/electric/Distributed_Energy_Resources/MapServer/0 '
 profile: data-resource
 path: morpc-renewenergyfacilities-der-long.csv
 scheme: file
