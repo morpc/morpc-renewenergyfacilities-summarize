@@ -7526,7 +7526,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
@@ -7551,63 +7551,16 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=c2fd8d03-fb9e-4078-bb16-faceccc637c3">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=c2fd8d03-fb9e-4078-bb16-faceccc637c3">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [4]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">data</span><span class="p">,</span> <span class="n">resource</span><span class="p">,</span> <span class="n">schema</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">frictionless</span><span class="o">.</span><span class="n">load_data</span><span class="p">(</span><span class="s1">'../morpc-renewenergyfacilities-standardize/output_data/distributed_energy_resources.resource.yaml'</span><span class="p">)</span>
 </pre></div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>morpc.frictionless.load_data | INFO | Loading Frictionless Resource file at location ..\morpc-renewenergyfacilities-standardize\output_data\distributed_energy_resources.resource.yaml
-morpc.frictionless.load_data | INFO | Using schema path specified in resource file.
-morpc.frictionless.load_data | INFO | Loading data, resource file, and schema (if applicable) from their source locations
-morpc.frictionless.load_data | INFO | --&gt; Data file: ..\morpc-renewenergyfacilities-standardize\output_data\distributed_energy_resources.csv
-morpc.frictionless.load_data | INFO | --&gt; Resource file: ..\morpc-renewenergyfacilities-standardize\output_data\distributed_energy_resources.resource.yaml
-morpc.frictionless.load_data | INFO | --&gt; Schema file: ..\morpc-renewenergyfacilities-standardize\output_data\distributed_energy_resources.schema.yaml
-morpc.frictionless.load_data | INFO | Loading data.
-cast_field_types | INFO | Casting field geometry as type geojson.
-cast_field_types | INFO | Fieldname geometry as geojson. Attempting to convert to geometry.
-cast_field_types | INFO | Fieldname geometry cast as geometry.
-cast_field_types | INFO | Casting field DistGenId as type integer.
-cast_field_types | INFO | Casting field OriginalDistGenID as type integer.
-cast_field_types | INFO | Casting field EDU as type string.
-cast_field_types | INFO | Casting field Address as type string.
-cast_field_types | INFO | Casting field City as type string.
-cast_field_types | INFO | Casting field State as type string.
-cast_field_types | INFO | Casting field PostalCode as type integer.
-cast_field_types | INFO | Casting field FuelType as type string.
-cast_field_types | INFO | Casting field GenType as type string.
-cast_field_types | INFO | Casting field AgreementDate as type integer.
-cast_field_types | WARNING | Failed conversion of fieldname AgreementDate to type 'int'.  Trying type 'Int64' instead.
-cast_field_types | INFO | Casting field OwnedBy as type string.
-cast_field_types | INFO | Casting field DispatchedBy as type string.
-cast_field_types | INFO | Casting field CustClass as type string.
-cast_field_types | INFO | Casting field Lat as type number.
-cast_field_types | INFO | Casting field Long as type number.
-cast_field_types | INFO | Casting field CapacityInverter as type number.
-cast_field_types | INFO | Casting field CapacityGenerator as type number.
-cast_field_types | INFO | Casting field ReportedCapacity_kW as type number.
-cast_field_types | INFO | Casting field ReportedCapacityTotal_kW as type number.
-cast_field_types | INFO | Casting field FacilityStatus as type string.
-cast_field_types | INFO | Casting field Duplicate as type string.
-cast_field_types | INFO | Casting field Note as type string.
-cast_field_types | INFO | Casting field DashboardFuelType as type string.
-cast_field_types | INFO | Casting field YEAR as type integer.
-</pre>
 </div>
 </div>
 </div>
@@ -7617,7 +7570,7 @@ cast_field_types | INFO | Casting field YEAR as type integer.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [5]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">der_data</span> <span class="o">=</span> <span class="n">gpd</span><span class="o">.</span><span class="n">GeoDataFrame</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="o">.</span><span class="n">set_crs</span><span class="p">(</span><span class="s1">'EPSG:3735'</span><span class="p">)</span>
@@ -7626,39 +7579,16 @@ cast_field_types | INFO | Casting field YEAR as type integer.
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=489278ff-f73b-4946-b537-56f509e2bf9b">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=489278ff-f73b-4946-b537-56f509e2bf9b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [6]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-geos-collect/output_data/morpc-geos.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'JURIS'</span><span class="p">)</span>
 </pre></div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>morpc.load_spatial_data | INFO | Loading spatial data from location: ../morpc-geos-collect/output_data/morpc-geos.gpkg
-morpc.load_spatial_data | INFO | Driver name is unspecified.  Will attempt to infer driver from file extension in source path.
-morpc.load_spatial_data | INFO | Selecting driver GPKG based on file extension .gpkg
-morpc.load_spatial_data | INFO | Reading spatial data...
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>c:\Users\jinskeep\OneDrive - Mid-Ohio Regional Planning Commission\Local Repo\morpc_venv\venv\Lib\site-packages\pyogrio\raw.py:198: RuntimeWarning: driver GPKG does not support open option DRIVER
-</pre>
 </div>
 </div>
 </div>
@@ -7668,48 +7598,25 @@ morpc.load_spatial_data | INFO | Reading spatial data...
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [7]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_geos</span><span class="p">[</span><span class="s1">'JURISNAME'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="n">x</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">y</span><span class="si">}</span><span class="s2">"</span> <span class="k">for</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">juris_geos</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">],</span> <span class="n">juris_geos</span><span class="p">[</span><span class="s1">'MUNITYPE'</span><span class="p">])]</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_geos</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="n">x</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">y</span><span class="si">}</span><span class="s2">"</span> <span class="k">for</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">juris_geos</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">],</span> <span class="n">juris_geos</span><span class="p">[</span><span class="s1">'MUNITYPE'</span><span class="p">])]</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=60ccad18-c8ec-4f53-af55-4038c8c62a6b">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=60ccad18-c8ec-4f53-af55-4038c8c62a6b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-geos-collect/output_data/morpc-geos.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'COUNTY'</span><span class="p">)</span>
 </pre></div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>morpc.load_spatial_data | INFO | Loading spatial data from location: ../morpc-geos-collect/output_data/morpc-geos.gpkg
-morpc.load_spatial_data | INFO | Driver name is unspecified.  Will attempt to infer driver from file extension in source path.
-morpc.load_spatial_data | INFO | Selecting driver GPKG based on file extension .gpkg
-morpc.load_spatial_data | INFO | Reading spatial data...
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>c:\Users\jinskeep\OneDrive - Mid-Ohio Regional Planning Commission\Local Repo\morpc_venv\venv\Lib\site-packages\pyogrio\raw.py:198: RuntimeWarning: driver GPKG does not support open option DRIVER
-</pre>
 </div>
 </div>
 </div>
@@ -7719,7 +7626,7 @@ morpc.load_spatial_data | INFO | Reading spatial data...
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [9]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYFP'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="sa">f</span><span class="s1">'39</span><span class="si">{</span><span class="n">x</span><span class="si">}</span><span class="s1">'</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYFP'</span><span class="p">]]</span>
@@ -7733,21 +7640,21 @@ morpc.load_spatial_data | INFO | Reading spatial data...
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [10]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYNAME'</span><span class="p">]</span> <span class="o">=</span> <span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYFP'</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">morpc</span><span class="o">.</span><span class="n">CONST_COUNTY_ID_TO_NAME</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">]</span> <span class="o">=</span> <span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYFP'</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">morpc</span><span class="o">.</span><span class="n">CONST_COUNTY_ID_TO_NAME</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=1ea790c9-ba50-4af3-87b2-fd5ad4c5c38b">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=1ea790c9-ba50-4af3-87b2-fd5ad4c5c38b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">region_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-geos-collect/output_data/morpc-geos.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'REGION15'</span><span class="p">)</span>
@@ -7756,635 +7663,241 @@ morpc.load_spatial_data | INFO | Reading spatial data...
 </div>
 </div>
 </div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>morpc.load_spatial_data | INFO | Loading spatial data from location: ../morpc-geos-collect/output_data/morpc-geos.gpkg
-morpc.load_spatial_data | INFO | Driver name is unspecified.  Will attempt to infer driver from file extension in source path.
-morpc.load_spatial_data | INFO | Selecting driver GPKG based on file extension .gpkg
-morpc.load_spatial_data | INFO | Reading spatial data...
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>c:\Users\jinskeep\OneDrive - Mid-Ohio Regional Planning Commission\Local Repo\morpc_venv\venv\Lib\site-packages\pyogrio\raw.py:198: RuntimeWarning: driver GPKG does not support open option DRIVER
-</pre>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=bb1fe2ba-7ee4-4ab3-a8a3-2f9525724098">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=5aa11ca8">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [12]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">join_points_polygons</span><span class="p">(</span><span class="n">points</span><span class="p">,</span> <span class="n">polygons</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">crs</span><span class="p">,</span> <span class="n">how</span><span class="p">,</span> <span class="n">predicate</span><span class="p">):</span>
-    <span class="k">if</span> <span class="n">crs</span> <span class="o">!=</span> <span class="kc">None</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"INFO | Converting points crs and polygons crs to user defined option: </span><span class="si">{</span><span class="n">crs</span><span class="si">}</span><span class="s2">."</span><span class="p">)</span>
-        <span class="n">points</span> <span class="o">=</span> <span class="n">points</span><span class="o">.</span><span class="n">to_crs</span><span class="p">(</span><span class="n">crs</span><span class="p">)</span>
-        <span class="n">polygons</span> <span class="o">=</span> <span class="n">polygons</span><span class="o">.</span><span class="n">to_crs</span><span class="p">(</span><span class="n">crs</span><span class="p">)</span>
-    <span class="k">if</span> <span class="n">points</span><span class="o">.</span><span class="n">crs</span> <span class="o">!=</span> <span class="n">polygons</span><span class="o">.</span><span class="n">crs</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"WARNING | CRS do not match. Converting points crs to match polygons crs: </span><span class="si">{</span><span class="n">polygons</span><span class="o">.</span><span class="n">crs</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
-        <span class="n">points</span> <span class="o">=</span> <span class="n">points</span><span class="o">.</span><span class="n">to_crs</span><span class="p">(</span><span class="n">polygons</span><span class="o">.</span><span class="n">crs</span><span class="p">)</span>
-        
-    <span class="k">try</span><span class="p">:</span>
-        <span class="n">df</span> <span class="o">=</span> <span class="n">points</span><span class="o">.</span><span class="n">sjoin</span><span class="p">(</span><span class="n">polygons</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="n">how</span><span class="p">,</span> <span class="n">predicate</span><span class="o">=</span><span class="n">predicate</span><span class="p">)</span>
-    <span class="k">except</span> <span class="ne">RuntimeError</span> <span class="k">as</span> <span class="n">r</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"ERROR | Unable to spatially join points and polygons </span><span class="si">{</span><span class="n">r</span><span class="si">}</span><span class="s2">."</span><span class="p">)</span> 
-    <span class="k">finally</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"INFO | Joined points and polygons."</span><span class="p">)</span>
-
-    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"INFO | Indexing by </span><span class="si">{</span><span class="n">index_col</span><span class="si">}</span><span class="s2"> from polygons."</span><span class="p">)</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="o">~</span><span class="n">data</span><span class="p">[</span><span class="n">index_col</span><span class="p">]</span><span class="o">.</span><span class="n">isna</span><span class="p">()]</span> <span class="c1">## Remove rows with empty join</span>
-    <span class="k">return</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
-
-<span class="k">def</span><span class="w"> </span><span class="nf">calc_counts_sums</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">,</span> <span class="n">sum_col</span><span class="p">):</span>
-    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">"INFO | Calculating sums for </span><span class="si">{</span><span class="n">sum_col</span><span class="si">}</span><span class="s2"> and counts for </span><span class="si">{</span><span class="n">type_col</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
-    <span class="n">data</span><span class="p">[</span><span class="s1">'count'</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>
-    <span class="n">count_col</span> <span class="o">=</span> <span class="s1">'count'</span>
-    <span class="n">data</span><span class="p">[</span><span class="s1">'total'</span><span class="p">]</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="n">sum_col</span><span class="p">]</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="p">[[</span><span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">,</span> <span class="s1">'count'</span><span class="p">,</span> <span class="s1">'total'</span><span class="p">]]</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">])</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">set_index</span><span class="p">([</span><span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">])</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">pivot</span><span class="p">(</span><span class="n">columns</span> <span class="o">=</span> <span class="p">[</span><span class="n">type_col</span><span class="p">])</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
-    <span class="n">data</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="s2">"_"</span><span class="o">.</span><span class="n">join</span><span class="p">)</span>
-    <span class="n">columns</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">columns</span> <span class="c1"># Store columns to add zero observations later</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
-    <span class="k">return</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">columns</span><span class="p">)</span>
-
-<span class="k">def</span><span class="w"> </span><span class="nf">add_zeros_for_non_obs</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">columns</span><span class="p">):</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">"INFO | Adding zeros to empty observations."</span><span class="p">)</span>
-    <span class="c1"># Add observations that have zeros so all combinations of index and year have a observation for all types.</span>
-    <span class="n">accounted_place</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="n">index_col</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">()</span>	
-    <span class="n">first_year</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="n">year_col</span><span class="p">]</span><span class="o">.</span><span class="n">min</span><span class="p">()</span>
-    <span class="n">last_year</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">data</span><span class="p">[</span><span class="n">year_col</span><span class="p">]</span> <span class="k">if</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="mi">9999</span><span class="p">])</span><span class="o">.</span><span class="n">max</span><span class="p">()</span>
-
-    <span class="n">data_zeros</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
-    <span class="k">for</span> <span class="n">year</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">first_year</span><span class="p">),</span> <span class="nb">int</span><span class="p">(</span><span class="n">last_year</span><span class="p">)</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">):</span>  <span class="c1"># range stops at one less than the second parameter, hence the +1</span>
-        <span class="k">for</span> <span class="n">place</span> <span class="ow">in</span> <span class="n">accounted_place</span><span class="p">:</span>
-            <span class="k">if</span> <span class="n">data_zeros</span><span class="p">[(</span><span class="n">data_zeros</span><span class="p">[</span><span class="n">year_col</span><span class="p">]</span> <span class="o">==</span> <span class="n">year</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">data_zeros</span><span class="p">[</span><span class="n">index_col</span><span class="p">]</span> <span class="o">==</span> <span class="n">place</span><span class="p">)]</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
-                <span class="n">entry</span> <span class="o">=</span> <span class="p">{</span>
-                    <span class="n">year_col</span><span class="p">:</span> <span class="n">year</span><span class="p">,</span>
-                    <span class="n">index_col</span><span class="p">:</span> <span class="n">place</span><span class="p">,</span>
-                <span class="p">}</span>
-                <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">columns</span><span class="p">:</span>
-                    <span class="n">entry</span><span class="p">[</span><span class="n">c</span><span class="p">]</span> <span class="o">=</span> <span class="mi">0</span>
-                
-                <span class="n">data_zeros</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">data_zeros</span><span class="p">,</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="o">.</span><span class="n">from_dict</span><span class="p">(</span><span class="n">entry</span><span class="p">,</span> <span class="n">orient</span><span class="o">=</span><span class="s1">'index'</span><span class="p">)</span><span class="o">.</span><span class="n">transpose</span><span class="p">()],</span> <span class="n">ignore_index</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-    <span class="k">return</span> <span class="p">(</span><span class="n">data_zeros</span><span class="p">)</span>
-
-<span class="k">def</span><span class="w"> </span><span class="nf">rejoin_preserve_col</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">df</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">preserve_cols</span><span class="p">):</span>
-    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'INFO | Rejoining </span><span class="si">{</span><span class="n">preserve_cols</span><span class="si">}</span><span class="s1"> by </span><span class="si">{</span><span class="n">index_col</span><span class="si">}</span><span class="s1">'</span><span class="p">)</span>
-    <span class="c1"># Rejoin columns to preserve</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="n">index_col</span><span class="p">)</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="nb">list</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">core</span><span class="o">.</span><span class="n">common</span><span class="o">.</span><span class="n">flatten</span><span class="p">([</span><span class="n">index_col</span><span class="p">,</span> <span class="n">preserve_cols</span><span class="p">]))]</span><span class="o">.</span><span class="n">drop_duplicates</span><span class="p">()</span><span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="n">index_col</span><span class="p">),</span> <span class="n">how</span><span class="o">=</span><span class="s1">'left'</span><span class="p">)</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">sort_values</span><span class="p">([</span><span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">])</span>
-    <span class="k">return</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
-
-<span class="k">def</span><span class="w"> </span><span class="nf">pivot_wide_to_long</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">preserve_cols</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">):</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">"INFO | Pivoting to long format"</span><span class="p">)</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">melt</span><span class="p">(</span><span class="n">id_vars</span><span class="o">=</span><span class="nb">list</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">core</span><span class="o">.</span><span class="n">common</span><span class="o">.</span><span class="n">flatten</span><span class="p">([</span><span class="n">index_col</span><span class="p">,</span> <span class="n">preserve_cols</span><span class="p">,</span> <span class="n">year_col</span><span class="p">])))</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'variable'</span><span class="p">:</span><span class="n">type_col</span><span class="p">})</span>
-    <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">sort_values</span><span class="p">([</span><span class="n">index_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">])</span>
-    <span class="k">return</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
-
-<span class="k">def</span><span class="w"> </span><span class="nf">summarize_points_in_polygons</span><span class="p">(</span><span class="n">points</span><span class="p">,</span> <span class="n">polygons</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">,</span> <span class="n">preserve_cols</span><span class="p">,</span> <span class="n">sum_col</span><span class="p">,</span> <span class="n">crs</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">how</span> <span class="o">=</span> <span class="s1">'left'</span><span class="p">,</span> <span class="n">predicate</span> <span class="o">=</span> <span class="s1">'intersects'</span><span class="p">):</span>
-
-    <span class="n">data</span> <span class="o">=</span> <span class="n">join_points_polygons</span><span class="p">(</span><span class="n">points</span><span class="p">,</span> <span class="n">polygons</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">crs</span><span class="p">,</span> <span class="n">how</span> <span class="o">=</span> <span class="s1">'left'</span><span class="p">,</span> <span class="n">predicate</span><span class="o">=</span><span class="s1">'within'</span><span class="p">)</span>
-    
-    <span class="n">count_sums</span><span class="p">,</span> <span class="n">columns</span> <span class="o">=</span> <span class="n">calc_counts_sums</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">,</span> <span class="n">sum_col</span><span class="p">)</span>
-    
-    <span class="n">data_zeros</span> <span class="o">=</span> <span class="n">add_zeros_for_non_obs</span><span class="p">(</span><span class="n">count_sums</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">columns</span><span class="p">)</span> 
-    
-    <span class="n">wide</span> <span class="o">=</span> <span class="n">rejoin_preserve_col</span><span class="p">(</span><span class="n">data_zeros</span><span class="p">,</span> <span class="n">data</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">preserve_cols</span><span class="p">)</span>
-    
-    <span class="n">long</span> <span class="o">=</span> <span class="n">pivot_wide_to_long</span><span class="p">(</span><span class="n">wide</span><span class="p">,</span> <span class="n">index_col</span><span class="p">,</span> <span class="n">preserve_cols</span><span class="p">,</span> <span class="n">year_col</span><span class="p">,</span> <span class="n">type_col</span><span class="p">)</span>
-
-    <span class="k">return</span><span class="p">(</span><span class="n">wide</span><span class="p">,</span> <span class="n">long</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">joined</span> <span class="o">=</span> <span class="n">der_data</span><span class="o">.</span><span class="n">sjoin</span><span class="p">(</span><span class="n">juris_geos</span><span class="p">[[</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'geometry'</span><span class="p">]],</span> <span class="n">predicate</span><span class="o">=</span><span class="s1">'within'</span><span class="p">)</span>
+<span class="n">joined</span> <span class="o">=</span> <span class="n">joined</span><span class="o">.</span><span class="n">sjoin</span><span class="p">(</span><span class="n">county_geos</span><span class="p">[[</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'geometry'</span><span class="p">]],</span> <span class="n">predicate</span><span class="o">=</span><span class="s1">'within'</span><span class="p">,</span> <span class="n">lsuffix</span><span class="o">=</span><span class="s1">'juris'</span><span class="p">,</span> <span class="n">rsuffix</span><span class="o">=</span><span class="s1">'county'</span><span class="p">)</span>
+<span class="n">joined</span> <span class="o">=</span> <span class="n">joined</span><span class="o">.</span><span class="n">sjoin</span><span class="p">(</span><span class="n">region_geos</span><span class="p">[[</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'geometry'</span><span class="p">]],</span> <span class="n">predicate</span><span class="o">=</span><span class="s1">'within'</span><span class="p">,</span> <span class="n">rsuffix</span><span class="o">=</span><span class="s1">'region'</span><span class="p">)</span>
+<span class="n">joined</span> <span class="o">=</span> <span class="n">joined</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'GEOIDFQ'</span><span class="p">:</span> <span class="s1">'GEOIDFQ_region'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">:</span> <span class="s1">'NAME_region'</span><span class="p">})</span>
+<span class="n">joined</span> <span class="o">=</span> <span class="n">joined</span><span class="o">.</span><span class="n">loc</span><span class="p">[:,</span><span class="o">~</span><span class="n">joined</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'fid'</span><span class="p">)]</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=4d5c5bf3-1a59-41e0-a4f1-92d5ec53a67c">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=b51c07fc">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'points'</span><span class="p">:</span><span class="n">der_data</span><span class="p">,</span>
-        <span class="s1">'polygons'</span><span class="p">:</span><span class="n">juris_geos</span><span class="p">,</span>
-        <span class="s1">'index_col'</span><span class="p">:</span><span class="s2">"JURISNAME"</span><span class="p">,</span>
-        <span class="s1">'year_col'</span><span class="p">:</span><span class="s2">"YEAR"</span><span class="p">,</span>
-        <span class="s1">'type_col'</span><span class="p">:</span><span class="s2">"FuelType"</span><span class="p">,</span>
-        <span class="s1">'preserve_cols'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span>
-        <span class="s1">'sum_col'</span><span class="p">:</span><span class="s2">"ReportedCapacity_kW"</span><span class="p">,}</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">joined</span><span class="o">.</span><span class="n">columns</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=849a8bbe-24b8-4ece-90c2-a8a4de794676">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=65aceb29">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [14]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">county</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'points'</span><span class="p">:</span><span class="n">der_data</span><span class="p">,</span>
-        <span class="s1">'polygons'</span><span class="p">:</span><span class="n">county_geos</span><span class="p">,</span>
-        <span class="s1">'index_col'</span><span class="p">:</span><span class="s2">"COUNTYNAME"</span><span class="p">,</span>
-        <span class="s1">'year_col'</span><span class="p">:</span><span class="s2">"YEAR"</span><span class="p">,</span>
-        <span class="s1">'type_col'</span><span class="p">:</span><span class="s2">"FuelType"</span><span class="p">,</span>
-        <span class="s1">'preserve_cols'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span>
-        <span class="s1">'sum_col'</span><span class="p">:</span><span class="s2">"ReportedCapacity_kW"</span><span class="p">,}</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">years</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1997</span><span class="p">,</span> <span class="mi">2025</span><span class="p">)]</span>
+<span class="n">filt</span> <span class="o">=</span> <span class="n">joined</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">joined</span><span class="p">[</span><span class="s1">'YEAR'</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">years</span><span class="p">)]</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=b5d8c0ed-eddd-43cb-9153-3be0bc158394">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=cca07321">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [15]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">region</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'points'</span><span class="p">:</span><span class="n">der_data</span><span class="p">,</span>
-        <span class="s1">'polygons'</span><span class="p">:</span><span class="n">region_geos</span><span class="p">,</span>
-        <span class="s1">'index_col'</span><span class="p">:</span><span class="s2">"NAME"</span><span class="p">,</span>
-        <span class="s1">'year_col'</span><span class="p">:</span><span class="s2">"YEAR"</span><span class="p">,</span>
-        <span class="s1">'type_col'</span><span class="p">:</span><span class="s2">"FuelType"</span><span class="p">,</span>
-        <span class="s1">'preserve_cols'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span>
-        <span class="s1">'sum_col'</span><span class="p">:</span><span class="s2">"ReportedCapacity_kW"</span><span class="p">}</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="p">[</span><span class="s1">'Duplicate'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=baf0b9d1-2c4c-453d-98d7-d2ec6c145709">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=4873b630">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [16]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">OUTPUT_DIR</span> <span class="o">=</span> <span class="s1">'./output_data'</span>
-<span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">OUTPUT_DIR</span><span class="p">):</span>
-    <span class="n">os</span><span class="o">.</span><span class="n">mkdir</span><span class="p">(</span><span class="n">OUTPUT_DIR</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="p">[</span><span class="s1">'FacilityStatus'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=1c99303b-7a7e-4c04-b29c-fe0142e81c59">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=352f6976">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [17]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_wide</span><span class="p">,</span> <span class="n">juris_long</span> <span class="o">=</span> <span class="n">summarize_points_in_polygons</span><span class="p">(</span><span class="o">**</span><span class="n">juris</span><span class="p">)</span>
-<span class="n">juris_wide</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">OUTPUT_DIR</span><span class="si">}</span><span class="s1">/morpc-der-juris-wide.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
-<span class="n">juris_long</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">OUTPUT_DIR</span><span class="si">}</span><span class="s1">/morpc-der-juris-long.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>                
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="p">[</span><span class="s1">'count'</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>INFO | Joined points and polygons.
-INFO | Indexing by JURISNAME from polygons.
-INFO | Calculating sums for ReportedCapacity_kW and counts for FuelType
-INFO | Adding zeros to empty observations.
-INFO | Rejoining GEOIDFQ by JURISNAME
-INFO | Pivoting to long format
-</pre>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=ee4e48c8-c07b-40e1-9120-63a57973e00e">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a45b9f6e">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [18]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">county_wide</span><span class="p">,</span> <span class="n">county_long</span> <span class="o">=</span> <span class="n">summarize_points_in_polygons</span><span class="p">(</span><span class="o">**</span><span class="n">county</span><span class="p">)</span>
-<span class="n">county_wide</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">OUTPUT_DIR</span><span class="si">}</span><span class="s1">/morpc-der-county-wide.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
-<span class="n">county_long</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">OUTPUT_DIR</span><span class="si">}</span><span class="s1">/morpc-der-county-long.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>       
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'FuelType'</span><span class="p">)[</span><span class="s1">'GenType'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>INFO | Joined points and polygons.
-INFO | Indexing by COUNTYNAME from polygons.
-INFO | Calculating sums for ReportedCapacity_kW and counts for FuelType
-INFO | Adding zeros to empty observations.
-INFO | Rejoining GEOIDFQ by COUNTYNAME
-INFO | Pivoting to long format
-</pre>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=899ebdcd-210e-45d8-bbb6-933c43aa80f4">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=75ceb835">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [19]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">region_wide</span><span class="p">,</span> <span class="n">region_long</span> <span class="o">=</span> <span class="n">summarize_points_in_polygons</span><span class="p">(</span><span class="o">**</span><span class="n">region</span><span class="p">)</span>
-<span class="n">region_wide</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">OUTPUT_DIR</span><span class="si">}</span><span class="s1">/morpc-der-region-wide.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
-<span class="n">region_long</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">f</span><span class="s1">'</span><span class="si">{</span><span class="n">OUTPUT_DIR</span><span class="si">}</span><span class="s1">/morpc-der-region-long.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>    
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">filt</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'GEOIDFQ_juris'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME_juris'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">})</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'FuelType'</span><span class="p">])</span><span class="o">.</span><span class="n">agg</span><span class="p">({</span><span class="s1">'count'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityInverter'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityGenerator'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacity_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacityTotal_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">}))</span>
+<span class="n">juris</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>INFO | Joined points and polygons.
-INFO | Indexing by NAME from polygons.
-INFO | Calculating sums for ReportedCapacity_kW and counts for FuelType
-INFO | Adding zeros to empty observations.
-INFO | Rejoining GEOIDFQ by NAME
-INFO | Pivoting to long format
-</pre>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=4bf98603">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=07dd4ef6">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [20]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">region_long</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">county</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">filt</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'GEOIDFQ_county'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME_county'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">})</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'FuelType'</span><span class="p">])</span><span class="o">.</span><span class="n">agg</span><span class="p">({</span><span class="s1">'count'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityInverter'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityGenerator'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacity_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacityTotal_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">}))</span>
+<span class="n">county</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[20]:</div>
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
-<div>
-<style scoped="">
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-<thead>
-<tr style="text-align: right;">
-<th></th>
-<th>NAME</th>
-<th>GEOIDFQ</th>
-<th>YEAR</th>
-<th>FuelType</th>
-<th>value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>0</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2000</td>
-<td>count_Biofuel</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>1</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2001</td>
-<td>count_Biofuel</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>2</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2002</td>
-<td>count_Biofuel</td>
-<td>0</td>
-</tr>
-<tr>
-<th>3</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2003</td>
-<td>count_Biofuel</td>
-<td>0</td>
-</tr>
-<tr>
-<th>4</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2004</td>
-<td>count_Biofuel</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>...</th>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-</tr>
-<tr>
-<th>307</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2021</td>
-<td>total_Wind</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>308</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2022</td>
-<td>total_Wind</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>309</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2023</td>
-<td>total_Wind</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>310</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2024</td>
-<td>total_Wind</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>311</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>2025</td>
-<td>total_Wind</td>
-<td>0.0</td>
-</tr>
-</tbody>
-</table>
-<p>312 rows × 5 columns</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=f2db31ce-c7b5-4ab4-bfb8-ef8c6f1643ad">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=be81d44f">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [21]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">region_long</span><span class="p">[</span><span class="s1">'SUMLEVEL'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'M01'</span>
-<span class="n">region_long</span><span class="p">[</span><span class="s1">'METRIC'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'Facilities'</span> <span class="k">if</span> <span class="n">x</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'count_'</span><span class="p">)</span> <span class="k">else</span> <span class="s1">'Capacity'</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">region_long</span><span class="p">[</span><span class="s1">'FuelType'</span><span class="p">]]</span>
-<span class="n">region_long</span><span class="p">[</span><span class="s1">'FUEL_TYPE'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">"_"</span><span class="p">)[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">region_long</span><span class="p">[</span><span class="s1">'FuelType'</span><span class="p">]]</span>
-<span class="n">region_long</span> <span class="o">=</span> <span class="n">region_long</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'value'</span><span class="p">:</span> <span class="s1">'VALUE'</span><span class="p">})</span>
-<span class="n">region_long</span><span class="p">[[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'SUMLEVEL'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'METRIC'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'VALUE'</span><span class="p">]]</span>
-<span class="n">region_long</span><span class="p">[</span><span class="s1">'VALUE'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="nb">float</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">region_long</span><span class="p">[</span><span class="s1">'VALUE'</span><span class="p">]]</span>
-<span class="n">region_long</span> <span class="o">=</span> <span class="n">region_long</span><span class="p">[[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'SUMLEVEL'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'METRIC'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'VALUE'</span><span class="p">]]</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">region</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">filt</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'GEOIDFQ_region'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME_region'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">})</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'FuelType'</span><span class="p">])</span><span class="o">.</span><span class="n">agg</span><span class="p">({</span><span class="s1">'count'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityInverter'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityGenerator'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacity_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacityTotal_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">}))</span>
+<span class="n">region</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=198baa67-6065-400c-8be3-7ae585ca8946">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=f3046307">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [22]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">county_long</span><span class="p">[</span><span class="s1">'SUMLEVEL'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'050'</span>
-<span class="n">county_long</span><span class="p">[</span><span class="s1">'METRIC'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'Facilities'</span> <span class="k">if</span> <span class="n">x</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'count_'</span><span class="p">)</span> <span class="k">else</span> <span class="s1">'Capacity'</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">county_long</span><span class="p">[</span><span class="s1">'FuelType'</span><span class="p">]]</span>
-<span class="n">county_long</span><span class="p">[</span><span class="s1">'FUEL_TYPE'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">"_"</span><span class="p">)[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">county_long</span><span class="p">[</span><span class="s1">'FuelType'</span><span class="p">]]</span>
-<span class="n">county_long</span> <span class="o">=</span> <span class="n">county_long</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'COUNTYNAME'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">,</span><span class="s1">'Year'</span><span class="p">:</span><span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'value'</span><span class="p">:</span><span class="s2">"VALUE"</span><span class="p">})</span>
-<span class="n">county_long</span><span class="p">[[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'SUMLEVEL'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'METRIC'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'VALUE'</span><span class="p">]]</span>
-<span class="n">county_long</span><span class="p">[</span><span class="s1">'VALUE'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="nb">float</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">county_long</span><span class="p">[</span><span class="s1">'VALUE'</span><span class="p">]]</span>
-<span class="n">county_long</span> <span class="o">=</span> <span class="n">county_long</span><span class="p">[[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'SUMLEVEL'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'METRIC'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'VALUE'</span><span class="p">]]</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="nb">all</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">juris</span><span class="p">,</span> <span class="n">county</span><span class="p">,</span> <span class="n">region</span><span class="p">])</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
+<span class="nb">all</span> <span class="o">=</span> <span class="nb">all</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'FuelType'</span><span class="p">:</span><span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'count'</span><span class="p">:</span><span class="s1">'Facilities'</span><span class="p">,</span> <span class="s1">'ReportedCapacityTotal_kW'</span><span class="p">:</span><span class="s1">'Capacity'</span><span class="p">})</span>
+<span class="nb">all</span> <span class="o">=</span> <span class="nb">all</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">'CapacityInverter'</span><span class="p">,</span> <span class="s1">'CapacityGenerator'</span><span class="p">,</span> <span class="s1">'ReportedCapacity_kW'</span><span class="p">])</span>
+<span class="nb">all</span> <span class="o">=</span> <span class="nb">all</span><span class="o">.</span><span class="n">melt</span><span class="p">(</span><span class="n">id_vars</span><span class="o">=</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">],</span> <span class="n">var_name</span><span class="o">=</span><span class="s1">'METRIC'</span><span class="p">,</span> <span class="n">value_name</span><span class="o">=</span><span class="s1">'VALUE'</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=2543ad83-1999-481f-b6d5-3042687e0c96">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=ff9e180d">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [23]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_long</span><span class="p">[</span><span class="s1">'SUMLEVEL'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="p">[:</span><span class="mi">3</span><span class="p">]</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">juris_long</span><span class="p">[</span><span class="s1">'GEOIDFQ'</span><span class="p">]]</span>
-<span class="n">juris_long</span><span class="p">[</span><span class="s1">'METRIC'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'Facilities'</span> <span class="k">if</span> <span class="n">x</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'count_'</span><span class="p">)</span> <span class="k">else</span> <span class="s1">'Capacity'</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">juris_long</span><span class="p">[</span><span class="s1">'FuelType'</span><span class="p">]]</span>
-<span class="n">juris_long</span><span class="p">[</span><span class="s1">'FUEL_TYPE'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">"_"</span><span class="p">)[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">juris_long</span><span class="p">[</span><span class="s1">'FuelType'</span><span class="p">]]</span>
-<span class="n">juris_long</span> <span class="o">=</span> <span class="n">juris_long</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'JURISNAME'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">,</span><span class="s1">'Year'</span><span class="p">:</span><span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'value'</span><span class="p">:</span><span class="s2">"VALUE"</span><span class="p">})</span>
-<span class="n">juris_long</span><span class="p">[[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'SUMLEVEL'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'METRIC'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'VALUE'</span><span class="p">]]</span>
-<span class="n">juris_long</span><span class="p">[</span><span class="s1">'VALUE'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="nb">float</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">juris_long</span><span class="p">[</span><span class="s1">'VALUE'</span><span class="p">]]</span>
-<span class="n">juris_long</span> <span class="o">=</span> <span class="n">juris_long</span><span class="p">[[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'SUMLEVEL'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'METRIC'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'VALUE'</span><span class="p">]]</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="nb">all</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=3f42ceec-ae8d-487a-b425-f1d56a886850">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=deab8521">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [24]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">all_long</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">region_long</span><span class="p">,</span> <span class="n">county_long</span><span class="p">,</span> <span class="n">juris_long</span><span class="p">])</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">humanreadable_table</span><span class="p">(</span><span class="n">df</span><span class="p">):</span>
+    <span class="n">df</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">pivot</span><span class="p">(</span><span class="n">index</span><span class="o">=</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'FUEL_TYPE'</span><span class="p">,</span> <span class="s1">'METRIC'</span><span class="p">],</span> <span class="n">columns</span><span class="o">=</span><span class="s1">'YEAR'</span><span class="p">)</span>
+    <span class="n">df</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">droplevel</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+    <span class="n">df</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="kc">None</span>
+    <span class="n">df</span><span class="p">[</span><span class="s1">'TOTAL'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">df</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=daf1fcae-f090-4141-adbc-1716c5d56ff2">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=e95501b5">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [25]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">all_long</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">grouped</span> <span class="o">=</span> <span class="nb">all</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'NAME'</span><span class="p">],</span> <span class="n">as_index</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[25]:</div>
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
-<div>
-<style scoped="">
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-<thead>
-<tr style="text-align: right;">
-<th></th>
-<th>NAME</th>
-<th>GEOIDFQ</th>
-<th>SUMLEVEL</th>
-<th>YEAR</th>
-<th>METRIC</th>
-<th>FUEL_TYPE</th>
-<th>VALUE</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>0</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>M01</td>
-<td>2000</td>
-<td>Facilities</td>
-<td>Biofuel</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>1</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>M01</td>
-<td>2001</td>
-<td>Facilities</td>
-<td>Biofuel</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>2</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>M01</td>
-<td>2002</td>
-<td>Facilities</td>
-<td>Biofuel</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>3</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>M01</td>
-<td>2003</td>
-<td>Facilities</td>
-<td>Biofuel</td>
-<td>0.0</td>
-</tr>
-<tr>
-<th>4</th>
-<td>15-County Region</td>
-<td>M010000US001</td>
-<td>M01</td>
-<td>2004</td>
-<td>Facilities</td>
-<td>Biofuel</td>
-<td>0.0</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=1ccaac03">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=cdb7bb3b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [30]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">all_long</span> <span class="o">=</span> <span class="n">all_long</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">all_long</span><span class="p">[</span><span class="s1">'YEAR'</span><span class="p">]</span><span class="o">&lt;=</span><span class="mi">2024</span><span class="p">]</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">grouped</span><span class="o">.</span><span class="n">get_group</span><span class="p">((</span><span class="s1">'Columbus City'</span><span class="p">,))</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=fb310285">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">humanreadable_table</span><span class="p">(</span><span class="n">grouped</span><span class="o">.</span><span class="n">get_group</span><span class="p">((</span><span class="s1">'Columbus City'</span><span class="p">,)))</span>
 </pre></div>
 </div>
 </div>
@@ -8395,21 +7908,21 @@ INFO | Pivoting to long format
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [31]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">all_long</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">'./output_data/morpc-renewenergyfacilities-der-long.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="nb">all</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">'./output_data/morpc-renewenergyfacilities-der-long.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=2eceebdc-c023-4c9f-b6c0-d2d9dfdf69a0">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=2eceebdc-c023-4c9f-b6c0-d2d9dfdf69a0">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [34]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">frictionless</span><span class="o">.</span><span class="n">Schema</span><span class="o">.</span><span class="n">describe</span><span class="p">(</span><span class="s1">'./output_data/morpc-renewenergyfacilities-der-long.csv'</span><span class="p">)</span><span class="o">.</span><span class="n">to_yaml</span><span class="p">(</span><span class="s1">'./output_data/morpc-renewenergyfacilities-der-long.schema.yaml'</span><span class="p">)</span>
@@ -8418,24 +7931,12 @@ INFO | Pivoting to long format
 </div>
 </div>
 </div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[34]:</div>
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
-<pre>'fields:\n  - name: NAME\n    type: string\n  - name: GEOIDFQ\n    type: string\n  - name: SUMLEVEL\n    type: string\n  - name: YEAR\n    type: integer\n  - name: METRIC\n    type: string\n  - name: FUEL_TYPE\n    type: string\n  - name: VALUE\n    type: number\n'</pre>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=a9a1bebe-5aed-497c-95e5-a2c9f5d4a88f">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a9a1bebe-5aed-497c-95e5-a2c9f5d4a88f">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [35]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">description</span><span class="o">=</span><span class="sa">f</span><span class="s2">"""</span><span class="se">\</span>
@@ -8452,43 +7953,6 @@ INFO | Pivoting to long format
                                    <span class="n">writeResource</span><span class="o">=</span><span class="kc">True</span>
                                   <span class="p">)</span>
 </pre></div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>morpc.frictionless.create_resource | INFO | Format not specified. Using format derived from data file extension: csv
-morpc.frictionless.create_resource | INFO | Title not specified. Using placeholder value derived from data filename: morpc-renewenergyfacilities-der-long
-morpc.frictionless.create_resource | INFO | Name not specified. Using placeholder value derived from data filename: morpc-renewenergyfacilities-der-long
-morpc.frictionless.create_resource | INFO | Writing Frictionless Resource file to output_data\morpc-renewenergyfacilities-der-long.resource.yaml
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[35]:</div>
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
-<pre>{'name': 'morpc-renewenergyfacilities-der-long',
- 'type': 'table',
- 'title': 'morpc-renewenergyfacilities-der-long',
- 'description': 'A long for table containing renewable energy facilities that '
-                'were approved by PUCO . See '
-                'https://puco.ohio.gov/utilities/electricity/resources/distributed-energy-generating-your-own-electricity '
-                'Data pulled 2025-08-13 10:30:26.811778 from '
-                'https://maps.puco.ohio.gov/arcgis/rest/services/electric/Distributed_Energy_Resources/MapServer/0 ',
- 'profile': 'data-resource',
- 'path': 'morpc-renewenergyfacilities-der-long.csv',
- 'scheme': 'file',
- 'format': 'csv',
- 'mediatype': 'text/csv',
- 'hash': '38320d66c4a077844316ced3669f9eac',
- 'bytes': 6846618,
- 'schema': 'morpc-renewenergyfacilities-der-long.schema.yaml'}</pre>
 </div>
 </div>
 </div>
