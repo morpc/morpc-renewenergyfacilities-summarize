@@ -7526,7 +7526,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [30]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
@@ -7556,10 +7556,10 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [31]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">data</span><span class="p">,</span> <span class="n">resource</span><span class="p">,</span> <span class="n">schema</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">frictionless</span><span class="o">.</span><span class="n">load_data</span><span class="p">(</span><span class="s1">'../morpc-renewenergyfacilities-standardize/output_data/distributed_energy_resources.resource.yaml'</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">data</span><span class="p">,</span> <span class="n">resource</span><span class="p">,</span> <span class="n">schema</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">frictionless</span><span class="o">.</span><span class="n">load_data</span><span class="p">(</span><span class="s1">'../morpc-renewenergyfacilities-standardize/output_data/distributed_energy_resources.resource.yaml'</span><span class="p">,</span> <span class="n">validate</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
@@ -7570,7 +7570,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [32]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">der_data</span> <span class="o">=</span> <span class="n">gpd</span><span class="o">.</span><span class="n">GeoDataFrame</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="o">.</span><span class="n">set_crs</span><span class="p">(</span><span class="s1">'EPSG:3735'</span><span class="p">)</span>
@@ -7579,16 +7579,39 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=489278ff-f73b-4946-b537-56f509e2bf9b">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=489278ff-f73b-4946-b537-56f509e2bf9b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [33]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-geos-collect/output_data/morpc-geos.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'JURIS'</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-censustiger-standardize/output_data/morpc-standardgeos-census-2024.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'JURIS'</span><span class="p">)</span>
 </pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>morpc.load_spatial_data | INFO | Loading spatial data from location: ../morpc-censustiger-standardize/output_data/morpc-standardgeos-census-2024.gpkg
+morpc.load_spatial_data | INFO | Driver name is unspecified.  Will attempt to infer driver from file extension in source path.
+morpc.load_spatial_data | INFO | Selecting driver GPKG based on file extension .gpkg
+morpc.load_spatial_data | INFO | Reading spatial data...
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>/home/user/Documents/Work/Repo/morpc_venv/lib/python3.12/site-packages/pyogrio/raw.py:198: RuntimeWarning: driver GPKG does not support open option DRIVER
+</pre>
 </div>
 </div>
 </div>
@@ -7598,7 +7621,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [34]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">juris_geos</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="sa">f</span><span class="s2">"</span><span class="si">{</span><span class="n">x</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">y</span><span class="si">}</span><span class="s2">"</span> <span class="k">for</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">juris_geos</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">],</span> <span class="n">juris_geos</span><span class="p">[</span><span class="s1">'MUNITYPE'</span><span class="p">])]</span>
@@ -7607,16 +7630,39 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=60ccad18-c8ec-4f53-af55-4038c8c62a6b">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=60ccad18-c8ec-4f53-af55-4038c8c62a6b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [35]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-geos-collect/output_data/morpc-geos.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'COUNTY'</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-censustiger-standardize/output_data/morpc-standardgeos-census-2024.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'COUNTY'</span><span class="p">)</span>
 </pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>morpc.load_spatial_data | INFO | Loading spatial data from location: ../morpc-censustiger-standardize/output_data/morpc-standardgeos-census-2024.gpkg
+morpc.load_spatial_data | INFO | Driver name is unspecified.  Will attempt to infer driver from file extension in source path.
+morpc.load_spatial_data | INFO | Selecting driver GPKG based on file extension .gpkg
+morpc.load_spatial_data | INFO | Reading spatial data...
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>/home/user/Documents/Work/Repo/morpc_venv/lib/python3.12/site-packages/pyogrio/raw.py:198: RuntimeWarning: driver GPKG does not support open option DRIVER
+</pre>
 </div>
 </div>
 </div>
@@ -7626,7 +7672,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [36]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYFP'</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="sa">f</span><span class="s1">'39</span><span class="si">{</span><span class="n">x</span><span class="si">}</span><span class="s1">'</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYFP'</span><span class="p">]]</span>
@@ -7640,7 +7686,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [37]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">county_geos</span><span class="p">[</span><span class="s1">'NAME'</span><span class="p">]</span> <span class="o">=</span> <span class="n">county_geos</span><span class="p">[</span><span class="s1">'COUNTYFP'</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">morpc</span><span class="o">.</span><span class="n">CONST_COUNTY_ID_TO_NAME</span><span class="p">)</span>
@@ -7649,16 +7695,39 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=1ea790c9-ba50-4af3-87b2-fd5ad4c5c38b">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=1ea790c9-ba50-4af3-87b2-fd5ad4c5c38b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [38]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">region_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-geos-collect/output_data/morpc-geos.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'REGION15'</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">region_geos</span> <span class="o">=</span> <span class="n">morpc</span><span class="o">.</span><span class="n">load_spatial_data</span><span class="p">(</span><span class="s1">'../morpc-censustiger-standardize/output_data/morpc-standardgeos-census-2024.gpkg'</span><span class="p">,</span> <span class="n">layerName</span><span class="o">=</span><span class="s1">'REGION15'</span><span class="p">)</span>
 </pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>morpc.load_spatial_data | INFO | Loading spatial data from location: ../morpc-censustiger-standardize/output_data/morpc-standardgeos-census-2024.gpkg
+morpc.load_spatial_data | INFO | Driver name is unspecified.  Will attempt to infer driver from file extension in source path.
+morpc.load_spatial_data | INFO | Selecting driver GPKG based on file extension .gpkg
+morpc.load_spatial_data | INFO | Reading spatial data...
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>/home/user/Documents/Work/Repo/morpc_venv/lib/python3.12/site-packages/pyogrio/raw.py:198: RuntimeWarning: driver GPKG does not support open option DRIVER
+</pre>
 </div>
 </div>
 </div>
@@ -7668,7 +7737,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [39]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">joined</span> <span class="o">=</span> <span class="n">der_data</span><span class="o">.</span><span class="n">sjoin</span><span class="p">(</span><span class="n">juris_geos</span><span class="p">[[</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'geometry'</span><span class="p">]],</span> <span class="n">predicate</span><span class="o">=</span><span class="s1">'within'</span><span class="p">)</span>
@@ -7681,16 +7750,35 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=b51c07fc">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=b51c07fc">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [40]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">joined</span><span class="o">.</span><span class="n">columns</span>
 </pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[40]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>Index(['geometry', 'DistGenId', 'OriginalDistGenID', 'EDU', 'Address', 'City',
+       'State', 'PostalCode', 'FuelType', 'GenType', 'AgreementDate',
+       'OwnedBy', 'DispatchedBy', 'CustClass', 'Lat', 'Long',
+       'CapacityInverter', 'CapacityGenerator', 'ReportedCapacity_kW',
+       'ReportedCapacityTotal_kW', 'FacilityStatus', 'Duplicate', 'Note',
+       'DashboardFuelType', 'YEAR', 'GEOIDFQ_juris', 'NAME_juris',
+       'GEOIDFQ_county', 'NAME_county', 'GEOIDFQ_region', 'NAME_region'],
+      dtype='object')</pre>
 </div>
 </div>
 </div>
@@ -7700,22 +7788,22 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [42]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">years</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1997</span><span class="p">,</span> <span class="mi">2025</span><span class="p">)]</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">years</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1997</span><span class="p">,</span> <span class="mi">2025</span><span class="o">+</span><span class="mi">1</span><span class="p">)]</span>
 <span class="n">filt</span> <span class="o">=</span> <span class="n">joined</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">joined</span><span class="p">[</span><span class="s1">'YEAR'</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">years</span><span class="p">)]</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=cca07321">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=cca07321">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [43]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="p">[</span><span class="s1">'Duplicate'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
@@ -7724,16 +7812,44 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=4873b630">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[43]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>Duplicate
+Original Interconnection    10834
+Name: count, dtype: Int64</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=4873b630">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [44]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="p">[</span><span class="s1">'FacilityStatus'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
 </pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[44]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>FacilityStatus
+Active    10834
+Name: count, dtype: Int64</pre>
 </div>
 </div>
 </div>
@@ -7743,7 +7859,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [45]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="p">[</span><span class="s1">'count'</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>
@@ -7752,12 +7868,12 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a45b9f6e">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=a45b9f6e">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [46]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">filt</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">'FuelType'</span><span class="p">)[</span><span class="s1">'GenType'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
@@ -7766,12 +7882,33 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=75ceb835">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[46]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>FuelType             GenType             
+Biofuel              Turbine                     1
+Energy Storage       Batteries                 234
+                     Battery                     5
+Natural Gas/Propane  Turbine                     3
+                     Reciprocating Engine        1
+Solar                Photovoltaic            10566
+Waste Gas            Turbine                     1
+Wind                 Turbine                    23
+Name: count, dtype: int64</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=75ceb835">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [47]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">juris</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">filt</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'GEOIDFQ_juris'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME_juris'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">})</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'FuelType'</span><span class="p">])</span><span class="o">.</span><span class="n">agg</span><span class="p">({</span><span class="s1">'count'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityInverter'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityGenerator'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacity_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacityTotal_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">}))</span>
@@ -7781,12 +7918,182 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=07dd4ef6">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>/tmp/ipykernel_1230840/3548527901.py:1: FutureWarning: The provided callable &lt;built-in function sum&gt; is currently using SeriesGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+/tmp/ipykernel_1230840/3548527901.py:1: FutureWarning: The provided callable &lt;built-in function sum&gt; is currently using SeriesGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[47]:</div>
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>count</th>
+<th>CapacityInverter</th>
+<th>CapacityGenerator</th>
+<th>ReportedCapacity_kW</th>
+<th>ReportedCapacityTotal_kW</th>
+</tr>
+<tr>
+<th>GEOIDFQ</th>
+<th>NAME</th>
+<th>YEAR</th>
+<th>FuelType</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>M100000US3902582</th>
+<th>Ashley Village</th>
+<th>2022</th>
+<th>Solar</th>
+<td>1</td>
+<td>6.960</td>
+<td>9.120</td>
+<td>6.960</td>
+<td>6.960</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">M100000US3903604</th>
+<th rowspan="2" valign="top">Bainbridge Village</th>
+<th>2021</th>
+<th>Solar</th>
+<td>1</td>
+<td>7.600</td>
+<td>8.020</td>
+<td>7.600</td>
+<td>7.600</td>
+</tr>
+<tr>
+<th>2023</th>
+<th>Solar</th>
+<td>1</td>
+<td>12.760</td>
+<td>16.060</td>
+<td>12.760</td>
+<td>12.760</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">M100000US3903758</th>
+<th rowspan="2" valign="top">Baltimore Village</th>
+<th>2017</th>
+<th>Solar</th>
+<td>1</td>
+<td>40.000</td>
+<td>53.100</td>
+<td>40.000</td>
+<td>40.000</td>
+</tr>
+<tr>
+<th>2019</th>
+<th>Solar</th>
+<td>1</td>
+<td>10.400</td>
+<td>11.300</td>
+<td>10.400</td>
+<td>10.400</td>
+</tr>
+<tr>
+<th>...</th>
+<th>...</th>
+<th>...</th>
+<th>...</th>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<th rowspan="5" valign="top">M100000US3986604</th>
+<th rowspan="5" valign="top">Worthington City</th>
+<th rowspan="2" valign="top">2023</th>
+<th>Energy Storage</th>
+<td>1</td>
+<td>3.840</td>
+<td>0.000</td>
+<td>3.840</td>
+<td>3.840</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>15</td>
+<td>333.340</td>
+<td>414.250</td>
+<td>333.340</td>
+<td>333.340</td>
+</tr>
+<tr>
+<th>2024</th>
+<th>Solar</th>
+<td>7</td>
+<td>61.982</td>
+<td>83.637</td>
+<td>61.982</td>
+<td>61.982</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2025</th>
+<th>Energy Storage</th>
+<td>1</td>
+<td>7.680</td>
+<td>0.000</td>
+<td>7.680</td>
+<td>7.680</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>14</td>
+<td>116.064</td>
+<td>148.574</td>
+<td>116.064</td>
+<td>116.064</td>
+</tr>
+</tbody>
+</table>
+<p>1747 rows × 5 columns</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=07dd4ef6">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [48]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">county</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">filt</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'GEOIDFQ_county'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME_county'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">})</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'FuelType'</span><span class="p">])</span><span class="o">.</span><span class="n">agg</span><span class="p">({</span><span class="s1">'count'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityInverter'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityGenerator'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacity_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacityTotal_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">}))</span>
@@ -7796,12 +8103,178 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=be81d44f">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>/tmp/ipykernel_1230840/3310116675.py:1: FutureWarning: The provided callable &lt;built-in function sum&gt; is currently using SeriesGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+/tmp/ipykernel_1230840/3310116675.py:1: FutureWarning: The provided callable &lt;built-in function sum&gt; is currently using SeriesGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[48]:</div>
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>count</th>
+<th>CapacityInverter</th>
+<th>CapacityGenerator</th>
+<th>ReportedCapacity_kW</th>
+<th>ReportedCapacityTotal_kW</th>
+</tr>
+<tr>
+<th>GEOIDFQ</th>
+<th>NAME</th>
+<th>YEAR</th>
+<th>FuelType</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th rowspan="5" valign="top">0500000US39041</th>
+<th rowspan="5" valign="top">Delaware</th>
+<th>2004</th>
+<th>Wind</th>
+<td>1</td>
+<td>4.000</td>
+<td>1.000</td>
+<td>1.000</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>2006</th>
+<th>Solar</th>
+<td>2</td>
+<td>7.200</td>
+<td>6.720</td>
+<td>6.720</td>
+<td>6.720</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2009</th>
+<th>Solar</th>
+<td>2</td>
+<td>19.000</td>
+<td>14.850</td>
+<td>14.850</td>
+<td>14.850</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>1</td>
+<td>0.000</td>
+<td>10.000</td>
+<td>10.000</td>
+<td>10.000</td>
+</tr>
+<tr>
+<th>2010</th>
+<th>Solar</th>
+<td>1</td>
+<td>10.000</td>
+<td>10.100</td>
+<td>10.000</td>
+<td>10.000</td>
+</tr>
+<tr>
+<th>...</th>
+<th>...</th>
+<th>...</th>
+<th>...</th>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<th rowspan="5" valign="top">0500000US39159</th>
+<th rowspan="5" valign="top">Union</th>
+<th>2022</th>
+<th>Solar</th>
+<td>28</td>
+<td>237.014</td>
+<td>270.824</td>
+<td>235.114</td>
+<td>245.164</td>
+</tr>
+<tr>
+<th>2023</th>
+<th>Solar</th>
+<td>37</td>
+<td>292.030</td>
+<td>334.105</td>
+<td>283.220</td>
+<td>283.220</td>
+</tr>
+<tr>
+<th>2024</th>
+<th>Solar</th>
+<td>30</td>
+<td>214.484</td>
+<td>265.775</td>
+<td>216.705</td>
+<td>216.705</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2025</th>
+<th>Energy Storage</th>
+<td>3</td>
+<td>19.180</td>
+<td>0.000</td>
+<td>19.180</td>
+<td>19.180</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>36</td>
+<td>281.700</td>
+<td>336.340</td>
+<td>276.300</td>
+<td>276.300</td>
+</tr>
+</tbody>
+</table>
+<p>289 rows × 5 columns</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=be81d44f">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [49]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">region</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">filt</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="s1">'GEOIDFQ_region'</span><span class="p">:</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME_region'</span><span class="p">:</span><span class="s1">'NAME'</span><span class="p">})</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'GEOIDFQ'</span><span class="p">,</span> <span class="s1">'NAME'</span><span class="p">,</span> <span class="s1">'YEAR'</span><span class="p">,</span> <span class="s1">'FuelType'</span><span class="p">])</span><span class="o">.</span><span class="n">agg</span><span class="p">({</span><span class="s1">'count'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityInverter'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'CapacityGenerator'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacity_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">,</span> <span class="s1">'ReportedCapacityTotal_kW'</span><span class="p">:</span> <span class="nb">sum</span><span class="p">}))</span>
@@ -7811,12 +8284,468 @@ a.anchor-link {
 </div>
 </div>
 </div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
+<pre>/tmp/ipykernel_1230840/2497173052.py:1: FutureWarning: The provided callable &lt;built-in function sum&gt; is currently using SeriesGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+/tmp/ipykernel_1230840/2497173052.py:1: FutureWarning: The provided callable &lt;built-in function sum&gt; is currently using SeriesGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[49]:</div>
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>count</th>
+<th>CapacityInverter</th>
+<th>CapacityGenerator</th>
+<th>ReportedCapacity_kW</th>
+<th>ReportedCapacityTotal_kW</th>
+</tr>
+<tr>
+<th>GEOIDFQ</th>
+<th>NAME</th>
+<th>YEAR</th>
+<th>FuelType</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th rowspan="46" valign="top">M010000US001</th>
+<th rowspan="46" valign="top">15-County Region</th>
+<th>2000</th>
+<th>Wind</th>
+<td>1</td>
+<td>10.000</td>
+<td>10.000</td>
+<td>10.000</td>
+<td>10.000</td>
+</tr>
+<tr>
+<th>2001</th>
+<th>Wind</th>
+<td>1</td>
+<td>18.000</td>
+<td>18.000</td>
+<td>18.000</td>
+<td>18.000</td>
+</tr>
+<tr>
+<th>2004</th>
+<th>Wind</th>
+<td>1</td>
+<td>4.000</td>
+<td>1.000</td>
+<td>1.000</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2005</th>
+<th>Solar</th>
+<td>1</td>
+<td>2.000</td>
+<td>1.650</td>
+<td>1.650</td>
+<td>1.650</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>2</td>
+<td>8.600</td>
+<td>8.000</td>
+<td>8.000</td>
+<td>8.000</td>
+</tr>
+<tr>
+<th>2006</th>
+<th>Solar</th>
+<td>5</td>
+<td>15.800</td>
+<td>13.860</td>
+<td>13.860</td>
+<td>13.860</td>
+</tr>
+<tr>
+<th>2007</th>
+<th>Solar</th>
+<td>4</td>
+<td>25.300</td>
+<td>26.070</td>
+<td>25.050</td>
+<td>32.650</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2008</th>
+<th>Solar</th>
+<td>3</td>
+<td>70.000</td>
+<td>71.300</td>
+<td>69.300</td>
+<td>69.300</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>1</td>
+<td>1.800</td>
+<td>0.000</td>
+<td>1.800</td>
+<td>1.800</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2009</th>
+<th>Solar</th>
+<td>15</td>
+<td>101.100</td>
+<td>79.700</td>
+<td>77.400</td>
+<td>77.400</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>4</td>
+<td>4.800</td>
+<td>45.400</td>
+<td>47.800</td>
+<td>47.800</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2010</th>
+<th>Solar</th>
+<td>32</td>
+<td>456.840</td>
+<td>453.490</td>
+<td>445.490</td>
+<td>518.310</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>9</td>
+<td>151.800</td>
+<td>135.800</td>
+<td>161.800</td>
+<td>161.800</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2011</th>
+<th>Solar</th>
+<td>57</td>
+<td>1318.010</td>
+<td>1240.485</td>
+<td>1313.165</td>
+<td>1817.347</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>1</td>
+<td>3.700</td>
+<td>2.400</td>
+<td>2.400</td>
+<td>2.400</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2012</th>
+<th>Solar</th>
+<td>49</td>
+<td>6955.430</td>
+<td>4981.990</td>
+<td>6853.460</td>
+<td>6857.230</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>1</td>
+<td>3.000</td>
+<td>1.500</td>
+<td>1.500</td>
+<td>1.500</td>
+</tr>
+<tr>
+<th rowspan="4" valign="top">2013</th>
+<th>Biofuel</th>
+<td>1</td>
+<td>0.000</td>
+<td>400.000</td>
+<td>400.000</td>
+<td>400.000</td>
+</tr>
+<tr>
+<th>Energy Storage</th>
+<td>1</td>
+<td>4000.000</td>
+<td>4000.000</td>
+<td>4000.000</td>
+<td>4000.000</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>75</td>
+<td>1686.160</td>
+<td>1630.077</td>
+<td>1650.355</td>
+<td>1650.355</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>1</td>
+<td>36.000</td>
+<td>30.000</td>
+<td>30.000</td>
+<td>30.000</td>
+</tr>
+<tr>
+<th>2014</th>
+<th>Solar</th>
+<td>59</td>
+<td>2247.600</td>
+<td>1980.680</td>
+<td>2244.240</td>
+<td>2255.857</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2015</th>
+<th>Natural Gas/Propane</th>
+<td>1</td>
+<td>0.000</td>
+<td>248.000</td>
+<td>248.000</td>
+<td>248.000</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>106</td>
+<td>1423.500</td>
+<td>1544.655</td>
+<td>1399.480</td>
+<td>1468.115</td>
+</tr>
+<tr>
+<th>2016</th>
+<th>Solar</th>
+<td>118</td>
+<td>1384.700</td>
+<td>1421.976</td>
+<td>1373.165</td>
+<td>1664.465</td>
+</tr>
+<tr>
+<th rowspan="3" valign="top">2017</th>
+<th>Energy Storage</th>
+<td>1</td>
+<td>100.000</td>
+<td>100.000</td>
+<td>100.000</td>
+<td>100.000</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>171</td>
+<td>4948.250</td>
+<td>6054.190</td>
+<td>4905.780</td>
+<td>5091.620</td>
+</tr>
+<tr>
+<th>Waste Gas</th>
+<td>1</td>
+<td>3500.000</td>
+<td>0.000</td>
+<td>3500.000</td>
+<td>3500.000</td>
+</tr>
+<tr>
+<th rowspan="3" valign="top">2018</th>
+<th>Natural Gas/Propane</th>
+<td>1</td>
+<td>0.000</td>
+<td>15036.000</td>
+<td>15036.000</td>
+<td>15036.000</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>240</td>
+<td>2568.000</td>
+<td>2527.305</td>
+<td>2517.110</td>
+<td>2578.925</td>
+</tr>
+<tr>
+<th>Wind</th>
+<td>1</td>
+<td>4500.000</td>
+<td>0.000</td>
+<td>4500.000</td>
+<td>4500.000</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2019</th>
+<th>Energy Storage</th>
+<td>1</td>
+<td>250.000</td>
+<td>250.000</td>
+<td>250.000</td>
+<td>250.000</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>553</td>
+<td>6779.820</td>
+<td>6722.515</td>
+<td>6601.360</td>
+<td>15198.510</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2020</th>
+<th>Energy Storage</th>
+<td>6</td>
+<td>575.000</td>
+<td>25.000</td>
+<td>600.000</td>
+<td>600.000</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>682</td>
+<td>13733.240</td>
+<td>5802.075</td>
+<td>4921.960</td>
+<td>5002.375</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2021</th>
+<th>Energy Storage</th>
+<td>11</td>
+<td>0.000</td>
+<td>78.280</td>
+<td>78.280</td>
+<td>78.280</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>1089</td>
+<td>8681.937</td>
+<td>10374.443</td>
+<td>8505.862</td>
+<td>8620.972</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2022</th>
+<th>Energy Storage</th>
+<td>31</td>
+<td>12.680</td>
+<td>120.080</td>
+<td>132.760</td>
+<td>142.760</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>1419</td>
+<td>10508.050</td>
+<td>13126.429</td>
+<td>10403.820</td>
+<td>10548.826</td>
+</tr>
+<tr>
+<th rowspan="3" valign="top">2023</th>
+<th>Energy Storage</th>
+<td>79</td>
+<td>438.670</td>
+<td>0.000</td>
+<td>438.670</td>
+<td>438.670</td>
+</tr>
+<tr>
+<th>Natural Gas/Propane</th>
+<td>2</td>
+<td>1180.000</td>
+<td>4804.000</td>
+<td>4804.000</td>
+<td>4804.000</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>1991</td>
+<td>23803.931</td>
+<td>29461.863</td>
+<td>23776.842</td>
+<td>23851.512</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2024</th>
+<th>Energy Storage</th>
+<td>33</td>
+<td>1653.740</td>
+<td>0.000</td>
+<td>1653.740</td>
+<td>1668.740</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>2127</td>
+<td>20799.795</td>
+<td>26427.702</td>
+<td>20774.076</td>
+<td>21017.826</td>
+</tr>
+<tr>
+<th rowspan="2" valign="top">2025</th>
+<th>Energy Storage</th>
+<td>76</td>
+<td>489.460</td>
+<td>21.060</td>
+<td>489.460</td>
+<td>489.460</td>
+</tr>
+<tr>
+<th>Solar</th>
+<td>1770</td>
+<td>15743.321</td>
+<td>19589.207</td>
+<td>15724.456</td>
+<td>15734.406</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=f3046307">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [50]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">all</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">juris</span><span class="p">,</span> <span class="n">county</span><span class="p">,</span> <span class="n">region</span><span class="p">])</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
@@ -7828,16 +8757,157 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=ff9e180d">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=ff9e180d">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [51]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">all</span>
 </pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[51]:</div>
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>NAME</th>
+<th>GEOIDFQ</th>
+<th>YEAR</th>
+<th>FUEL_TYPE</th>
+<th>METRIC</th>
+<th>VALUE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>0</th>
+<td>Ashley Village</td>
+<td>M100000US3902582</td>
+<td>2022</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>1</th>
+<td>Bainbridge Village</td>
+<td>M100000US3903604</td>
+<td>2021</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Bainbridge Village</td>
+<td>M100000US3903604</td>
+<td>2023</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Baltimore Village</td>
+<td>M100000US3903758</td>
+<td>2017</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Baltimore Village</td>
+<td>M100000US3903758</td>
+<td>2019</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>...</th>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<th>4159</th>
+<td>15-County Region</td>
+<td>M010000US001</td>
+<td>2023</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>23851.512</td>
+</tr>
+<tr>
+<th>4160</th>
+<td>15-County Region</td>
+<td>M010000US001</td>
+<td>2024</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>1668.740</td>
+</tr>
+<tr>
+<th>4161</th>
+<td>15-County Region</td>
+<td>M010000US001</td>
+<td>2024</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>21017.826</td>
+</tr>
+<tr>
+<th>4162</th>
+<td>15-County Region</td>
+<td>M010000US001</td>
+<td>2025</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>489.460</td>
+</tr>
+<tr>
+<th>4163</th>
+<td>15-County Region</td>
+<td>M010000US001</td>
+<td>2025</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>15734.406</td>
+</tr>
+</tbody>
+</table>
+<p>4164 rows × 6 columns</p>
+</div>
 </div>
 </div>
 </div>
@@ -7847,7 +8917,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [52]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">humanreadable_table</span><span class="p">(</span><span class="n">df</span><span class="p">):</span>
@@ -7866,7 +8936,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [53]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">grouped</span> <span class="o">=</span> <span class="nb">all</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">'NAME'</span><span class="p">],</span> <span class="n">as_index</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
@@ -7875,12 +8945,12 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=cdb7bb3b">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=cdb7bb3b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [54]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">grouped</span><span class="o">.</span><span class="n">get_group</span><span class="p">((</span><span class="s1">'Columbus City'</span><span class="p">,))</span>
@@ -7889,16 +8959,744 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=fb310285">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[54]:</div>
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>NAME</th>
+<th>GEOIDFQ</th>
+<th>YEAR</th>
+<th>FUEL_TYPE</th>
+<th>METRIC</th>
+<th>VALUE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>1187</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2006</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>1188</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2009</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>2.000</td>
+</tr>
+<tr>
+<th>1189</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2010</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>9.000</td>
+</tr>
+<tr>
+<th>1190</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2010</td>
+<td>Wind</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>1191</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2011</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>19.000</td>
+</tr>
+<tr>
+<th>1192</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2012</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>8.000</td>
+</tr>
+<tr>
+<th>1193</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2013</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>30.000</td>
+</tr>
+<tr>
+<th>1194</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2014</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>11.000</td>
+</tr>
+<tr>
+<th>1195</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2015</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>34.000</td>
+</tr>
+<tr>
+<th>1196</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2016</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>29.000</td>
+</tr>
+<tr>
+<th>1197</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2017</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>1198</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2017</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>57.000</td>
+</tr>
+<tr>
+<th>1199</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2018</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>64.000</td>
+</tr>
+<tr>
+<th>1200</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2019</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>1201</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2019</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>148.000</td>
+</tr>
+<tr>
+<th>1202</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2020</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>1.000</td>
+</tr>
+<tr>
+<th>1203</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2020</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>231.000</td>
+</tr>
+<tr>
+<th>1204</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2021</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>4.000</td>
+</tr>
+<tr>
+<th>1205</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2021</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>423.000</td>
+</tr>
+<tr>
+<th>1206</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2022</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>2.000</td>
+</tr>
+<tr>
+<th>1207</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2022</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>587.000</td>
+</tr>
+<tr>
+<th>1208</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2023</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>33.000</td>
+</tr>
+<tr>
+<th>1209</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2023</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>849.000</td>
+</tr>
+<tr>
+<th>1210</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2024</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>8.000</td>
+</tr>
+<tr>
+<th>1211</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2024</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>949.000</td>
+</tr>
+<tr>
+<th>1212</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2025</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>31.000</td>
+</tr>
+<tr>
+<th>1213</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2025</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>638.000</td>
+</tr>
+<tr>
+<th>3269</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2006</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>2.100</td>
+</tr>
+<tr>
+<th>3270</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2009</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>4.900</td>
+</tr>
+<tr>
+<th>3271</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2010</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>252.350</td>
+</tr>
+<tr>
+<th>3272</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2010</td>
+<td>Wind</td>
+<td>Capacity</td>
+<td>100.000</td>
+</tr>
+<tr>
+<th>3273</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2011</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>910.320</td>
+</tr>
+<tr>
+<th>3274</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2012</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>112.000</td>
+</tr>
+<tr>
+<th>3275</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2013</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>1064.800</td>
+</tr>
+<tr>
+<th>3276</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2014</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>564.567</td>
+</tr>
+<tr>
+<th>3277</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2015</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>330.150</td>
+</tr>
+<tr>
+<th>3278</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2016</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>791.385</td>
+</tr>
+<tr>
+<th>3279</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2017</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>100.000</td>
+</tr>
+<tr>
+<th>3280</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2017</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>1390.430</td>
+</tr>
+<tr>
+<th>3281</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2018</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>873.640</td>
+</tr>
+<tr>
+<th>3282</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2019</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>250.000</td>
+</tr>
+<tr>
+<th>3283</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2019</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>12037.760</td>
+</tr>
+<tr>
+<th>3284</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2020</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>5.000</td>
+</tr>
+<tr>
+<th>3285</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2020</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>1369.805</td>
+</tr>
+<tr>
+<th>3286</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2021</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>20.360</td>
+</tr>
+<tr>
+<th>3287</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2021</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>3052.730</td>
+</tr>
+<tr>
+<th>3288</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2022</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>18.840</td>
+</tr>
+<tr>
+<th>3289</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2022</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>3869.830</td>
+</tr>
+<tr>
+<th>3290</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2023</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>156.460</td>
+</tr>
+<tr>
+<th>3291</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2023</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>11056.718</td>
+</tr>
+<tr>
+<th>3292</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2024</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>43.400</td>
+</tr>
+<tr>
+<th>3293</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2024</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>7887.057</td>
+</tr>
+<tr>
+<th>3294</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2025</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>151.080</td>
+</tr>
+<tr>
+<th>3295</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>2025</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>4913.177</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=fb310285">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [55]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">humanreadable_table</span><span class="p">(</span><span class="n">grouped</span><span class="o">.</span><span class="n">get_group</span><span class="p">((</span><span class="s1">'Columbus City'</span><span class="p">,)))</span>
 </pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[55]:</div>
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>NAME</th>
+<th>GEOIDFQ</th>
+<th>FUEL_TYPE</th>
+<th>METRIC</th>
+<th>2006</th>
+<th>2009</th>
+<th>2010</th>
+<th>2011</th>
+<th>2012</th>
+<th>2013</th>
+<th>...</th>
+<th>2017</th>
+<th>2018</th>
+<th>2019</th>
+<th>2020</th>
+<th>2021</th>
+<th>2022</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>TOTAL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>0</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>Energy Storage</td>
+<td>Capacity</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>...</td>
+<td>100.00</td>
+<td>NaN</td>
+<td>250.00</td>
+<td>5.000</td>
+<td>20.36</td>
+<td>18.84</td>
+<td>156.460</td>
+<td>43.400</td>
+<td>151.080</td>
+<td>745.140</td>
+</tr>
+<tr>
+<th>1</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>Energy Storage</td>
+<td>Facilities</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>...</td>
+<td>1.00</td>
+<td>NaN</td>
+<td>1.00</td>
+<td>1.000</td>
+<td>4.00</td>
+<td>2.00</td>
+<td>33.000</td>
+<td>8.000</td>
+<td>31.000</td>
+<td>81.000</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>Solar</td>
+<td>Capacity</td>
+<td>2.1</td>
+<td>4.9</td>
+<td>252.35</td>
+<td>910.32</td>
+<td>112.0</td>
+<td>1064.8</td>
+<td>...</td>
+<td>1390.43</td>
+<td>873.64</td>
+<td>12037.76</td>
+<td>1369.805</td>
+<td>3052.73</td>
+<td>3869.83</td>
+<td>11056.718</td>
+<td>7887.057</td>
+<td>4913.177</td>
+<td>50483.719</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>Solar</td>
+<td>Facilities</td>
+<td>1.0</td>
+<td>2.0</td>
+<td>9.00</td>
+<td>19.00</td>
+<td>8.0</td>
+<td>30.0</td>
+<td>...</td>
+<td>57.00</td>
+<td>64.00</td>
+<td>148.00</td>
+<td>231.000</td>
+<td>423.00</td>
+<td>587.00</td>
+<td>849.000</td>
+<td>949.000</td>
+<td>638.000</td>
+<td>4089.000</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>Wind</td>
+<td>Capacity</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>100.00</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>100.000</td>
+</tr>
+<tr>
+<th>5</th>
+<td>Columbus City</td>
+<td>M100000US3918000</td>
+<td>Wind</td>
+<td>Facilities</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>1.00</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>...</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>1.000</td>
+</tr>
+</tbody>
+</table>
+<p>6 rows × 23 columns</p>
+</div>
 </div>
 </div>
 </div>
@@ -7908,7 +9706,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [56]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">all</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">'./output_data/morpc-renewenergyfacilities-der-long.csv'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
@@ -7917,12 +9715,12 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=2eceebdc-c023-4c9f-b6c0-d2d9dfdf69a0">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=2eceebdc-c023-4c9f-b6c0-d2d9dfdf69a0">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [57]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">frictionless</span><span class="o">.</span><span class="n">Schema</span><span class="o">.</span><span class="n">describe</span><span class="p">(</span><span class="s1">'./output_data/morpc-renewenergyfacilities-der-long.csv'</span><span class="p">)</span><span class="o">.</span><span class="n">to_yaml</span><span class="p">(</span><span class="s1">'./output_data/morpc-renewenergyfacilities-der-long.schema.yaml'</span><span class="p">)</span>
@@ -7931,12 +9729,24 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a9a1bebe-5aed-497c-95e5-a2c9f5d4a88f">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[57]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>'fields:\n  - name: NAME\n    type: string\n  - name: GEOIDFQ\n    type: string\n  - name: YEAR\n    type: integer\n  - name: FUEL_TYPE\n    type: string\n  - name: METRIC\n    type: string\n  - name: VALUE\n    type: number\n'</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=a9a1bebe-5aed-497c-95e5-a2c9f5d4a88f">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [58]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">description</span><span class="o">=</span><span class="sa">f</span><span class="s2">"""</span><span class="se">\</span>
@@ -7957,7 +9767,34 @@ a.anchor-link {
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=1edf4244-7ae2-4b49-a6e3-c45fec13f9af">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[58]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>{'name': 'morpc-renewenergyfacilities-der-long',
+ 'type': 'table',
+ 'title': 'morpc-renewenergyfacilities-der-long',
+ 'description': 'A long for table containing renewable energy facilities that '
+                'were approved by PUCO . See '
+                'https://puco.ohio.gov/utilities/electricity/resources/distributed-energy-generating-your-own-electricity '
+                'Data pulled 2026-03-16 14:14:42.343081 from '
+                'https://maps.puco.ohio.gov/arcgis/rest/services/electric/Distributed_Energy_Resources/MapServer/0 ',
+ 'profile': 'data-resource',
+ 'path': 'morpc-renewenergyfacilities-der-long.csv',
+ 'scheme': 'file',
+ 'format': 'csv',
+ 'mediatype': 'text/csv',
+ 'hash': 'b53fbd8de2f385c7e115140987afb6b8',
+ 'bytes': 268355,
+ 'schema': 'morpc-renewenergyfacilities-der-long.schema.yaml'}</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=5a3de6e1">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
